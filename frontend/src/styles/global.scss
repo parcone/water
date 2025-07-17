@@ -8,487 +8,212 @@
   box-sizing: border-box;
 }
 
-html {
-  font-size: 14px;
-  line-height: 1.5;
-  
-  @media (max-width: $screen-sm) {
-    font-size: 13px;
-  }
-}
-
 html, body {
   height: 100%;
   font-family: $font-family;
+  @include responsive-font();
+  line-height: 1.5;
   color: $text-primary;
   background-color: $background-base;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  overflow-x: hidden;
-}
-
-// 滚动条美化
-::-webkit-scrollbar {
-  width: 6px;
-  height: 6px;
-}
-
-::-webkit-scrollbar-thumb {
-  background: rgba(0, 0, 0, 0.2);
-  border-radius: 3px;
-  transition: background $animation-duration-fast;
-  
-  &:hover {
-    background: rgba(0, 0, 0, 0.3);
-  }
-}
-
-::-webkit-scrollbar-track {
-  background: transparent;
 }
 
 // 通用布局类
 .container {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 $spacing-lg;
-  
-  @media (max-width: $screen-md) {
-    padding: 0 $spacing-md;
-  }
-  
-  @media (max-width: $screen-sm) {
-    padding: 0 $spacing-sm;
-  }
+  @include container();
 }
 
-.container-fluid {
-  width: 100%;
-  padding: 0 $spacing-lg;
-  
-  @media (max-width: $screen-md) {
-    padding: 0 $spacing-md;
-  }
-}
-
-// Flexbox 工具类
-.d-flex {
-  display: flex;
-}
-
-.flex-column {
-  flex-direction: column;
-}
-
-.flex-row {
-  flex-direction: row;
-}
-
-.justify-content-start {
-  justify-content: flex-start;
-}
-
-.justify-content-center {
-  justify-content: center;
-}
-
-.justify-content-end {
-  justify-content: flex-end;
-}
-
-.justify-content-between {
-  justify-content: space-between;
-}
-
-.align-items-start {
-  align-items: flex-start;
-}
-
-.align-items-center {
-  align-items: center;
-}
-
-.align-items-end {
-  align-items: flex-end;
-}
-
-.flex-wrap {
-  flex-wrap: wrap;
-}
-
-.flex-1 {
-  flex: 1;
-}
-
-// 间距工具类
-@each $prop in (margin, padding) {
-  @each $size, $value in (
-    xs: $spacing-xs,
-    sm: $spacing-sm,
-    md: $spacing-md,
-    lg: $spacing-lg,
-    xl: $spacing-xl,
-    xxl: $spacing-xxl
-  ) {
-    .#{str-slice($prop, 1, 1)}-#{$size} {
-      #{$prop}: $value;
-    }
-    
-    .#{str-slice($prop, 1, 1)}t-#{$size} {
-      #{$prop}-top: $value;
-    }
-    
-    .#{str-slice($prop, 1, 1)}r-#{$size} {
-      #{$prop}-right: $value;
-    }
-    
-    .#{str-slice($prop, 1, 1)}b-#{$size} {
-      #{$prop}-bottom: $value;
-    }
-    
-    .#{str-slice($prop, 1, 1)}l-#{$size} {
-      #{$prop}-left: $value;
-    }
-    
-    .#{str-slice($prop, 1, 1)}x-#{$size} {
-      #{$prop}-left: $value;
-      #{$prop}-right: $value;
-    }
-    
-    .#{str-slice($prop, 1, 1)}y-#{$size} {
-      #{$prop}-top: $value;
-      #{$prop}-bottom: $value;
-    }
-  }
-}
-
-// 卡片组件优化样式
+// 卡片组件通用样式
 .card {
-  background: $background-base;
+  background: #fff;
   border-radius: $card-radius;
-  box-shadow: $card-shadow;
-  border: 1px solid $border-color-light;
-  overflow: hidden;
-  transition: all $animation-duration-base $ease-out;
+  @include elevation(1);
+  padding: $card-padding-base;
+  margin-bottom: $spacing-md;
+
+  @include respond-to(sm) {
+    @include responsive-spacing('padding', $card-padding-base);
+    @include responsive-spacing('margin-bottom', $spacing-md);
+  }
+}
+
+// 统计卡片通用样式
+.stat-card {
+  background: #fff;
+  border-radius: $border-radius-lg;
+  padding: $spacing-md;
+  @include flex(row, flex-start, center);
+  @include transition(transform, box-shadow);
   
   &:hover {
-    box-shadow: $card-shadow-hover;
+    @include elevation(2);
     transform: translateY(-2px);
   }
-  
-  .card-header {
-    padding: $card-padding-base;
-    border-bottom: 1px solid $border-color-light;
-    background: $background-light;
-    
-    .card-title {
-      font-size: $font-size-lg;
-      font-weight: $font-weight-semibold;
-      color: $text-primary;
-      margin: 0;
-    }
-    
-    .card-extra {
-      color: $text-secondary;
-      font-size: $font-size-sm;
-    }
-  }
-  
-  .card-body {
-    padding: $card-padding-base;
-  }
-  
-  .card-footer {
-    padding: $card-padding-base;
-    border-top: 1px solid $border-color-light;
-    background: $background-light;
-  }
-  
-  // 卡片变体
-  &.card-bordered {
-    border: 1px solid $border-color;
-  }
-  
-  &.card-hoverable {
-    cursor: pointer;
-    
-    &:hover {
-      box-shadow: $shadow-hover;
-      border-color: $primary-color;
-    }
-  }
-  
-  &.card-loading {
-    position: relative;
-    pointer-events: none;
-    
-    &::before {
-      content: '';
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      background: rgba(255, 255, 255, 0.8);
-      z-index: 1;
-    }
-  }
-}
 
-// 统计卡片现代化样式
-.stat-card {
-  background: $background-base;
-  border-radius: $border-radius-xl;
-  padding: $spacing-xl;
-  box-shadow: $shadow-1;
-  border: 1px solid $border-color-light;
-  display: flex;
-  align-items: center;
-  gap: $spacing-lg;
-  transition: all $animation-duration-base $ease-out;
-  position: relative;
-  overflow: hidden;
-  cursor: pointer;
-  
-  &::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 4px;
-    height: 100%;
-    background: $primary-color;
-    transform: scaleY(0);
-    transition: transform $animation-duration-base $ease-out;
-  }
-  
-  &:hover {
-    box-shadow: $shadow-hover;
-    transform: translateY(-4px);
-    
-    &::before {
-      transform: scaleY(1);
-    }
-    
-    .stat-icon {
-      transform: scale(1.1);
-    }
-  }
-  
   .stat-icon {
-    width: 64px;
-    height: 64px;
-    border-radius: $border-radius-xl;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 28px;
-    flex-shrink: 0;
-    transition: all $animation-duration-base $ease-out;
+    font-size: 24px;
+    margin-right: $spacing-md;
+
+    @include respond-to(sm) {
+      font-size: 20px;
+      margin-right: $spacing-sm;
+    }
   }
-  
+
   .stat-content {
     flex: 1;
-    min-width: 0;
-    
-    .stat-value {
-      font-size: 2rem;
-      font-weight: $font-weight-bold;
-      line-height: 1;
-      margin-bottom: $spacing-xs;
-      color: $text-primary;
-    }
-    
-    .stat-label {
-      font-size: $font-size-base;
-      color: $text-secondary;
-      font-weight: $font-weight-medium;
-    }
-    
-    .stat-sparkline {
-      margin-top: $spacing-sm;
-      height: 32px;
+  }
+
+  .stat-value {
+    font-size: $heading-3-size;
+    font-weight: 600;
+    margin-bottom: $spacing-xs;
+
+    @include respond-to(sm) {
+      font-size: $heading-4-size;
     }
   }
-  
-  .stat-trend {
-    display: flex;
-    align-items: center;
-    gap: $spacing-xs;
-    font-size: $font-size-sm;
-    font-weight: $font-weight-medium;
-    padding: $spacing-xs $spacing-sm;
-    border-radius: $border-radius-pill;
-    
-    .el-icon {
-      font-size: 14px;
-    }
-    
-    &.up {
-      color: $success-color;
-      background: $success-light;
-    }
-    
-    &.down {
-      color: $error-color;
-      background: $error-light;
-    }
+
+  .stat-label {
+    color: $text-secondary;
+    font-size: $font-size-base;
   }
-  
-  // 统计卡片主题变体
-  &.primary {
-    .stat-icon {
-      color: $primary-color;
-      background: $primary-light;
-    }
-    
-    &::before {
-      background: $primary-color;
-    }
-  }
-  
-  &.success {
-    .stat-icon {
-      color: $success-color;
-      background: $success-light;
-    }
-    
-    &::before {
-      background: $success-color;
-    }
-  }
-  
-  &.warning {
-    .stat-icon {
-      color: $warning-color;
-      background: $warning-light;
-    }
-    
-    &::before {
-      background: $warning-color;
-    }
-  }
-  
-  &.error {
-    .stat-icon {
-      color: $error-color;
-      background: $error-light;
-    }
-    
-    &::before {
-      background: $error-color;
-    }
-  }
-  
-  &.info {
-    .stat-icon {
-      color: $info-color;
-      background: $info-light;
-    }
-    
-    &::before {
-      background: $info-color;
-    }
+
+  @include respond-to(sm) {
+    padding: $spacing-sm;
   }
 }
 
-// 面板样式
+// 面板通用样式
 .panel {
-  background: $background-base;
+  background: #fff;
   border-radius: $border-radius-lg;
-  box-shadow: $shadow-1;
-  border: 1px solid $border-color-light;
-  overflow: hidden;
-  
+  @include elevation(1);
+  margin-bottom: $spacing-md;
+
   .panel-header {
-    padding: $spacing-lg $spacing-xl;
-    border-bottom: 1px solid $border-color-light;
-    background: $background-light;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    
-    .header-left {
-      display: flex;
-      align-items: center;
-      gap: $spacing-md;
-      
-      h3 {
+    padding: $spacing-md;
+    border-bottom: 1px solid $border-color;
+    @include flex(row, space-between, center);
+
+    h3 {
+      margin: 0;
+      font-size: $heading-4-size;
+      font-weight: 600;
+
+      @include respond-to(sm) {
         font-size: $font-size-lg;
-        font-weight: $font-weight-semibold;
-        color: $text-primary;
-        margin: 0;
       }
     }
-    
-    .header-right {
-      display: flex;
-      align-items: center;
+
+    @include respond-to(sm) {
+      padding: $spacing-sm;
+      flex-direction: column;
       gap: $spacing-sm;
     }
   }
-  
+
   .panel-body {
-    padding: $spacing-xl;
-    min-height: 200px;
-    position: relative;
-  }
-  
-  .panel-footer {
-    padding: $spacing-lg $spacing-xl;
-    border-top: 1px solid $border-color-light;
-    background: $background-light;
+    padding: $spacing-md;
+
+    @include respond-to(sm) {
+      padding: $spacing-sm;
+    }
   }
 }
 
-// 响应式网格系统
-.row {
-  display: flex;
-  flex-wrap: wrap;
-  margin: 0 (-$grid-gutter / 2);
-  
-  &.no-gutters {
-    margin: 0;
-    
-    .col {
-      padding: 0;
+// 表格通用样式
+.el-table {
+  border-radius: $border-radius-base;
+  overflow: hidden;
+
+  th {
+    background: $table-header-bg !important;
+    color: $table-header-color !important;
+    font-weight: 600;
+    padding: $table-padding-vertical $table-padding-horizontal !important;
+  }
+
+  td {
+    padding: $table-padding-vertical $table-padding-horizontal !important;
+  }
+
+  .el-table__row:hover > td {
+    background: $table-row-hover-bg !important;
+  }
+
+  @include respond-to(sm) {
+    th, td {
+      @include responsive-spacing('padding', $table-padding-vertical $table-padding-horizontal);
     }
   }
-  
-  .col {
-    padding: 0 ($grid-gutter / 2);
-    flex: 1;
-    
-    @for $i from 1 through 24 {
-      &.col-#{$i} {
-        flex: none;
-        width: percentage($i / 24);
-      }
+}
+
+// 按钮通用样式
+.el-button {
+  font-weight: 500;
+  border-radius: $border-radius-base;
+  @include transition(transform, box-shadow);
+
+  &:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.09);
+  }
+
+  &:active {
+    transform: translateY(0);
+  }
+
+  @include respond-to(sm) {
+    &.el-button--small {
+      padding: 8px 12px;
+      font-size: $font-size-sm;
     }
-    
-    // 响应式列
-    @media (max-width: $screen-md) {
-      &.col-md-12 {
-        width: 50%;
-      }
-      
-      &.col-md-24 {
-        width: 100%;
-      }
-    }
-    
-    @media (max-width: $screen-sm) {
-      &.col-sm-24 {
-        width: 100%;
-      }
-    }
+  }
+}
+
+// 输入框通用样式
+.el-input {
+  .el-input__wrapper {
+    border-radius: $border-radius-base;
+    @include transition(box-shadow, border-color);
+  }
+
+  &.is-focus .el-input__wrapper {
+    box-shadow: 0 0 0 2px rgba($primary-color, 0.2);
+  }
+}
+
+// 响应式布局工具类
+.hidden-xs {
+  @include respond-to(xs) {
+    display: none !important;
+  }
+}
+
+.hidden-sm {
+  @include respond-to(sm) {
+    display: none !important;
+  }
+}
+
+.hidden-md {
+  @include respond-to(md) {
+    display: none !important;
+  }
+}
+
+.hidden-lg {
+  @include respond-to(lg) {
+    display: none !important;
   }
 }
 
 // 动画类
 .fade-enter-active,
 .fade-leave-active {
-  transition: opacity $animation-duration-base $ease-out;
+  @include transition(opacity);
 }
 
 .fade-enter-from,
@@ -498,179 +223,95 @@ html, body {
 
 .slide-fade-enter-active,
 .slide-fade-leave-active {
-  transition: all $animation-duration-base $ease-out;
+  @include transition(transform, opacity);
 }
 
-.slide-fade-enter-from {
+.slide-fade-enter-from,
+.slide-fade-leave-to {
   transform: translateX(20px);
   opacity: 0;
 }
 
-.slide-fade-leave-to {
-  transform: translateX(-20px);
-  opacity: 0;
-}
-
-.zoom-enter-active,
-.zoom-leave-active {
-  transition: all $animation-duration-base $ease-out;
-}
-
-.zoom-enter-from,
-.zoom-leave-to {
-  transform: scale(0.95);
-  opacity: 0;
-}
-
 // 工具类
-.text-center {
-  text-align: center;
+.text-primary { color: $text-primary; }
+.text-secondary { color: $text-secondary; }
+.text-disabled { color: $text-disabled; }
+
+.text-center { text-align: center; }
+.text-left { text-align: left; }
+.text-right { text-align: right; }
+
+.font-bold { font-weight: 600; }
+.font-normal { font-weight: normal; }
+
+.mb-xs { @include responsive-spacing('margin-bottom', $spacing-xs); }
+.mb-sm { @include responsive-spacing('margin-bottom', $spacing-sm); }
+.mb-md { @include responsive-spacing('margin-bottom', $spacing-md); }
+.mb-lg { @include responsive-spacing('margin-bottom', $spacing-lg); }
+.mb-xl { @include responsive-spacing('margin-bottom', $spacing-xl); }
+
+.mt-xs { @include responsive-spacing('margin-top', $spacing-xs); }
+.mt-sm { @include responsive-spacing('margin-top', $spacing-sm); }
+.mt-md { @include responsive-spacing('margin-top', $spacing-md); }
+.mt-lg { @include responsive-spacing('margin-top', $spacing-lg); }
+.mt-xl { @include responsive-spacing('margin-top', $spacing-xl); }
+
+.flex { display: flex; }
+.flex-column { flex-direction: column; }
+.flex-wrap { flex-wrap: wrap; }
+.items-center { align-items: center; }
+.justify-between { justify-content: space-between; }
+.justify-center { justify-content: center; }
+
+.w-full { width: 100%; }
+.h-full { height: 100%; }
+
+// 响应式网格系统
+.grid {
+  @include make-grid-columns();
 }
 
-.text-left {
-  text-align: left;
+.grid-2 {
+  @include make-grid-columns(2);
 }
 
-.text-right {
-  text-align: right;
+.grid-3 {
+  @include make-grid-columns(3);
 }
 
-.text-primary {
-  color: $primary-color;
+.grid-4 {
+  @include make-grid-columns(4);
 }
 
-.text-success {
-  color: $success-color;
+// 滚动条样式
+.custom-scrollbar {
+  @include scrollbar();
 }
 
-.text-warning {
-  color: $warning-color;
+// 图片响应式
+.responsive-image {
+  @include responsive-image();
 }
 
-.text-error {
-  color: $error-color;
+// 毛玻璃效果
+.glass {
+  @include glassmorphism();
 }
 
-.text-muted {
-  color: $text-secondary;
+// 渐变背景
+.gradient-bg {
+  @include gradient();
 }
 
-.font-weight-light {
-  font-weight: $font-weight-light;
+// 文本截断
+.truncate {
+  @include text-truncate();
 }
 
-.font-weight-normal {
-  font-weight: $font-weight-normal;
+.truncate-2 {
+  @include text-truncate(2);
 }
 
-.font-weight-medium {
-  font-weight: $font-weight-medium;
-}
-
-.font-weight-semibold {
-  font-weight: $font-weight-semibold;
-}
-
-.font-weight-bold {
-  font-weight: $font-weight-bold;
-}
-
-// 显示/隐藏工具类
-.d-none {
-  display: none;
-}
-
-.d-block {
-  display: block;
-}
-
-.d-inline {
-  display: inline;
-}
-
-.d-inline-block {
-  display: inline-block;
-}
-
-// 响应式显示工具类
-@media (max-width: $screen-sm) {
-  .d-sm-none {
-    display: none;
-  }
-  
-  .d-sm-block {
-    display: block;
-  }
-}
-
-@media (max-width: $screen-md) {
-  .d-md-none {
-    display: none;
-  }
-  
-  .d-md-block {
-    display: block;
-  }
-}
-
-// 加载状态
-.loading {
-  position: relative;
-  pointer-events: none;
-  
-  &::after {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: rgba(255, 255, 255, 0.8);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    z-index: 10;
-  }
-}
-
-// 状态点样式
-.status-dot {
-  display: inline-block;
-  width: 8px;
-  height: 8px;
-  border-radius: 50%;
-  margin-right: $spacing-xs;
-  
-  &.online {
-    background: $status-online;
-  }
-  
-  &.offline {
-    background: $status-offline;
-  }
-  
-  &.warning {
-    background: $status-warning;
-  }
-  
-  &.error {
-    background: $status-error;
-  }
-  
-  &.processing {
-    background: $status-processing;
-    animation: pulse 1.5s infinite;
-  }
-}
-
-@keyframes pulse {
-  0% {
-    box-shadow: 0 0 0 0 rgba(24, 144, 255, 0.7);
-  }
-  70% {
-    box-shadow: 0 0 0 10px rgba(24, 144, 255, 0);
-  }
-  100% {
-    box-shadow: 0 0 0 0 rgba(24, 144, 255, 0);
-  }
+.truncate-3 {
+  @include text-truncate(3);
 } 

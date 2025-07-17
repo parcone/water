@@ -1,137 +1,68 @@
-// 颜色系统 - 优化为现代化设计语言
+// 颜色系统
 $primary-color: #1890ff;
-$primary-hover: #40a9ff;
-$primary-active: #096dd9;
-$primary-light: #e6f7ff;
-
 $success-color: #52c41a;
-$success-hover: #73d13d;
-$success-light: #f6ffed;
-
 $warning-color: #faad14;
-$warning-hover: #ffc53d;
-$warning-light: #fffbe6;
-
 $error-color: #ff4d4f;
-$error-hover: #ff7875;
-$error-light: #fff2f0;
-
 $info-color: #1890ff;
-$info-hover: #40a9ff;
-$info-light: #e6f7ff;
 
-// 中性色 - 改进对比度和可读性
-$text-primary: rgba(0, 0, 0, 0.88);
+// 中性色
+$text-primary: rgba(0, 0, 0, 0.85);
 $text-secondary: rgba(0, 0, 0, 0.65);
-$text-tertiary: rgba(0, 0, 0, 0.45);
-$text-disabled: rgba(0, 0, 0, 0.25);
-
+$text-disabled: rgba(0, 0, 0, 0.45);
 $border-color: #d9d9d9;
-$border-color-light: #f0f0f0;
-$border-color-split: #f5f5f5;
-
-$background-base: #ffffff;
+$background-base: #f0f2f5;
 $background-light: #fafafa;
-$background-lighter: #f5f5f5;
 
-// 暗色主题颜色 - 优化暗色模式
+// 暗色主题颜色
 $dark-background: #141414;
 $dark-component-background: #1f1f1f;
-$dark-surface: #262626;
-$dark-text-primary: rgba(255, 255, 255, 0.88);
+$dark-text-primary: rgba(255, 255, 255, 0.85);
 $dark-text-secondary: rgba(255, 255, 255, 0.65);
-$dark-text-tertiary: rgba(255, 255, 255, 0.45);
 $dark-border-color: #434343;
 
-// 品牌渐变色
-$gradient-primary: linear-gradient(135deg, #1890ff 0%, #722ed1 100%);
-$gradient-success: linear-gradient(135deg, #52c41a 0%, #13c2c2 100%);
-$gradient-warning: linear-gradient(135deg, #faad14 0%, #fa8c16 100%);
-$gradient-error: linear-gradient(135deg, #ff4d4f 0%, #ff7875 100%);
-
-// 背景渐变
-$gradient-background: linear-gradient(180deg, #001529 0%, #002140 100%);
-$gradient-card: linear-gradient(145deg, #ffffff 0%, #f8f9fa 100%);
-
-// 字体 - 改进可读性
-$font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB',
-  'Microsoft YaHei', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-$font-family-code: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace;
-
-$font-size-xs: 10px;
-$font-size-sm: 12px;
+// 字体
+$font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+  'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol',
+  'Noto Color Emoji';
 $font-size-base: 14px;
 $font-size-lg: 16px;
-$font-size-xl: 18px;
-$font-size-xxl: 20px;
-
+$font-size-sm: 12px;
 $heading-1-size: 38px;
 $heading-2-size: 30px;
 $heading-3-size: 24px;
 $heading-4-size: 20px;
-$heading-5-size: 16px;
-$heading-6-size: 14px;
 
-// 字重
-$font-weight-light: 300;
-$font-weight-normal: 400;
-$font-weight-medium: 500;
-$font-weight-semibold: 600;
-$font-weight-bold: 700;
-
-// 间距 - 8px 基础网格系统
+// 间距
 $spacing-unit: 8px;
-$spacing-xs: $spacing-unit * 0.5;     // 4px
-$spacing-sm: $spacing-unit;           // 8px
-$spacing-md: $spacing-unit * 2;       // 16px
-$spacing-lg: $spacing-unit * 3;       // 24px
-$spacing-xl: $spacing-unit * 4;       // 32px
-$spacing-xxl: $spacing-unit * 6;      // 48px
-$spacing-xxxl: $spacing-unit * 8;     // 64px
+$spacing-xs: $spacing-unit;        // 8px
+$spacing-sm: $spacing-unit * 2;    // 16px
+$spacing-md: $spacing-unit * 3;    // 24px
+$spacing-lg: $spacing-unit * 4;    // 32px
+$spacing-xl: $spacing-unit * 6;    // 48px
 
-// 圆角 - 更现代的圆角设计
-$border-radius-xs: 2px;
-$border-radius-sm: 4px;
-$border-radius-base: 6px;
+// 圆角
+$border-radius-base: 4px;
+$border-radius-sm: 2px;
 $border-radius-lg: 8px;
-$border-radius-xl: 12px;
-$border-radius-xxl: 16px;
-$border-radius-circle: 50%;
-$border-radius-pill: 9999px;
+$border-radius-xl: 16px;
 
-// 阴影 - 更精细的阴影层次
+// 阴影
 $shadow-1: 0 1px 2px 0 rgba(0, 0, 0, 0.03),
           0 1px 6px -1px rgba(0, 0, 0, 0.02),
           0 2px 4px 0 rgba(0, 0, 0, 0.02);
-
 $shadow-2: 0 3px 6px -4px rgba(0, 0, 0, 0.12),
           0 6px 16px 0 rgba(0, 0, 0, 0.08),
           0 9px 28px 8px rgba(0, 0, 0, 0.05);
-
 $shadow-3: 0 6px 16px -8px rgba(0, 0, 0, 0.08),
           0 9px 28px 0 rgba(0, 0, 0, 0.05),
           0 12px 48px 16px rgba(0, 0, 0, 0.03);
 
-$shadow-4: 0 14px 28px rgba(0, 0, 0, 0.25),
-          0 10px 10px rgba(0, 0, 0, 0.22);
+// 动画
+$animation-duration-base: 0.2s;
+$animation-duration-slow: 0.3s;
+$animation-duration-slower: 0.45s;
 
-// 交互阴影
-$shadow-hover: 0 4px 12px rgba(0, 0, 0, 0.15);
-$shadow-active: 0 1px 2px rgba(0, 0, 0, 0.2);
-
-// 动画 - 流畅的动画曲线
-$animation-duration-fastest: 0.15s;
-$animation-duration-fast: 0.2s;
-$animation-duration-base: 0.3s;
-$animation-duration-slow: 0.45s;
-$animation-duration-slower: 0.6s;
-
-$ease-in-out: cubic-bezier(0.645, 0.045, 0.355, 1);
-$ease-out: cubic-bezier(0.215, 0.61, 0.355, 1);
-$ease-in: cubic-bezier(0.55, 0.055, 0.675, 0.19);
-$ease-out-back: cubic-bezier(0.175, 0.885, 0.32, 1.275);
-
-// 响应式断点 - 优化移动端体验
+// 断点
 $screen-xs: 480px;
 $screen-sm: 576px;
 $screen-md: 768px;
@@ -139,13 +70,11 @@ $screen-lg: 992px;
 $screen-xl: 1200px;
 $screen-xxl: 1600px;
 
-// 栅格系统
+// 栅格
 $grid-columns: 24;
 $grid-gutter: 24px;
-$grid-gutter-sm: 16px;
-$grid-gutter-xs: 8px;
 
-// z-index 层级管理
+// z-index
 $zindex-dropdown: 1050;
 $zindex-sticky: 1020;
 $zindex-fixed: 1030;
@@ -153,53 +82,37 @@ $zindex-modal-backdrop: 1040;
 $zindex-modal: 1050;
 $zindex-popover: 1060;
 $zindex-tooltip: 1070;
-$zindex-max: 2147483647;
 
-// 组件尺寸 - 更精确的尺寸定义
+// 组件尺寸
 $header-height: 64px;
-$header-height-sm: 48px;
-$sidebar-width: 280px;
-$sidebar-width-collapsed: 64px;
+$sidebar-width: 256px;
 $footer-height: 48px;
 
-// 卡片样式 - 现代化卡片设计
-$card-padding-xs: $spacing-sm;
-$card-padding-sm: $spacing-md;
-$card-padding-base: $spacing-lg;
-$card-padding-lg: $spacing-xl;
+// 卡片样式
+$card-padding-base: $spacing-md;
 $card-radius: $border-radius-lg;
 $card-shadow: $shadow-1;
-$card-shadow-hover: $shadow-2;
 
-// 输入框样式 - 改进的表单控件
-$input-height-sm: 28px;
-$input-height-base: 36px;
-$input-height-lg: 44px;
-$input-padding-horizontal: $spacing-md;
-$input-padding-horizontal-sm: $spacing-sm;
-$input-padding-horizontal-lg: $spacing-lg;
-$input-border-radius: $border-radius-base;
+// 输入框样式
+$input-height-base: 32px;
+$input-height-lg: 40px;
+$input-height-sm: 24px;
+$input-padding-horizontal: $spacing-sm;
+$input-padding-vertical-base: 4px;
+$input-padding-vertical-sm: 1px;
+$input-padding-vertical-lg: 6px;
 
-// 按钮样式 - 现代化按钮设计
-$btn-height-sm: 28px;
-$btn-height-base: 36px;
-$btn-height-lg: 44px;
-$btn-padding-horizontal-sm: $spacing-md;
-$btn-padding-horizontal-base: $spacing-lg;
-$btn-padding-horizontal-lg: $spacing-xl;
-$btn-border-radius: $border-radius-base;
+// 按钮样式
+$btn-height-base: 32px;
+$btn-height-lg: 40px;
+$btn-height-sm: 24px;
+$btn-padding-horizontal-base: $spacing-md;
+$btn-padding-horizontal-lg: $spacing-lg;
+$btn-padding-horizontal-sm: $spacing-sm;
 
-// 表格样式 - 清晰的数据展示
-$table-header-bg: $background-lighter;
+// 表格样式
+$table-header-bg: $background-light;
 $table-header-color: $text-primary;
-$table-row-hover-bg: rgba(24, 144, 255, 0.04);
-$table-border-color: $border-color-light;
-$table-padding-vertical: $spacing-md;
-$table-padding-horizontal: $spacing-md;
-
-// 状态色彩
-$status-online: #52c41a;
-$status-offline: #8c8c8c;
-$status-warning: #faad14;
-$status-error: #ff4d4f;
-$status-processing: #1890ff; 
+$table-row-hover-bg: rgba(0, 0, 0, 0.02);
+$table-padding-vertical: $spacing-sm;
+$table-padding-horizontal: $spacing-sm; 
