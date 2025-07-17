@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="index.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Satellite-Ground Soil Environment Analysis and Monitoring System</title>
+
+</head>
+<body>
+<div class="container">
+  <!-- Header -->
+  <div class="header">
+    <div class="logo">
+      <div>
+        <i class="fas fa-user-circle" style="font-size: 24px;"></i>
+      </div>
+      <a href="../1/index.html" class="insert-color" style="margin-left: 10px; text-decoration: none; color: inherit;">
+        <i class="fas fa-desktop" style="font-size: 16px;"></i>系统首页
+      </a>
+      <a href="../2/index.html" class="insert-color" style="margin-left: 25px; text-decoration: none; color: inherit;">
+        <i class="fas fa-brain" style="font-size: 16px;"></i> 智能物联
+      </a>
+      <a href="../3/index.html" class="insert-color" style="margin-left: 25px; text-decoration: none; color: inherit;">
+        <i class="fas fa-chart-line" style="font-size: 16px;"></i> 智能监测
+      </a>
+    </div>
+    <div class="header-title">
+      星地一体化智能土壤环境分析监测系统
+      <div class="header-subtitle">Satellite-ground soil environment analysis and monitoring system</div>
+    </div>
+    <div class="header-right">
+      <button class="header-btn" onclick="window.location.href='../4/index.html'">
+        <i class="fas fa-comment"></i> 质量评价
+      </button>
+
+      <button class="header-btn" onclick="window.location.href='../5/index.html'">
+        <i class="fas fa-database"></i> 数据管理
+      </button>
+
+      <button class="header-btn" onclick="window.location.href='../6/index.html'">
+        <i class="fas fa-info-circle"></i> 信息概述
+      </button>
+
+      <button class="header-btn">
+        <i class="fas fa-power-off"></i>
+      </button>
+    </div>
+  </div>
+
+  <!-- Main content -->
+  <div class="content">
+    <!-- Map area -->
+    <div class="map-container">
+      <div class="map">
+        <!-- Regions drawn dynamically -->
+        <div class="region" style="top: 30%; left: 40%; width: 25%; height: 35%;"></div>
+      </div>
+
+      <!-- Control panel -->
+      <div class="control-panel">
+        <div class="control-title">开始进行综合评价</div>
+        <button class="control-btn">启动评估流程</button>
+
+        <div class="control-info">
+          <img src="/api/placeholder/60/45" alt="Region thumbnail">
+          <div class="info-details">
+            <div class="info-row">
+              <div class="info-label">影像名称:</div>
+              <div class="info-value">s_identification_20210305.tif</div>
+            </div>
+            <div class="info-row">
+              <div class="info-label">地理坐标:</div>
+              <div class="info-value">33.5321-35.7834</div>
+            </div>
+            <div class="info-row">
+              <div class="info-label">经度范围:</div>
+              <div class="info-value">106.799-107.808</div>
+            </div>
+            <div class="info-row">
+              <div class="info-label">采集时间:</div>
+              <div class="info-value">2023-08-02</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Analysis panel -->
+    <div class="analysis-panel">
+      <!-- Evaluation section -->
+      <div class="panel-section">
+        <div class="panel-title">
+          综合评价
+          <span class="sub-title">单项指标评价</span>
+        </div>
+
+        <div class="panel-title">关键指标及影响程度</div>
+        <div class="indicator-matrix">
+          <div class="indicator-cell">地效评</div>
+          <div class="indicator-cell">全量量</div>
+          <div class="indicator-cell">有机质</div>
+          <div class="indicator-cell">碱解氮</div>
+          <div class="indicator-cell">有效磷</div>
+          <div class="indicator-cell">坡度</div>
+          <div class="indicator-cell">土壤侵蚀</div>
+          <div class="indicator-cell">土壤质地</div>
+        </div>
+        <div class="indicator-matrix">
+          <div class="indicator-cell indicator-selected">影响程度</div>
+          <div class="indicator-cell">土壤肥力</div>
+          <div class="indicator-cell">土壤质量</div>
+          <div class="indicator-cell">土壤质量</div>
+          <div class="indicator-cell">综合评价</div>
+          <div class="indicator-cell">土壤质量</div>
+          <div class="indicator-cell">土壤侵蚀</div>
+          <div class="indicator-cell">综合评价</div>
+        </div>
+      </div>
+
+      <!-- Chart section -->
+      <div class="panel-section">
+        <div class="panel-title">各等级农田面积占比(公顷)</div>
+        <div class="chart-container">
+          <svg width="100%" height="100%" viewBox="0 0 310 120" preserveAspectRatio="none">
+            <path class="chart-area" d="M0,120 L0,100 L52,80 L104,90 L156,70 L208,40 L260,60 L310,30 L310,120 Z"></path>
+            <path class="chart-line" d="M0,100 L52,80 L104,90 L156,70 L208,40 L260,60 L310,30"></path>
+          </svg>
+        </div>
+        <div class="chart-labels">
+          <span>未监测</span>
+          <span>一等级</span>
+          <span>二等级</span>
+          <span>三等级</span>
+          <span>四等级</span>
+          <span>五等级</span>
+          <span>六等级</span>
+        </div>
+      </div>
+
+      <!-- Summary section -->
+      <div class="panel-section">
+        <div class="panel-title">
+          综合评价
+          <span class="info-icon">ⓘ</span>
+        </div>
+        <div>当前智能土壤环境综合评价，请先进行综合评价。</div>
+      </div>
+    </div>
+
+    <!-- Sidebar -->
+    <div class="sidebar">
+      <div class="sidebar-text">重要风险提示</div>
+      <div class="sidebar-text">安全风险评估</div>
+      <div class="sidebar-text">土壤质量检测</div>
+    </div>
+  </div>
+</div>
+
+<!-- Toast notification -->
+<div class="toast">
+  <span class="toast-icon">ⓘ</span>
+  <span>系统已加载完成，请开始评估流程</span>
+</div>
+<!-- Font Awesome -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/js/all.min.js"></script>
+</body>
+</html>

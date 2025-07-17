@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="index.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>卫星-地一体化智能土壤环境分析监测系统</title>
+
+</head>
+<body>
+<div class="container">
+    <div class="header">
+        <div class="logo">
+            <div>
+                <i class="fas fa-user-circle" style="font-size: 24px;"></i>
+            </div>
+            <a href="../1/index.html" class="insert-color" style="margin-left: 10px; text-decoration: none; color: inherit;">
+                <i class="fas fa-desktop" style="font-size: 16px;"></i> 系统首页
+            </a>
+            <a href="../2/index.html" class="insert-color" style="margin-left: 25px; text-decoration: none; color: inherit;">
+                <i class="fas fa-brain" style="font-size: 16px;"></i> 智能物联
+            </a>
+            <a href="../3/index.html" class="insert-color" style="margin-left: 25px; text-decoration: none; color: inherit;">
+                <i class="fas fa-chart-line" style="font-size: 16px;"></i> 智能监测
+            </a>
+        </div>
+        <div class="header-title">
+            星地一体化智能土壤环境分析监测系统
+            <div class="header-subtitle">Satellite-ground soil environment analysis and monitoring system</div>
+        </div>
+        <div class="header-right">
+            <button class="header-btn" onclick="window.location.href='../4/index.html'">
+                <i class="fas fa-comment"></i> 质量评价
+            </button>
+
+            <button class="header-btn" onclick="window.location.href='../5/index.html'">
+                <i class="fas fa-database"></i> 数据管理
+            </button>
+
+            <button class="header-btn" onclick="window.location.href='../6/index.html'">
+                <i class="fas fa-info-circle"></i> 信息概述
+            </button>
+
+            <button class="header-btn">
+                <i class="fas fa-power-off"></i>
+            </button>
+        </div>
+    </div>
+
+    <div class="content">
+        <div class="map-container">
+            <div class="map">
+                <!-- Map content would be rendered here with a mapping library like Leaflet or OpenLayers -->
+                <div style="width: 100%; height: 100%; display: flex; justify-content: center; align-items: center;">
+                    <img src="/api/placeholder/800/600" alt="卫星地图" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+                </div>
+            </div>
+
+            <div class="legend">
+                <div class="legend-title">土壤污染指数</div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background-color: #ff0000;"></div>
+                    <span>严重污染 &gt; 80</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background-color: #ff9900;"></div>
+                    <span>中度污染 60-80</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background-color: #ffff00;"></div>
+                    <span>轻度污染 40-60</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background-color: #00ff00;"></div>
+                    <span>良好 &lt; 40</span>
+                </div>
+            </div>
+
+            <div class="overlay">
+                <div class="zoom-controls">
+                    <div class="zoom-button">+</div>
+                    <div class="zoom-button">-</div>
+                </div>
+            </div>
+
+            <div class="border-glow"></div>
+        </div>
+
+        <div class="sidebar">
+            <div class="panel">
+                <div class="panel-title">影像时段年份：</div>
+                <div style="display: flex; justify-content: center;">
+                    <select style="background: #001428; color: #fff; border: 1px solid #0078d4; padding: 5px 10px; width: 100px;">
+                        <option>2021年</option>
+                        <option>2020年</option>
+                        <option>2019年</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="panel">
+                <div class="panel-title">影像信息：</div>
+                <div class="data-info">
+                    <div class="data-row">
+                        <div class="data-label">唯一编号：</div>
+                        <div class="data-value">16759924701255684384</div>
+                    </div>
+                    <div class="data-row">
+                        <div class="data-label">影像名称：</div>
+                        <div class="data-value">c_pretreatment_20210218.tif</div>
+                    </div>
+                    <div class="data-row">
+                        <div class="data-label">卫星类型：</div>
+                        <div class="data-value">LANDSAT 8</div>
+                    </div>
+                    <div class="data-row">
+                        <div class="data-label">参考坐标：</div>
+                        <div class="data-value">WGS_1984</div>
+                    </div>
+                    <div class="data-row">
+                        <div class="data-label">拍摄时间：</div>
+                        <div class="data-value">2021-02-23</div>
+                    </div>
+                    <div class="data-row">
+                        <div class="data-label">经度区间：</div>
+                        <div class="data-value">107.50233-110.08263</div>
+                    </div>
+                    <div class="data-row">
+                        <div class="data-label">纬度区间：</div>
+                        <div class="data-value">33.50790-35.69403</div>
+                    </div>
+                    <div class="data-row">
+                        <div class="data-label">更新时间：</div>
+                        <div class="data-value">2023-07-02</div>
+                    </div>
+                </div>
+                <div class="image-preview">
+                    <img src="/api/placeholder/300/120" alt="影像预览">
+                </div>
+            </div>
+
+            <div class="panel">
+                <div class="panel-title">遥感影像操作：</div>
+                <div class="tools">
+                    <div class="tool-button">
+                        <i>🔍</i> 土壤湿度水文
+                    </div>
+                    <div class="tool-button">
+                        <i>📊</i> 土壤污染分析
+                    </div>
+                    <div class="tool-button">
+                        <i>🌱</i> 影像数据分析
+                    </div>
+                    <div class="tool-button">
+                        <i>📈</i> 污染趋势监测
+                    </div>
+                </div>
+            </div>
+
+            <div class="panel">
+                <div class="panel-title">应用市各县三调公报：</div>
+                <div class="region-list">
+                    <div class="region-item">
+                        <i>📍</i> 金台区
+                    </div>
+                    <div class="region-item">
+                        <i>📍</i> 陈仓区
+                    </div>
+                    <div class="region-item">
+                        <i>📍</i> 凤翔区
+                    </div>
+                    <div class="region-item">
+                        <i>📍</i> 岐山县
+                    </div>
+                    <div class="region-item">
+                        <i>📍</i> 扶风县
+                    </div>
+                    <div class="region-item">
+                        <i>📍</i> 眉县
+                    </div>
+                    <div class="region-item">
+                        <i>📍</i> 陇县
+                    </div>
+                    <div class="region-item">
+                        <i>📍</i> 千阳县
+                    </div>
+                    <div class="region-item">
+                        <i>📍</i> 麟游县
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <div class="controls">
+            <div class="control-button">▶</div>
+            <div class="control-button">⏸</div>
+            <div class="time-display">04:36 / 14:28</div>
+        </div>
+        <div class="right-controls">
+            <span>1080P 高清</span>
+            <span>速度</span>
+            <span>倍速</span>
+            <span>🔊</span>
+            <span>⚙️</span>
+            <span>🔍</span>
+            <span>👥</span>
+        </div>
+    </div>
+</div>
+<!-- Font Awesome -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/js/all.min.js"></script>
+</body>
+</html>

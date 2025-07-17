@@ -1,0 +1,317 @@
+@import './variables.scss';
+@import './mixins.scss';
+
+// 全局重置样式
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  font-family: $font-family;
+  @include responsive-font();
+  line-height: 1.5;
+  color: $text-primary;
+  background-color: $background-base;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+// 通用布局类
+.container {
+  @include container();
+}
+
+// 卡片组件通用样式
+.card {
+  background: #fff;
+  border-radius: $card-radius;
+  @include elevation(1);
+  padding: $card-padding-base;
+  margin-bottom: $spacing-md;
+
+  @include respond-to(sm) {
+    @include responsive-spacing('padding', $card-padding-base);
+    @include responsive-spacing('margin-bottom', $spacing-md);
+  }
+}
+
+// 统计卡片通用样式
+.stat-card {
+  background: #fff;
+  border-radius: $border-radius-lg;
+  padding: $spacing-md;
+  @include flex(row, flex-start, center);
+  @include transition(transform, box-shadow);
+  
+  &:hover {
+    @include elevation(2);
+    transform: translateY(-2px);
+  }
+
+  .stat-icon {
+    font-size: 24px;
+    margin-right: $spacing-md;
+
+    @include respond-to(sm) {
+      font-size: 20px;
+      margin-right: $spacing-sm;
+    }
+  }
+
+  .stat-content {
+    flex: 1;
+  }
+
+  .stat-value {
+    font-size: $heading-3-size;
+    font-weight: 600;
+    margin-bottom: $spacing-xs;
+
+    @include respond-to(sm) {
+      font-size: $heading-4-size;
+    }
+  }
+
+  .stat-label {
+    color: $text-secondary;
+    font-size: $font-size-base;
+  }
+
+  @include respond-to(sm) {
+    padding: $spacing-sm;
+  }
+}
+
+// 面板通用样式
+.panel {
+  background: #fff;
+  border-radius: $border-radius-lg;
+  @include elevation(1);
+  margin-bottom: $spacing-md;
+
+  .panel-header {
+    padding: $spacing-md;
+    border-bottom: 1px solid $border-color;
+    @include flex(row, space-between, center);
+
+    h3 {
+      margin: 0;
+      font-size: $heading-4-size;
+      font-weight: 600;
+
+      @include respond-to(sm) {
+        font-size: $font-size-lg;
+      }
+    }
+
+    @include respond-to(sm) {
+      padding: $spacing-sm;
+      flex-direction: column;
+      gap: $spacing-sm;
+    }
+  }
+
+  .panel-body {
+    padding: $spacing-md;
+
+    @include respond-to(sm) {
+      padding: $spacing-sm;
+    }
+  }
+}
+
+// 表格通用样式
+.el-table {
+  border-radius: $border-radius-base;
+  overflow: hidden;
+
+  th {
+    background: $table-header-bg !important;
+    color: $table-header-color !important;
+    font-weight: 600;
+    padding: $table-padding-vertical $table-padding-horizontal !important;
+  }
+
+  td {
+    padding: $table-padding-vertical $table-padding-horizontal !important;
+  }
+
+  .el-table__row:hover > td {
+    background: $table-row-hover-bg !important;
+  }
+
+  @include respond-to(sm) {
+    th, td {
+      @include responsive-spacing('padding', $table-padding-vertical $table-padding-horizontal);
+    }
+  }
+}
+
+// 按钮通用样式
+.el-button {
+  font-weight: 500;
+  border-radius: $border-radius-base;
+  @include transition(transform, box-shadow);
+
+  &:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.09);
+  }
+
+  &:active {
+    transform: translateY(0);
+  }
+
+  @include respond-to(sm) {
+    &.el-button--small {
+      padding: 8px 12px;
+      font-size: $font-size-sm;
+    }
+  }
+}
+
+// 输入框通用样式
+.el-input {
+  .el-input__wrapper {
+    border-radius: $border-radius-base;
+    @include transition(box-shadow, border-color);
+  }
+
+  &.is-focus .el-input__wrapper {
+    box-shadow: 0 0 0 2px rgba($primary-color, 0.2);
+  }
+}
+
+// 响应式布局工具类
+.hidden-xs {
+  @include respond-to(xs) {
+    display: none !important;
+  }
+}
+
+.hidden-sm {
+  @include respond-to(sm) {
+    display: none !important;
+  }
+}
+
+.hidden-md {
+  @include respond-to(md) {
+    display: none !important;
+  }
+}
+
+.hidden-lg {
+  @include respond-to(lg) {
+    display: none !important;
+  }
+}
+
+// 动画类
+.fade-enter-active,
+.fade-leave-active {
+  @include transition(opacity);
+}
+
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}
+
+.slide-fade-enter-active,
+.slide-fade-leave-active {
+  @include transition(transform, opacity);
+}
+
+.slide-fade-enter-from,
+.slide-fade-leave-to {
+  transform: translateX(20px);
+  opacity: 0;
+}
+
+// 工具类
+.text-primary { color: $text-primary; }
+.text-secondary { color: $text-secondary; }
+.text-disabled { color: $text-disabled; }
+
+.text-center { text-align: center; }
+.text-left { text-align: left; }
+.text-right { text-align: right; }
+
+.font-bold { font-weight: 600; }
+.font-normal { font-weight: normal; }
+
+.mb-xs { @include responsive-spacing('margin-bottom', $spacing-xs); }
+.mb-sm { @include responsive-spacing('margin-bottom', $spacing-sm); }
+.mb-md { @include responsive-spacing('margin-bottom', $spacing-md); }
+.mb-lg { @include responsive-spacing('margin-bottom', $spacing-lg); }
+.mb-xl { @include responsive-spacing('margin-bottom', $spacing-xl); }
+
+.mt-xs { @include responsive-spacing('margin-top', $spacing-xs); }
+.mt-sm { @include responsive-spacing('margin-top', $spacing-sm); }
+.mt-md { @include responsive-spacing('margin-top', $spacing-md); }
+.mt-lg { @include responsive-spacing('margin-top', $spacing-lg); }
+.mt-xl { @include responsive-spacing('margin-top', $spacing-xl); }
+
+.flex { display: flex; }
+.flex-column { flex-direction: column; }
+.flex-wrap { flex-wrap: wrap; }
+.items-center { align-items: center; }
+.justify-between { justify-content: space-between; }
+.justify-center { justify-content: center; }
+
+.w-full { width: 100%; }
+.h-full { height: 100%; }
+
+// 响应式网格系统
+.grid {
+  @include make-grid-columns();
+}
+
+.grid-2 {
+  @include make-grid-columns(2);
+}
+
+.grid-3 {
+  @include make-grid-columns(3);
+}
+
+.grid-4 {
+  @include make-grid-columns(4);
+}
+
+// 滚动条样式
+.custom-scrollbar {
+  @include scrollbar();
+}
+
+// 图片响应式
+.responsive-image {
+  @include responsive-image();
+}
+
+// 毛玻璃效果
+.glass {
+  @include glassmorphism();
+}
+
+// 渐变背景
+.gradient-bg {
+  @include gradient();
+}
+
+// 文本截断
+.truncate {
+  @include text-truncate();
+}
+
+.truncate-2 {
+  @include text-truncate(2);
+}
+
+.truncate-3 {
+  @include text-truncate(3);
+} 

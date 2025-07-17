@@ -1,0 +1,75 @@
+// analysis.scss
+.analysis-root {
+  min-height: 100vh;
+  background: #f6f8fa;
+  padding: 32px 0 48px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.analysis-main {
+  width: 100%;
+  max-width: 1440px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.analysis-stat-row {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 32px;
+}
+
+.analysis-content-row {
+  display: flex;
+  gap: 32px;
+}
+
+.analysis-content-left, .analysis-content-right {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+// 卡片通用
+.analysis-card {
+  background: #fff;
+  border-radius: 24px;
+  box-shadow: 0 6px 32px 0 rgba(52, 117, 252, 0.08);
+  padding: 32px 28px;
+  transition: box-shadow 0.3s, transform 0.2s;
+  will-change: box-shadow, transform;
+  &:hover {
+    box-shadow: 0 16px 48px 0 rgba(52, 117, 252, 0.16);
+    transform: translateY(-4px) scale(1.02);
+  }
+}
+
+// 响应式
+@media (max-width: 1100px) {
+  .analysis-stat-row {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .analysis-content-row {
+    flex-direction: column;
+  }
+}
+@media (max-width: 700px) {
+  .analysis-main {
+    padding: 0 4px;
+  }
+  .analysis-stat-row {
+    grid-template-columns: 1fr;
+    gap: 18px;
+  }
+  .analysis-content-row {
+    flex-direction: column;
+    gap: 18px;
+  }
+  .analysis-card {
+    padding: 18px 8px;
+  }
+} 

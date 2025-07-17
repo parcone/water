@@ -1,0 +1,158 @@
+@import './variables.scss';
+
+// 主题配置
+:root {
+  // 品牌色
+  --brand-primary: #{$primary-color};
+  --brand-success: #{$success-color};
+  --brand-warning: #{$warning-color};
+  --brand-error: #{$error-color};
+  --brand-info: #{$info-color};
+
+  // 中性色
+  --text-primary: #{$text-primary};
+  --text-secondary: #{$text-secondary};
+  --text-disabled: #{$text-disabled};
+  --border-color: #{$border-color};
+  --background-base: #{$background-base};
+  --background-light: #{$background-light};
+
+  // 暗色主题
+  --dark-background: #{$dark-background};
+  --dark-component-background: #{$dark-component-background};
+  --dark-text-primary: #{$dark-text-primary};
+  --dark-text-secondary: #{$dark-text-secondary};
+  --dark-border-color: #{$dark-border-color};
+
+  // 字体
+  --font-family: #{$font-family};
+  --font-size-base: #{$font-size-base};
+  --font-size-lg: #{$font-size-lg};
+  --font-size-sm: #{$font-size-sm};
+  --heading-1-size: #{$heading-1-size};
+  --heading-2-size: #{$heading-2-size};
+  --heading-3-size: #{$heading-3-size};
+  --heading-4-size: #{$heading-4-size};
+
+  // 间距
+  --spacing-unit: #{$spacing-unit};
+  --spacing-xs: #{$spacing-xs};
+  --spacing-sm: #{$spacing-sm};
+  --spacing-md: #{$spacing-md};
+  --spacing-lg: #{$spacing-lg};
+  --spacing-xl: #{$spacing-xl};
+
+  // 圆角
+  --border-radius-base: #{$border-radius-base};
+  --border-radius-sm: #{$border-radius-sm};
+  --border-radius-lg: #{$border-radius-lg};
+  --border-radius-xl: #{$border-radius-xl};
+
+  // 阴影
+  --shadow-1: #{$shadow-1};
+  --shadow-2: #{$shadow-2};
+  --shadow-3: #{$shadow-3};
+
+  // 动画
+  --animation-duration-base: #{$animation-duration-base};
+  --animation-duration-slow: #{$animation-duration-slow};
+  --animation-duration-slower: #{$animation-duration-slower};
+
+  // 组件尺寸
+  --header-height: #{$header-height};
+  --sidebar-width: #{$sidebar-width};
+  --footer-height: #{$footer-height};
+
+  // 卡片样式
+  --card-padding-base: #{$card-padding-base};
+  --card-radius: #{$card-radius};
+  --card-shadow: #{$card-shadow};
+
+  // 输入框样式
+  --input-height-base: #{$input-height-base};
+  --input-height-lg: #{$input-height-lg};
+  --input-height-sm: #{$input-height-sm};
+  --input-padding-horizontal: #{$input-padding-horizontal};
+  --input-padding-vertical-base: #{$input-padding-vertical-base};
+  --input-padding-vertical-sm: #{$input-padding-vertical-sm};
+  --input-padding-vertical-lg: #{$input-padding-vertical-lg};
+
+  // 按钮样式
+  --btn-height-base: #{$btn-height-base};
+  --btn-height-lg: #{$btn-height-lg};
+  --btn-height-sm: #{$btn-height-sm};
+  --btn-padding-horizontal-base: #{$btn-padding-horizontal-base};
+  --btn-padding-horizontal-lg: #{$btn-padding-horizontal-lg};
+  --btn-padding-horizontal-sm: #{$btn-padding-horizontal-sm};
+
+  // 表格样式
+  --table-header-bg: #{$table-header-bg};
+  --table-header-color: #{$table-header-color};
+  --table-row-hover-bg: #{$table-row-hover-bg};
+  --table-padding-vertical: #{$table-padding-vertical};
+  --table-padding-horizontal: #{$table-padding-horizontal};
+}
+
+// 暗色主题
+[data-theme='dark'] {
+  // 品牌色
+  --brand-primary: #{lighten($primary-color, 10%)};
+  --brand-success: #{lighten($success-color, 10%)};
+  --brand-warning: #{lighten($warning-color, 10%)};
+  --brand-error: #{lighten($error-color, 10%)};
+  --brand-info: #{lighten($info-color, 10%)};
+
+  // 中性色
+  --text-primary: #{$dark-text-primary};
+  --text-secondary: #{$dark-text-secondary};
+  --text-disabled: rgba(255, 255, 255, 0.3);
+  --border-color: #{$dark-border-color};
+  --background-base: #{$dark-background};
+  --background-light: #{$dark-component-background};
+
+  // 阴影
+  --shadow-1: 0 1px 2px 0 rgba(0, 0, 0, 0.3),
+              0 1px 6px -1px rgba(0, 0, 0, 0.2),
+              0 2px 4px 0 rgba(0, 0, 0, 0.2);
+  --shadow-2: 0 3px 6px -4px rgba(0, 0, 0, 0.4),
+              0 6px 16px 0 rgba(0, 0, 0, 0.3),
+              0 9px 28px 8px rgba(0, 0, 0, 0.2);
+  --shadow-3: 0 6px 16px -8px rgba(0, 0, 0, 0.5),
+              0 9px 28px 0 rgba(0, 0, 0, 0.4),
+              0 12px 48px 16px rgba(0, 0, 0, 0.3);
+
+  // 组件样式
+  --card-shadow: #{$shadow-1};
+  --table-header-bg: #{$dark-component-background};
+  --table-header-color: #{$dark-text-primary};
+  --table-row-hover-bg: rgba(255, 255, 255, 0.08);
+}
+
+// 高对比度主题
+[data-theme='high-contrast'] {
+  // 品牌色
+  --brand-primary: #0066cc;
+  --brand-success: #008000;
+  --brand-warning: #cc6600;
+  --brand-error: #cc0000;
+  --brand-info: #0066cc;
+
+  // 中性色
+  --text-primary: #000000;
+  --text-secondary: #333333;
+  --text-disabled: #666666;
+  --border-color: #000000;
+  --background-base: #ffffff;
+  --background-light: #f0f0f0;
+
+  // 阴影
+  --shadow-1: 0 0 0 1px #000000;
+  --shadow-2: 0 0 0 2px #000000;
+  --shadow-3: 0 0 0 3px #000000;
+
+  // 组件样式
+  --card-shadow: var(--shadow-1);
+  --table-header-bg: #000000;
+  --table-header-color: #ffffff;
+  --table-row-hover-bg: #e6e6e6;
+} 

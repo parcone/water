@@ -1,0 +1,146 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /api
+
+spring:
+  profiles:
+    active: dev
+  application:
+    name: water-melt-backend
+  main:
+    allow-bean-definition-overriding: true
+  
+  # 数据源配置
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/water_melt?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Shanghai
+    username: root
+    password: root
+    druid:
+      initial-size: 5
+      min-idle: 5
+      max-active: 20
+      max-wait: 60000
+      time-between-eviction-runs-millis: 60000
+      min-evictable-idle-time-millis: 300000
+      validation-query: SELECT 1
+      test-while-idle: true
+      test-on-borrow: false
+      test-on-return: false
+      pool-prepared-statements: true
+      max-pool-prepared-statements-per-connection-size: 20
+      filters: stat,wall,log4j2
+      connection-properties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=5000
+      stat-view-servlet:
+        enabled: true
+        url-pattern: /druid/*
+        login-username: admin
+        login-password: 123456
+      filter:
+        stat:
+          log-slow-sql: true
+          slow-sql-millis: 1000
+          merge-sql: true
+        wall:
+          config:
+            multi-statement-allow: true
+
+  # Redis配置
+  data:
+    redis:
+      host: localhost
+      port: 6379
+      password:
+      database: 0
+      lettuce:
+        pool:
+          max-active: 8
+          max-wait: -1ms
+          max-idle: 8
+          min-idle: 0
+
+  # 文件上传配置
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 100MB
+
+  flyway:
+    enabled: false
+
+# MyBatis Plus配置
+mybatis-plus:
+  mapper-locations: classpath*:/mapper/**/*.xml
+  type-aliases-package: com.watermelt.model
+  configuration:
+    map-underscore-to-camel-case: true
+    cache-enabled: false
+  global-config:
+    db-config:
+      id-type: auto
+      logic-delete-field: deleted
+      logic-delete-value: 1
+      logic-not-delete-value: 0
+
+# Knife4j配置
+knife4j:
+  enable: true
+  setting:
+    language: zh-CN
+    enable-swagger-models: true
+    enable-document-manage: true
+    swagger-model-name: 实体类列表
+  basic:
+    enable: false
+    username: admin
+    password: admin
+
+# SpringDoc配置
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+    tags-sorter: alpha
+    operations-sorter: alpha
+  api-docs:
+    path: /v3/api-docs
+  group-configs:
+    - group: 'default'
+      paths-to-match: '/**'
+      packages-to-scan: com.watermelt.controller
+
+# 应用配置
+app:
+  jwt:
+    # Use a strong secret key in production (min 256 bits / 32 bytes)
+    secret: ${JWT_SECRET:your-secret-key-here-must-be-at-least-32-bytes-long}
+    # 24 hours in milliseconds
+    expiration: ${JWT_EXPIRATION:86400000}
+    header: ${JWT_HEADER:Authorization}
+    token-prefix: ${JWT_PREFIX:Bearer}
+    # Additional security settings
+    refresh-token-expiration: ${JWT_REFRESH_EXPIRATION:604800000} # 7 days
+    issuer: ${JWT_ISSUER:water-melt}
+    audience: ${JWT_AUDIENCE:water-melt-api}
+  upload:
+    dir: ${UPLOAD_DIR:/opt/water-melt/upload/}
+    allowed-types: ${ALLOWED_FILE_TYPES:.jpg,.jpeg,.png,.gif,.doc,.docx,.xls,.xlsx,.pdf}
+  process:
+    temperature:
+      max: ${PROCESS_MAX_TEMP:150.0}
+      min: ${PROCESS_MIN_TEMP:0.0}
+    pressure:
+      max: ${PROCESS_MAX_PRESSURE:10.0}
+      min: ${PROCESS_MIN_PRESSURE:0.0}
+    flowRate:
+      max: ${PROCESS_MAX_FLOW:100.0}
+      min: ${PROCESS_MIN_FLOW:0.0}
+
+# 系统配置
+system:
+  # WebSocket配置
+  websocket:
+    endpoint: /ws
+    allowed-origins: "*"
+    heartbeat-interval: 60000 

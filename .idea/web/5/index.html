@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="index.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>星地一体化智能土壤环境分析监测系统</title>
+
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <div class="logo">
+      <div>
+        <i class="fas fa-user-circle" style="font-size: 24px;"></i>
+      </div>
+      <a href="../1/index.html" class="insert-color" style="margin-left: 10px; text-decoration: none; color: inherit;">
+        <i class="fas fa-desktop" style="font-size: 16px;"></i>系统首页
+      </a>
+      <a href="../2/index.html" class="insert-color" style="margin-left: 25px; text-decoration: none; color: inherit;">
+        <i class="fas fa-brain" style="font-size: 16px;"></i> 智能物联
+      </a>
+      <a href="../3/index.html" class="insert-color" style="margin-left: 25px; text-decoration: none; color: inherit;">
+        <i class="fas fa-chart-line" style="font-size: 16px;"></i> 智能监测
+      </a>
+    </div>
+    <div class="header-title">
+      星地一体化智能土壤环境分析监测系统
+      <div class="header-subtitle">Satellite-ground soil environment analysis and monitoring system</div>
+    </div>
+    <div class="header-right">
+      <button class="header-btn" onclick="window.location.href='../4/index.html'">
+        <i class="fas fa-comment"></i> 质量评价
+      </button>
+
+      <button class="header-btn" onclick="window.location.href='../5/index.html'">
+        <i class="fas fa-database"></i> 数据管理
+      </button>
+
+      <button class="header-btn" onclick="window.location.href='../6/index.html'">
+        <i class="fas fa-info-circle"></i> 信息概述
+      </button>
+
+      <button class="header-btn">
+        <i class="fas fa-power-off"></i>
+      </button>
+    </div>
+  </div>
+
+  <div class="tabs">
+    <div class="tab active">属性影像</div>
+    <div class="tab">预处理影像</div>
+    <div class="tab">遥感反演影像</div>
+    <div class="tab">农田分析影像</div>
+  </div>
+
+  <div class="filters">
+    <div class="filter-box">
+      <span class="filter-icon">🔍</span>
+      <span>ID 筛选</span>
+    </div>
+    <div class="filter-box">
+      <span class="filter-icon">📷</span>
+      <span>影像名称</span>
+    </div>
+    <div class="filter-box">
+      <span class="filter-icon">🛰️</span>
+      <span>卫星类型</span>
+    </div>
+    <div class="filter-box">
+      <span class="filter-icon">📁</span>
+      <span>数据类型</span>
+    </div>
+    <div class="filter-box">
+      <span class="filter-icon">🗓️</span>
+      <span>时间范围</span>
+    </div>
+  </div>
+
+  <div class="table-container">
+    <table>
+      <thead>
+      <tr>
+        <th>ID</th>
+        <th>影像名称</th>
+        <th>卫星类型</th>
+        <th>数据类型</th>
+        <th>源拍摄地理时间</th>
+        <th>经度范围</th>
+        <th>纬度范围</th>
+        <th>制造时间</th>
+        <th>影像缩略</th>
+        <th>操作</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+        <td>1681266666136332288</td>
+        <td>L08127036202115QLND0</td>
+        <td>LANDSAT_8</td>
+        <td>OLI_TIRS</td>
+        <td>2021-05-30</td>
+        <td>33.50736-35.69868</td>
+        <td>107.48237-110.06270</td>
+        <td>2023-07-18</td>
+        <td><img src="/api/placeholder/60/60" alt="thumbnail" class="thumbnail"></td>
+        <td>
+          <span class="action-btn view">查</span>
+          <span class="action-btn delete">删</span>
+        </td>
+      </tr>
+      <tr>
+        <td>1676868926277285504</td>
+        <td>L08127036202010QLND0</td>
+        <td>LANDSAT_8</td>
+        <td>OLI_TIRS</td>
+        <td>2020-04-09</td>
+        <td>33.50736-35.69660</td>
+        <td>107.48237-110.06602</td>
+        <td>2023-07-11</td>
+        <td><img src="/api/placeholder/60/60" alt="thumbnail" class="thumbnail"></td>
+        <td>
+          <span class="action-btn view">查</span>
+          <span class="action-btn delete">删</span>
+        </td>
+      </tr>
+      <tr>
+        <td>1676868842636189184</td>
+        <td>L08127036201710LBND0</td>
+        <td>LANDSAT_8</td>
+        <td>OLI_TIRS</td>
+        <td>2017-04-17</td>
+        <td>33.50457-35.69658</td>
+        <td>107.47906-110.06270</td>
+        <td>2023-07-11</td>
+        <td><img src="/api/placeholder/60/60" alt="thumbnail" class="thumbnail"></td>
+        <td>
+          <span class="action-btn view">查</span>
+          <span class="action-btn delete">删</span>
+        </td>
+      </tr>
+      <tr>
+        <td>1681283770466839936</td>
+        <td>GF1_WFV4_E107_9_N35_2_2019030</td>
+        <td>GF1</td>
+        <td>WFV4</td>
+        <td>2019-03-09</td>
+        <td>33.961-36.3266</td>
+        <td>106.518-109.579</td>
+        <td>2023-07-18</td>
+        <td><img src="/api/placeholder/60/60" alt="thumbnail" class="thumbnail"></td>
+        <td>
+          <span class="action-btn view">查</span>
+          <span class="action-btn delete">删</span>
+        </td>
+      </tr>
+      <tr>
+        <td>1681277506848775168</td>
+        <td>GF1_WFV4_E107_9_N35_2_2016022</td>
+        <td>GF1</td>
+        <td>WFV4</td>
+        <td>2016-02-26</td>
+        <td>33.9992-36.3266</td>
+        <td>106.516-109.569</td>
+        <td>2023-07-18</td>
+        <td><img src="/api/placeholder/60/60" alt="thumbnail" class="thumbnail"></td>
+        <td>
+          <span class="action-btn view">查</span>
+          <span class="action-btn delete">删</span>
+        </td>
+      </tr>
+      <tr>
+        <td>1681288439530692608</td>
+        <td>GF1_WFY1_E108_4_N34_7_2021032</td>
+        <td>GF1</td>
+        <td>WFY1</td>
+        <td>2021-03-23</td>
+        <td>33.5891-35.7834</td>
+        <td>106.793-109.808</td>
+        <td>2023-07-18</td>
+        <td><img src="/api/placeholder/60/60" alt="thumbnail" class="thumbnail"></td>
+        <td>
+          <span class="action-btn view">查</span>
+          <span class="action-btn delete">删</span>
+        </td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="pagination">
+    <span>共 14 条</span>
+    <div class="page-btn">上一页</div>
+    <div class="page-btn active">1</div>
+    <div class="page-btn">2</div>
+    <div class="page-btn">下一页</div>
+    <span>跳转</span>
+    <input type="text" style="width: 30px; background: #222; border: 1px solid #444; color: #fff; text-align: center; padding: 3px;">
+    <span>页</span>
+  </div>
+</div>
+
+<div class="background"></div>
+<div class="grid"></div>
+
+<script>
+  // Simple functionality for demo purposes
+  document.querySelectorAll('.tab').forEach(tab => {
+    tab.addEventListener('click', () => {
+      document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+    });
+  });
+</script>
+<!-- Font Awesome -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/js/all.min.js"></script>
+</body>
+</html>

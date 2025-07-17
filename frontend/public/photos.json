@@ -1,0 +1,4882 @@
+[
+  {
+    "path": "2025_01_SSM_20250101.png",
+    "filename": "2025_01_SSM_20250101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2025_01_SSM_20250101.png",
+    "index": 0,
+    "date": "2025-01-01",
+    "displayName": "2025-01-01"
+  },
+  {
+    "path": "2025_02_SSM_20250201.png",
+    "filename": "2025_02_SSM_20250201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2025_02_SSM_20250201.png",
+    "index": 1,
+    "date": "2025-02-01",
+    "displayName": "2025-02-01"
+  },
+  {
+    "path": "2025_03_SSM_20250301.png",
+    "filename": "2025_03_SSM_20250301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2025_03_SSM_20250301.png",
+    "index": 2,
+    "date": "2025-03-01",
+    "displayName": "2025-03-01"
+  },
+  {
+    "path": "2025_04_SSM_20250401.png",
+    "filename": "2025_04_SSM_20250401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2025_04_SSM_20250401.png",
+    "index": 3,
+    "date": "2025-04-01",
+    "displayName": "2025-04-01"
+  },
+  {
+    "path": "2025_05_SSM_20250501.png",
+    "filename": "2025_05_SSM_20250501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2025_05_SSM_20250501.png",
+    "index": 4,
+    "date": "2025-05-01",
+    "displayName": "2025-05-01"
+  },
+  {
+    "path": "2025_06_SSM_20250601.png",
+    "filename": "2025_06_SSM_20250601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2025_06_SSM_20250601.png",
+    "index": 5,
+    "date": "2025-06-01",
+    "displayName": "2025-06-01"
+  },
+  {
+    "path": "2025_07_SSM_20250701.png",
+    "filename": "2025_07_SSM_20250701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2025_07_SSM_20250701.png",
+    "index": 6,
+    "date": "2025-07-01",
+    "displayName": "2025-07-01"
+  },
+  {
+    "path": "2025_08_SSM_20250801.png",
+    "filename": "2025_08_SSM_20250801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2025_08_SSM_20250801.png",
+    "index": 7,
+    "date": "2025-08-01",
+    "displayName": "2025-08-01"
+  },
+  {
+    "path": "2025_09_SSM_20250901.png",
+    "filename": "2025_09_SSM_20250901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2025_09_SSM_20250901.png",
+    "index": 8,
+    "date": "2025-09-01",
+    "displayName": "2025-09-01"
+  },
+  {
+    "path": "2025_10_SSM_20251001.png",
+    "filename": "2025_10_SSM_20251001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2025_10_SSM_20251001.png",
+    "index": 9,
+    "date": "2025-10-01",
+    "displayName": "2025-10-01"
+  },
+  {
+    "path": "2025_11_SSM_20251101.png",
+    "filename": "2025_11_SSM_20251101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2025_11_SSM_20251101.png",
+    "index": 10,
+    "date": "2025-11-01",
+    "displayName": "2025-11-01"
+  },
+  {
+    "path": "2025_12_SSM_20251201.png",
+    "filename": "2025_12_SSM_20251201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2025_12_SSM_20251201.png",
+    "index": 11,
+    "date": "2025-12-01",
+    "displayName": "2025-12-01"
+  },
+  {
+    "path": "2026_01_SSM_20260101.png",
+    "filename": "2026_01_SSM_20260101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2026_01_SSM_20260101.png",
+    "index": 12,
+    "date": "2026-01-01",
+    "displayName": "2026-01-01"
+  },
+  {
+    "path": "2026_02_SSM_20260201.png",
+    "filename": "2026_02_SSM_20260201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2026_02_SSM_20260201.png",
+    "index": 13,
+    "date": "2026-02-01",
+    "displayName": "2026-02-01"
+  },
+  {
+    "path": "2026_03_SSM_20260301.png",
+    "filename": "2026_03_SSM_20260301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2026_03_SSM_20260301.png",
+    "index": 14,
+    "date": "2026-03-01",
+    "displayName": "2026-03-01"
+  },
+  {
+    "path": "2026_04_SSM_20260401.png",
+    "filename": "2026_04_SSM_20260401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2026_04_SSM_20260401.png",
+    "index": 15,
+    "date": "2026-04-01",
+    "displayName": "2026-04-01"
+  },
+  {
+    "path": "2026_05_SSM_20260501.png",
+    "filename": "2026_05_SSM_20260501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2026_05_SSM_20260501.png",
+    "index": 16,
+    "date": "2026-05-01",
+    "displayName": "2026-05-01"
+  },
+  {
+    "path": "2026_06_SSM_20260601.png",
+    "filename": "2026_06_SSM_20260601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2026_06_SSM_20260601.png",
+    "index": 17,
+    "date": "2026-06-01",
+    "displayName": "2026-06-01"
+  },
+  {
+    "path": "2026_07_SSM_20260701.png",
+    "filename": "2026_07_SSM_20260701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2026_07_SSM_20260701.png",
+    "index": 18,
+    "date": "2026-07-01",
+    "displayName": "2026-07-01"
+  },
+  {
+    "path": "2026_08_SSM_20260801.png",
+    "filename": "2026_08_SSM_20260801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2026_08_SSM_20260801.png",
+    "index": 19,
+    "date": "2026-08-01",
+    "displayName": "2026-08-01"
+  },
+  {
+    "path": "2026_09_SSM_20260901.png",
+    "filename": "2026_09_SSM_20260901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2026_09_SSM_20260901.png",
+    "index": 20,
+    "date": "2026-09-01",
+    "displayName": "2026-09-01"
+  },
+  {
+    "path": "2026_10_SSM_20261001.png",
+    "filename": "2026_10_SSM_20261001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2026_10_SSM_20261001.png",
+    "index": 21,
+    "date": "2026-10-01",
+    "displayName": "2026-10-01"
+  },
+  {
+    "path": "2026_11_SSM_20261101.png",
+    "filename": "2026_11_SSM_20261101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2026_11_SSM_20261101.png",
+    "index": 22,
+    "date": "2026-11-01",
+    "displayName": "2026-11-01"
+  },
+  {
+    "path": "2026_12_SSM_20261201.png",
+    "filename": "2026_12_SSM_20261201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2026_12_SSM_20261201.png",
+    "index": 23,
+    "date": "2026-12-01",
+    "displayName": "2026-12-01"
+  },
+  {
+    "path": "2027_01_SSM_20270101.png",
+    "filename": "2027_01_SSM_20270101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2027_01_SSM_20270101.png",
+    "index": 24,
+    "date": "2027-01-01",
+    "displayName": "2027-01-01"
+  },
+  {
+    "path": "2027_02_SSM_20270201.png",
+    "filename": "2027_02_SSM_20270201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2027_02_SSM_20270201.png",
+    "index": 25,
+    "date": "2027-02-01",
+    "displayName": "2027-02-01"
+  },
+  {
+    "path": "2027_03_SSM_20270301.png",
+    "filename": "2027_03_SSM_20270301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2027_03_SSM_20270301.png",
+    "index": 26,
+    "date": "2027-03-01",
+    "displayName": "2027-03-01"
+  },
+  {
+    "path": "2027_04_SSM_20270401.png",
+    "filename": "2027_04_SSM_20270401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2027_04_SSM_20270401.png",
+    "index": 27,
+    "date": "2027-04-01",
+    "displayName": "2027-04-01"
+  },
+  {
+    "path": "2027_05_SSM_20270501.png",
+    "filename": "2027_05_SSM_20270501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2027_05_SSM_20270501.png",
+    "index": 28,
+    "date": "2027-05-01",
+    "displayName": "2027-05-01"
+  },
+  {
+    "path": "2027_06_SSM_20270601.png",
+    "filename": "2027_06_SSM_20270601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2027_06_SSM_20270601.png",
+    "index": 29,
+    "date": "2027-06-01",
+    "displayName": "2027-06-01"
+  },
+  {
+    "path": "2027_07_SSM_20270701.png",
+    "filename": "2027_07_SSM_20270701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2027_07_SSM_20270701.png",
+    "index": 30,
+    "date": "2027-07-01",
+    "displayName": "2027-07-01"
+  },
+  {
+    "path": "2027_08_SSM_20270801.png",
+    "filename": "2027_08_SSM_20270801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2027_08_SSM_20270801.png",
+    "index": 31,
+    "date": "2027-08-01",
+    "displayName": "2027-08-01"
+  },
+  {
+    "path": "2027_09_SSM_20270901.png",
+    "filename": "2027_09_SSM_20270901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2027_09_SSM_20270901.png",
+    "index": 32,
+    "date": "2027-09-01",
+    "displayName": "2027-09-01"
+  },
+  {
+    "path": "2027_10_SSM_20271001.png",
+    "filename": "2027_10_SSM_20271001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2027_10_SSM_20271001.png",
+    "index": 33,
+    "date": "2027-10-01",
+    "displayName": "2027-10-01"
+  },
+  {
+    "path": "2027_11_SSM_20271101.png",
+    "filename": "2027_11_SSM_20271101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2027_11_SSM_20271101.png",
+    "index": 34,
+    "date": "2027-11-01",
+    "displayName": "2027-11-01"
+  },
+  {
+    "path": "2027_12_SSM_20271201.png",
+    "filename": "2027_12_SSM_20271201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2027_12_SSM_20271201.png",
+    "index": 35,
+    "date": "2027-12-01",
+    "displayName": "2027-12-01"
+  },
+  {
+    "path": "2028_01_SSM_20280101.png",
+    "filename": "2028_01_SSM_20280101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2028_01_SSM_20280101.png",
+    "index": 36,
+    "date": "2028-01-01",
+    "displayName": "2028-01-01"
+  },
+  {
+    "path": "2028_02_SSM_20280201.png",
+    "filename": "2028_02_SSM_20280201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2028_02_SSM_20280201.png",
+    "index": 37,
+    "date": "2028-02-01",
+    "displayName": "2028-02-01"
+  },
+  {
+    "path": "2028_03_SSM_20280301.png",
+    "filename": "2028_03_SSM_20280301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2028_03_SSM_20280301.png",
+    "index": 38,
+    "date": "2028-03-01",
+    "displayName": "2028-03-01"
+  },
+  {
+    "path": "2028_04_SSM_20280401.png",
+    "filename": "2028_04_SSM_20280401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2028_04_SSM_20280401.png",
+    "index": 39,
+    "date": "2028-04-01",
+    "displayName": "2028-04-01"
+  },
+  {
+    "path": "2028_05_SSM_20280501.png",
+    "filename": "2028_05_SSM_20280501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2028_05_SSM_20280501.png",
+    "index": 40,
+    "date": "2028-05-01",
+    "displayName": "2028-05-01"
+  },
+  {
+    "path": "2028_06_SSM_20280601.png",
+    "filename": "2028_06_SSM_20280601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2028_06_SSM_20280601.png",
+    "index": 41,
+    "date": "2028-06-01",
+    "displayName": "2028-06-01"
+  },
+  {
+    "path": "2028_07_SSM_20280701.png",
+    "filename": "2028_07_SSM_20280701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2028_07_SSM_20280701.png",
+    "index": 42,
+    "date": "2028-07-01",
+    "displayName": "2028-07-01"
+  },
+  {
+    "path": "2028_08_SSM_20280801.png",
+    "filename": "2028_08_SSM_20280801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2028_08_SSM_20280801.png",
+    "index": 43,
+    "date": "2028-08-01",
+    "displayName": "2028-08-01"
+  },
+  {
+    "path": "2028_09_SSM_20280901.png",
+    "filename": "2028_09_SSM_20280901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2028_09_SSM_20280901.png",
+    "index": 44,
+    "date": "2028-09-01",
+    "displayName": "2028-09-01"
+  },
+  {
+    "path": "2028_10_SSM_20281001.png",
+    "filename": "2028_10_SSM_20281001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2028_10_SSM_20281001.png",
+    "index": 45,
+    "date": "2028-10-01",
+    "displayName": "2028-10-01"
+  },
+  {
+    "path": "2028_11_SSM_20281101.png",
+    "filename": "2028_11_SSM_20281101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2028_11_SSM_20281101.png",
+    "index": 46,
+    "date": "2028-11-01",
+    "displayName": "2028-11-01"
+  },
+  {
+    "path": "2028_12_SSM_20281201.png",
+    "filename": "2028_12_SSM_20281201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2028_12_SSM_20281201.png",
+    "index": 47,
+    "date": "2028-12-01",
+    "displayName": "2028-12-01"
+  },
+  {
+    "path": "2029_01_SSM_20290101.png",
+    "filename": "2029_01_SSM_20290101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2029_01_SSM_20290101.png",
+    "index": 48,
+    "date": "2029-01-01",
+    "displayName": "2029-01-01"
+  },
+  {
+    "path": "2029_02_SSM_20290201.png",
+    "filename": "2029_02_SSM_20290201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2029_02_SSM_20290201.png",
+    "index": 49,
+    "date": "2029-02-01",
+    "displayName": "2029-02-01"
+  },
+  {
+    "path": "2029_03_SSM_20290301.png",
+    "filename": "2029_03_SSM_20290301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2029_03_SSM_20290301.png",
+    "index": 50,
+    "date": "2029-03-01",
+    "displayName": "2029-03-01"
+  },
+  {
+    "path": "2029_04_SSM_20290401.png",
+    "filename": "2029_04_SSM_20290401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2029_04_SSM_20290401.png",
+    "index": 51,
+    "date": "2029-04-01",
+    "displayName": "2029-04-01"
+  },
+  {
+    "path": "2029_05_SSM_20290501.png",
+    "filename": "2029_05_SSM_20290501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2029_05_SSM_20290501.png",
+    "index": 52,
+    "date": "2029-05-01",
+    "displayName": "2029-05-01"
+  },
+  {
+    "path": "2029_06_SSM_20290601.png",
+    "filename": "2029_06_SSM_20290601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2029_06_SSM_20290601.png",
+    "index": 53,
+    "date": "2029-06-01",
+    "displayName": "2029-06-01"
+  },
+  {
+    "path": "2029_07_SSM_20290701.png",
+    "filename": "2029_07_SSM_20290701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2029_07_SSM_20290701.png",
+    "index": 54,
+    "date": "2029-07-01",
+    "displayName": "2029-07-01"
+  },
+  {
+    "path": "2029_08_SSM_20290801.png",
+    "filename": "2029_08_SSM_20290801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2029_08_SSM_20290801.png",
+    "index": 55,
+    "date": "2029-08-01",
+    "displayName": "2029-08-01"
+  },
+  {
+    "path": "2029_09_SSM_20290901.png",
+    "filename": "2029_09_SSM_20290901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2029_09_SSM_20290901.png",
+    "index": 56,
+    "date": "2029-09-01",
+    "displayName": "2029-09-01"
+  },
+  {
+    "path": "2029_10_SSM_20291001.png",
+    "filename": "2029_10_SSM_20291001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2029_10_SSM_20291001.png",
+    "index": 57,
+    "date": "2029-10-01",
+    "displayName": "2029-10-01"
+  },
+  {
+    "path": "2029_11_SSM_20291101.png",
+    "filename": "2029_11_SSM_20291101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2029_11_SSM_20291101.png",
+    "index": 58,
+    "date": "2029-11-01",
+    "displayName": "2029-11-01"
+  },
+  {
+    "path": "2029_12_SSM_20291201.png",
+    "filename": "2029_12_SSM_20291201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2029_12_SSM_20291201.png",
+    "index": 59,
+    "date": "2029-12-01",
+    "displayName": "2029-12-01"
+  },
+  {
+    "path": "2030_01_SSM_20300101.png",
+    "filename": "2030_01_SSM_20300101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2030_01_SSM_20300101.png",
+    "index": 60,
+    "date": "2030-01-01",
+    "displayName": "2030-01-01"
+  },
+  {
+    "path": "2030_02_SSM_20300201.png",
+    "filename": "2030_02_SSM_20300201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2030_02_SSM_20300201.png",
+    "index": 61,
+    "date": "2030-02-01",
+    "displayName": "2030-02-01"
+  },
+  {
+    "path": "2030_03_SSM_20300301.png",
+    "filename": "2030_03_SSM_20300301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2030_03_SSM_20300301.png",
+    "index": 62,
+    "date": "2030-03-01",
+    "displayName": "2030-03-01"
+  },
+  {
+    "path": "2030_04_SSM_20300401.png",
+    "filename": "2030_04_SSM_20300401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2030_04_SSM_20300401.png",
+    "index": 63,
+    "date": "2030-04-01",
+    "displayName": "2030-04-01"
+  },
+  {
+    "path": "2030_05_SSM_20300501.png",
+    "filename": "2030_05_SSM_20300501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2030_05_SSM_20300501.png",
+    "index": 64,
+    "date": "2030-05-01",
+    "displayName": "2030-05-01"
+  },
+  {
+    "path": "2030_06_SSM_20300601.png",
+    "filename": "2030_06_SSM_20300601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2030_06_SSM_20300601.png",
+    "index": 65,
+    "date": "2030-06-01",
+    "displayName": "2030-06-01"
+  },
+  {
+    "path": "2030_07_SSM_20300701.png",
+    "filename": "2030_07_SSM_20300701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2030_07_SSM_20300701.png",
+    "index": 66,
+    "date": "2030-07-01",
+    "displayName": "2030-07-01"
+  },
+  {
+    "path": "2030_08_SSM_20300801.png",
+    "filename": "2030_08_SSM_20300801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2030_08_SSM_20300801.png",
+    "index": 67,
+    "date": "2030-08-01",
+    "displayName": "2030-08-01"
+  },
+  {
+    "path": "2030_09_SSM_20300901.png",
+    "filename": "2030_09_SSM_20300901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2030_09_SSM_20300901.png",
+    "index": 68,
+    "date": "2030-09-01",
+    "displayName": "2030-09-01"
+  },
+  {
+    "path": "2030_10_SSM_20301001.png",
+    "filename": "2030_10_SSM_20301001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2030_10_SSM_20301001.png",
+    "index": 69,
+    "date": "2030-10-01",
+    "displayName": "2030-10-01"
+  },
+  {
+    "path": "2030_11_SSM_20301101.png",
+    "filename": "2030_11_SSM_20301101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2030_11_SSM_20301101.png",
+    "index": 70,
+    "date": "2030-11-01",
+    "displayName": "2030-11-01"
+  },
+  {
+    "path": "2030_12_SSM_20301201.png",
+    "filename": "2030_12_SSM_20301201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2030_12_SSM_20301201.png",
+    "index": 71,
+    "date": "2030-12-01",
+    "displayName": "2030-12-01"
+  },
+  {
+    "path": "2031_01_SSM_20310101.png",
+    "filename": "2031_01_SSM_20310101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2031_01_SSM_20310101.png",
+    "index": 72,
+    "date": "2031-01-01",
+    "displayName": "2031-01-01"
+  },
+  {
+    "path": "2031_02_SSM_20310201.png",
+    "filename": "2031_02_SSM_20310201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2031_02_SSM_20310201.png",
+    "index": 73,
+    "date": "2031-02-01",
+    "displayName": "2031-02-01"
+  },
+  {
+    "path": "2031_03_SSM_20310301.png",
+    "filename": "2031_03_SSM_20310301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2031_03_SSM_20310301.png",
+    "index": 74,
+    "date": "2031-03-01",
+    "displayName": "2031-03-01"
+  },
+  {
+    "path": "2031_04_SSM_20310401.png",
+    "filename": "2031_04_SSM_20310401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2031_04_SSM_20310401.png",
+    "index": 75,
+    "date": "2031-04-01",
+    "displayName": "2031-04-01"
+  },
+  {
+    "path": "2031_05_SSM_20310501.png",
+    "filename": "2031_05_SSM_20310501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2031_05_SSM_20310501.png",
+    "index": 76,
+    "date": "2031-05-01",
+    "displayName": "2031-05-01"
+  },
+  {
+    "path": "2031_06_SSM_20310601.png",
+    "filename": "2031_06_SSM_20310601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2031_06_SSM_20310601.png",
+    "index": 77,
+    "date": "2031-06-01",
+    "displayName": "2031-06-01"
+  },
+  {
+    "path": "2031_07_SSM_20310701.png",
+    "filename": "2031_07_SSM_20310701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2031_07_SSM_20310701.png",
+    "index": 78,
+    "date": "2031-07-01",
+    "displayName": "2031-07-01"
+  },
+  {
+    "path": "2031_08_SSM_20310801.png",
+    "filename": "2031_08_SSM_20310801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2031_08_SSM_20310801.png",
+    "index": 79,
+    "date": "2031-08-01",
+    "displayName": "2031-08-01"
+  },
+  {
+    "path": "2031_09_SSM_20310901.png",
+    "filename": "2031_09_SSM_20310901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2031_09_SSM_20310901.png",
+    "index": 80,
+    "date": "2031-09-01",
+    "displayName": "2031-09-01"
+  },
+  {
+    "path": "2031_10_SSM_20311001.png",
+    "filename": "2031_10_SSM_20311001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2031_10_SSM_20311001.png",
+    "index": 81,
+    "date": "2031-10-01",
+    "displayName": "2031-10-01"
+  },
+  {
+    "path": "2031_11_SSM_20311101.png",
+    "filename": "2031_11_SSM_20311101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2031_11_SSM_20311101.png",
+    "index": 82,
+    "date": "2031-11-01",
+    "displayName": "2031-11-01"
+  },
+  {
+    "path": "2031_12_SSM_20311201.png",
+    "filename": "2031_12_SSM_20311201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2031_12_SSM_20311201.png",
+    "index": 83,
+    "date": "2031-12-01",
+    "displayName": "2031-12-01"
+  },
+  {
+    "path": "2032_01_SSM_20320101.png",
+    "filename": "2032_01_SSM_20320101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2032_01_SSM_20320101.png",
+    "index": 84,
+    "date": "2032-01-01",
+    "displayName": "2032-01-01"
+  },
+  {
+    "path": "2032_02_SSM_20320201.png",
+    "filename": "2032_02_SSM_20320201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2032_02_SSM_20320201.png",
+    "index": 85,
+    "date": "2032-02-01",
+    "displayName": "2032-02-01"
+  },
+  {
+    "path": "2032_03_SSM_20320301.png",
+    "filename": "2032_03_SSM_20320301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2032_03_SSM_20320301.png",
+    "index": 86,
+    "date": "2032-03-01",
+    "displayName": "2032-03-01"
+  },
+  {
+    "path": "2032_04_SSM_20320401.png",
+    "filename": "2032_04_SSM_20320401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2032_04_SSM_20320401.png",
+    "index": 87,
+    "date": "2032-04-01",
+    "displayName": "2032-04-01"
+  },
+  {
+    "path": "2032_05_SSM_20320501.png",
+    "filename": "2032_05_SSM_20320501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2032_05_SSM_20320501.png",
+    "index": 88,
+    "date": "2032-05-01",
+    "displayName": "2032-05-01"
+  },
+  {
+    "path": "2032_06_SSM_20320601.png",
+    "filename": "2032_06_SSM_20320601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2032_06_SSM_20320601.png",
+    "index": 89,
+    "date": "2032-06-01",
+    "displayName": "2032-06-01"
+  },
+  {
+    "path": "2032_07_SSM_20320701.png",
+    "filename": "2032_07_SSM_20320701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2032_07_SSM_20320701.png",
+    "index": 90,
+    "date": "2032-07-01",
+    "displayName": "2032-07-01"
+  },
+  {
+    "path": "2032_08_SSM_20320801.png",
+    "filename": "2032_08_SSM_20320801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2032_08_SSM_20320801.png",
+    "index": 91,
+    "date": "2032-08-01",
+    "displayName": "2032-08-01"
+  },
+  {
+    "path": "2032_09_SSM_20320901.png",
+    "filename": "2032_09_SSM_20320901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2032_09_SSM_20320901.png",
+    "index": 92,
+    "date": "2032-09-01",
+    "displayName": "2032-09-01"
+  },
+  {
+    "path": "2032_10_SSM_20321001.png",
+    "filename": "2032_10_SSM_20321001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2032_10_SSM_20321001.png",
+    "index": 93,
+    "date": "2032-10-01",
+    "displayName": "2032-10-01"
+  },
+  {
+    "path": "2032_11_SSM_20321101.png",
+    "filename": "2032_11_SSM_20321101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2032_11_SSM_20321101.png",
+    "index": 94,
+    "date": "2032-11-01",
+    "displayName": "2032-11-01"
+  },
+  {
+    "path": "2032_12_SSM_20321201.png",
+    "filename": "2032_12_SSM_20321201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2032_12_SSM_20321201.png",
+    "index": 95,
+    "date": "2032-12-01",
+    "displayName": "2032-12-01"
+  },
+  {
+    "path": "2033_01_SSM_20330101.png",
+    "filename": "2033_01_SSM_20330101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2033_01_SSM_20330101.png",
+    "index": 96,
+    "date": "2033-01-01",
+    "displayName": "2033-01-01"
+  },
+  {
+    "path": "2033_02_SSM_20330201.png",
+    "filename": "2033_02_SSM_20330201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2033_02_SSM_20330201.png",
+    "index": 97,
+    "date": "2033-02-01",
+    "displayName": "2033-02-01"
+  },
+  {
+    "path": "2033_03_SSM_20330301.png",
+    "filename": "2033_03_SSM_20330301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2033_03_SSM_20330301.png",
+    "index": 98,
+    "date": "2033-03-01",
+    "displayName": "2033-03-01"
+  },
+  {
+    "path": "2033_04_SSM_20330401.png",
+    "filename": "2033_04_SSM_20330401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2033_04_SSM_20330401.png",
+    "index": 99,
+    "date": "2033-04-01",
+    "displayName": "2033-04-01"
+  },
+  {
+    "path": "2033_05_SSM_20330501.png",
+    "filename": "2033_05_SSM_20330501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2033_05_SSM_20330501.png",
+    "index": 100,
+    "date": "2033-05-01",
+    "displayName": "2033-05-01"
+  },
+  {
+    "path": "2033_06_SSM_20330601.png",
+    "filename": "2033_06_SSM_20330601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2033_06_SSM_20330601.png",
+    "index": 101,
+    "date": "2033-06-01",
+    "displayName": "2033-06-01"
+  },
+  {
+    "path": "2033_07_SSM_20330701.png",
+    "filename": "2033_07_SSM_20330701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2033_07_SSM_20330701.png",
+    "index": 102,
+    "date": "2033-07-01",
+    "displayName": "2033-07-01"
+  },
+  {
+    "path": "2033_08_SSM_20330801.png",
+    "filename": "2033_08_SSM_20330801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2033_08_SSM_20330801.png",
+    "index": 103,
+    "date": "2033-08-01",
+    "displayName": "2033-08-01"
+  },
+  {
+    "path": "2033_09_SSM_20330901.png",
+    "filename": "2033_09_SSM_20330901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2033_09_SSM_20330901.png",
+    "index": 104,
+    "date": "2033-09-01",
+    "displayName": "2033-09-01"
+  },
+  {
+    "path": "2033_10_SSM_20331001.png",
+    "filename": "2033_10_SSM_20331001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2033_10_SSM_20331001.png",
+    "index": 105,
+    "date": "2033-10-01",
+    "displayName": "2033-10-01"
+  },
+  {
+    "path": "2033_11_SSM_20331101.png",
+    "filename": "2033_11_SSM_20331101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2033_11_SSM_20331101.png",
+    "index": 106,
+    "date": "2033-11-01",
+    "displayName": "2033-11-01"
+  },
+  {
+    "path": "2033_12_SSM_20331201.png",
+    "filename": "2033_12_SSM_20331201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2033_12_SSM_20331201.png",
+    "index": 107,
+    "date": "2033-12-01",
+    "displayName": "2033-12-01"
+  },
+  {
+    "path": "2034_01_SSM_20340101.png",
+    "filename": "2034_01_SSM_20340101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2034_01_SSM_20340101.png",
+    "index": 108,
+    "date": "2034-01-01",
+    "displayName": "2034-01-01"
+  },
+  {
+    "path": "2034_02_SSM_20340201.png",
+    "filename": "2034_02_SSM_20340201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2034_02_SSM_20340201.png",
+    "index": 109,
+    "date": "2034-02-01",
+    "displayName": "2034-02-01"
+  },
+  {
+    "path": "2034_03_SSM_20340301.png",
+    "filename": "2034_03_SSM_20340301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2034_03_SSM_20340301.png",
+    "index": 110,
+    "date": "2034-03-01",
+    "displayName": "2034-03-01"
+  },
+  {
+    "path": "2034_04_SSM_20340401.png",
+    "filename": "2034_04_SSM_20340401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2034_04_SSM_20340401.png",
+    "index": 111,
+    "date": "2034-04-01",
+    "displayName": "2034-04-01"
+  },
+  {
+    "path": "2034_05_SSM_20340501.png",
+    "filename": "2034_05_SSM_20340501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2034_05_SSM_20340501.png",
+    "index": 112,
+    "date": "2034-05-01",
+    "displayName": "2034-05-01"
+  },
+  {
+    "path": "2034_06_SSM_20340601.png",
+    "filename": "2034_06_SSM_20340601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2034_06_SSM_20340601.png",
+    "index": 113,
+    "date": "2034-06-01",
+    "displayName": "2034-06-01"
+  },
+  {
+    "path": "2034_07_SSM_20340701.png",
+    "filename": "2034_07_SSM_20340701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2034_07_SSM_20340701.png",
+    "index": 114,
+    "date": "2034-07-01",
+    "displayName": "2034-07-01"
+  },
+  {
+    "path": "2034_08_SSM_20340801.png",
+    "filename": "2034_08_SSM_20340801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2034_08_SSM_20340801.png",
+    "index": 115,
+    "date": "2034-08-01",
+    "displayName": "2034-08-01"
+  },
+  {
+    "path": "2034_09_SSM_20340901.png",
+    "filename": "2034_09_SSM_20340901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2034_09_SSM_20340901.png",
+    "index": 116,
+    "date": "2034-09-01",
+    "displayName": "2034-09-01"
+  },
+  {
+    "path": "2034_10_SSM_20341001.png",
+    "filename": "2034_10_SSM_20341001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2034_10_SSM_20341001.png",
+    "index": 117,
+    "date": "2034-10-01",
+    "displayName": "2034-10-01"
+  },
+  {
+    "path": "2034_11_SSM_20341101.png",
+    "filename": "2034_11_SSM_20341101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2034_11_SSM_20341101.png",
+    "index": 118,
+    "date": "2034-11-01",
+    "displayName": "2034-11-01"
+  },
+  {
+    "path": "2034_12_SSM_20341201.png",
+    "filename": "2034_12_SSM_20341201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2034_12_SSM_20341201.png",
+    "index": 119,
+    "date": "2034-12-01",
+    "displayName": "2034-12-01"
+  },
+  {
+    "path": "2035_01_SSM_20350101.png",
+    "filename": "2035_01_SSM_20350101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2035_01_SSM_20350101.png",
+    "index": 120,
+    "date": "2035-01-01",
+    "displayName": "2035-01-01"
+  },
+  {
+    "path": "2035_02_SSM_20350201.png",
+    "filename": "2035_02_SSM_20350201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2035_02_SSM_20350201.png",
+    "index": 121,
+    "date": "2035-02-01",
+    "displayName": "2035-02-01"
+  },
+  {
+    "path": "2035_03_SSM_20350301.png",
+    "filename": "2035_03_SSM_20350301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2035_03_SSM_20350301.png",
+    "index": 122,
+    "date": "2035-03-01",
+    "displayName": "2035-03-01"
+  },
+  {
+    "path": "2035_04_SSM_20350401.png",
+    "filename": "2035_04_SSM_20350401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2035_04_SSM_20350401.png",
+    "index": 123,
+    "date": "2035-04-01",
+    "displayName": "2035-04-01"
+  },
+  {
+    "path": "2035_05_SSM_20350501.png",
+    "filename": "2035_05_SSM_20350501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2035_05_SSM_20350501.png",
+    "index": 124,
+    "date": "2035-05-01",
+    "displayName": "2035-05-01"
+  },
+  {
+    "path": "2035_06_SSM_20350601.png",
+    "filename": "2035_06_SSM_20350601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2035_06_SSM_20350601.png",
+    "index": 125,
+    "date": "2035-06-01",
+    "displayName": "2035-06-01"
+  },
+  {
+    "path": "2035_07_SSM_20350701.png",
+    "filename": "2035_07_SSM_20350701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2035_07_SSM_20350701.png",
+    "index": 126,
+    "date": "2035-07-01",
+    "displayName": "2035-07-01"
+  },
+  {
+    "path": "2035_08_SSM_20350801.png",
+    "filename": "2035_08_SSM_20350801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2035_08_SSM_20350801.png",
+    "index": 127,
+    "date": "2035-08-01",
+    "displayName": "2035-08-01"
+  },
+  {
+    "path": "2035_09_SSM_20350901.png",
+    "filename": "2035_09_SSM_20350901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2035_09_SSM_20350901.png",
+    "index": 128,
+    "date": "2035-09-01",
+    "displayName": "2035-09-01"
+  },
+  {
+    "path": "2035_10_SSM_20351001.png",
+    "filename": "2035_10_SSM_20351001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2035_10_SSM_20351001.png",
+    "index": 129,
+    "date": "2035-10-01",
+    "displayName": "2035-10-01"
+  },
+  {
+    "path": "2035_11_SSM_20351101.png",
+    "filename": "2035_11_SSM_20351101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2035_11_SSM_20351101.png",
+    "index": 130,
+    "date": "2035-11-01",
+    "displayName": "2035-11-01"
+  },
+  {
+    "path": "2035_12_SSM_20351201.png",
+    "filename": "2035_12_SSM_20351201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2035_12_SSM_20351201.png",
+    "index": 131,
+    "date": "2035-12-01",
+    "displayName": "2035-12-01"
+  },
+  {
+    "path": "2036_01_SSM_20360101.png",
+    "filename": "2036_01_SSM_20360101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2036_01_SSM_20360101.png",
+    "index": 132,
+    "date": "2036-01-01",
+    "displayName": "2036-01-01"
+  },
+  {
+    "path": "2036_02_SSM_20360201.png",
+    "filename": "2036_02_SSM_20360201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2036_02_SSM_20360201.png",
+    "index": 133,
+    "date": "2036-02-01",
+    "displayName": "2036-02-01"
+  },
+  {
+    "path": "2036_03_SSM_20360301.png",
+    "filename": "2036_03_SSM_20360301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2036_03_SSM_20360301.png",
+    "index": 134,
+    "date": "2036-03-01",
+    "displayName": "2036-03-01"
+  },
+  {
+    "path": "2036_04_SSM_20360401.png",
+    "filename": "2036_04_SSM_20360401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2036_04_SSM_20360401.png",
+    "index": 135,
+    "date": "2036-04-01",
+    "displayName": "2036-04-01"
+  },
+  {
+    "path": "2036_05_SSM_20360501.png",
+    "filename": "2036_05_SSM_20360501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2036_05_SSM_20360501.png",
+    "index": 136,
+    "date": "2036-05-01",
+    "displayName": "2036-05-01"
+  },
+  {
+    "path": "2036_06_SSM_20360601.png",
+    "filename": "2036_06_SSM_20360601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2036_06_SSM_20360601.png",
+    "index": 137,
+    "date": "2036-06-01",
+    "displayName": "2036-06-01"
+  },
+  {
+    "path": "2036_07_SSM_20360701.png",
+    "filename": "2036_07_SSM_20360701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2036_07_SSM_20360701.png",
+    "index": 138,
+    "date": "2036-07-01",
+    "displayName": "2036-07-01"
+  },
+  {
+    "path": "2036_08_SSM_20360801.png",
+    "filename": "2036_08_SSM_20360801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2036_08_SSM_20360801.png",
+    "index": 139,
+    "date": "2036-08-01",
+    "displayName": "2036-08-01"
+  },
+  {
+    "path": "2036_09_SSM_20360901.png",
+    "filename": "2036_09_SSM_20360901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2036_09_SSM_20360901.png",
+    "index": 140,
+    "date": "2036-09-01",
+    "displayName": "2036-09-01"
+  },
+  {
+    "path": "2036_10_SSM_20361001.png",
+    "filename": "2036_10_SSM_20361001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2036_10_SSM_20361001.png",
+    "index": 141,
+    "date": "2036-10-01",
+    "displayName": "2036-10-01"
+  },
+  {
+    "path": "2036_11_SSM_20361101.png",
+    "filename": "2036_11_SSM_20361101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2036_11_SSM_20361101.png",
+    "index": 142,
+    "date": "2036-11-01",
+    "displayName": "2036-11-01"
+  },
+  {
+    "path": "2036_12_SSM_20361201.png",
+    "filename": "2036_12_SSM_20361201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2036_12_SSM_20361201.png",
+    "index": 143,
+    "date": "2036-12-01",
+    "displayName": "2036-12-01"
+  },
+  {
+    "path": "2037_01_SSM_20370101.png",
+    "filename": "2037_01_SSM_20370101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2037_01_SSM_20370101.png",
+    "index": 144,
+    "date": "2037-01-01",
+    "displayName": "2037-01-01"
+  },
+  {
+    "path": "2037_02_SSM_20370201.png",
+    "filename": "2037_02_SSM_20370201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2037_02_SSM_20370201.png",
+    "index": 145,
+    "date": "2037-02-01",
+    "displayName": "2037-02-01"
+  },
+  {
+    "path": "2037_03_SSM_20370301.png",
+    "filename": "2037_03_SSM_20370301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2037_03_SSM_20370301.png",
+    "index": 146,
+    "date": "2037-03-01",
+    "displayName": "2037-03-01"
+  },
+  {
+    "path": "2037_04_SSM_20370401.png",
+    "filename": "2037_04_SSM_20370401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2037_04_SSM_20370401.png",
+    "index": 147,
+    "date": "2037-04-01",
+    "displayName": "2037-04-01"
+  },
+  {
+    "path": "2037_05_SSM_20370501.png",
+    "filename": "2037_05_SSM_20370501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2037_05_SSM_20370501.png",
+    "index": 148,
+    "date": "2037-05-01",
+    "displayName": "2037-05-01"
+  },
+  {
+    "path": "2037_06_SSM_20370601.png",
+    "filename": "2037_06_SSM_20370601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2037_06_SSM_20370601.png",
+    "index": 149,
+    "date": "2037-06-01",
+    "displayName": "2037-06-01"
+  },
+  {
+    "path": "2037_07_SSM_20370701.png",
+    "filename": "2037_07_SSM_20370701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2037_07_SSM_20370701.png",
+    "index": 150,
+    "date": "2037-07-01",
+    "displayName": "2037-07-01"
+  },
+  {
+    "path": "2037_08_SSM_20370801.png",
+    "filename": "2037_08_SSM_20370801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2037_08_SSM_20370801.png",
+    "index": 151,
+    "date": "2037-08-01",
+    "displayName": "2037-08-01"
+  },
+  {
+    "path": "2037_09_SSM_20370901.png",
+    "filename": "2037_09_SSM_20370901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2037_09_SSM_20370901.png",
+    "index": 152,
+    "date": "2037-09-01",
+    "displayName": "2037-09-01"
+  },
+  {
+    "path": "2037_10_SSM_20371001.png",
+    "filename": "2037_10_SSM_20371001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2037_10_SSM_20371001.png",
+    "index": 153,
+    "date": "2037-10-01",
+    "displayName": "2037-10-01"
+  },
+  {
+    "path": "2037_11_SSM_20371101.png",
+    "filename": "2037_11_SSM_20371101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2037_11_SSM_20371101.png",
+    "index": 154,
+    "date": "2037-11-01",
+    "displayName": "2037-11-01"
+  },
+  {
+    "path": "2037_12_SSM_20371201.png",
+    "filename": "2037_12_SSM_20371201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2037_12_SSM_20371201.png",
+    "index": 155,
+    "date": "2037-12-01",
+    "displayName": "2037-12-01"
+  },
+  {
+    "path": "2038_01_SSM_20380101.png",
+    "filename": "2038_01_SSM_20380101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2038_01_SSM_20380101.png",
+    "index": 156,
+    "date": "2038-01-01",
+    "displayName": "2038-01-01"
+  },
+  {
+    "path": "2038_03_SSM_20380301.png",
+    "filename": "2038_03_SSM_20380301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2038_03_SSM_20380301.png",
+    "index": 157,
+    "date": "2038-03-01",
+    "displayName": "2038-03-01"
+  },
+  {
+    "path": "2038_04_SSM_20380401.png",
+    "filename": "2038_04_SSM_20380401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2038_04_SSM_20380401.png",
+    "index": 158,
+    "date": "2038-04-01",
+    "displayName": "2038-04-01"
+  },
+  {
+    "path": "2038_05_SSM_20380501.png",
+    "filename": "2038_05_SSM_20380501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2038_05_SSM_20380501.png",
+    "index": 159,
+    "date": "2038-05-01",
+    "displayName": "2038-05-01"
+  },
+  {
+    "path": "2038_06_SSM_20380601.png",
+    "filename": "2038_06_SSM_20380601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2038_06_SSM_20380601.png",
+    "index": 160,
+    "date": "2038-06-01",
+    "displayName": "2038-06-01"
+  },
+  {
+    "path": "2038_07_SSM_20380701.png",
+    "filename": "2038_07_SSM_20380701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2038_07_SSM_20380701.png",
+    "index": 161,
+    "date": "2038-07-01",
+    "displayName": "2038-07-01"
+  },
+  {
+    "path": "2038_08_SSM_20380801.png",
+    "filename": "2038_08_SSM_20380801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2038_08_SSM_20380801.png",
+    "index": 162,
+    "date": "2038-08-01",
+    "displayName": "2038-08-01"
+  },
+  {
+    "path": "2038_09_SSM_20380901.png",
+    "filename": "2038_09_SSM_20380901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2038_09_SSM_20380901.png",
+    "index": 163,
+    "date": "2038-09-01",
+    "displayName": "2038-09-01"
+  },
+  {
+    "path": "2038_10_SSM_20381001.png",
+    "filename": "2038_10_SSM_20381001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2038_10_SSM_20381001.png",
+    "index": 164,
+    "date": "2038-10-01",
+    "displayName": "2038-10-01"
+  },
+  {
+    "path": "2038_11_SSM_20381101.png",
+    "filename": "2038_11_SSM_20381101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2038_11_SSM_20381101.png",
+    "index": 165,
+    "date": "2038-11-01",
+    "displayName": "2038-11-01"
+  },
+  {
+    "path": "2038_12_SSM_20381201.png",
+    "filename": "2038_12_SSM_20381201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2038_12_SSM_20381201.png",
+    "index": 166,
+    "date": "2038-12-01",
+    "displayName": "2038-12-01"
+  },
+  {
+    "path": "2039_01_SSM_20390101.png",
+    "filename": "2039_01_SSM_20390101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2039_01_SSM_20390101.png",
+    "index": 167,
+    "date": "2039-01-01",
+    "displayName": "2039-01-01"
+  },
+  {
+    "path": "2039_02_SSM_20390201.png",
+    "filename": "2039_02_SSM_20390201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2039_02_SSM_20390201.png",
+    "index": 168,
+    "date": "2039-02-01",
+    "displayName": "2039-02-01"
+  },
+  {
+    "path": "2039_03_SSM_20390301.png",
+    "filename": "2039_03_SSM_20390301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2039_03_SSM_20390301.png",
+    "index": 169,
+    "date": "2039-03-01",
+    "displayName": "2039-03-01"
+  },
+  {
+    "path": "2039_04_SSM_20390401.png",
+    "filename": "2039_04_SSM_20390401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2039_04_SSM_20390401.png",
+    "index": 170,
+    "date": "2039-04-01",
+    "displayName": "2039-04-01"
+  },
+  {
+    "path": "2039_05_SSM_20390501.png",
+    "filename": "2039_05_SSM_20390501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2039_05_SSM_20390501.png",
+    "index": 171,
+    "date": "2039-05-01",
+    "displayName": "2039-05-01"
+  },
+  {
+    "path": "2039_06_SSM_20390601.png",
+    "filename": "2039_06_SSM_20390601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2039_06_SSM_20390601.png",
+    "index": 172,
+    "date": "2039-06-01",
+    "displayName": "2039-06-01"
+  },
+  {
+    "path": "2039_07_SSM_20390701.png",
+    "filename": "2039_07_SSM_20390701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2039_07_SSM_20390701.png",
+    "index": 173,
+    "date": "2039-07-01",
+    "displayName": "2039-07-01"
+  },
+  {
+    "path": "2039_08_SSM_20390801.png",
+    "filename": "2039_08_SSM_20390801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2039_08_SSM_20390801.png",
+    "index": 174,
+    "date": "2039-08-01",
+    "displayName": "2039-08-01"
+  },
+  {
+    "path": "2039_09_SSM_20390901.png",
+    "filename": "2039_09_SSM_20390901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2039_09_SSM_20390901.png",
+    "index": 175,
+    "date": "2039-09-01",
+    "displayName": "2039-09-01"
+  },
+  {
+    "path": "2039_10_SSM_20391001.png",
+    "filename": "2039_10_SSM_20391001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2039_10_SSM_20391001.png",
+    "index": 176,
+    "date": "2039-10-01",
+    "displayName": "2039-10-01"
+  },
+  {
+    "path": "2039_11_SSM_20391101.png",
+    "filename": "2039_11_SSM_20391101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2039_11_SSM_20391101.png",
+    "index": 177,
+    "date": "2039-11-01",
+    "displayName": "2039-11-01"
+  },
+  {
+    "path": "2039_12_SSM_20391201.png",
+    "filename": "2039_12_SSM_20391201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2039_12_SSM_20391201.png",
+    "index": 178,
+    "date": "2039-12-01",
+    "displayName": "2039-12-01"
+  },
+  {
+    "path": "2040_01_SSM_20400101.png",
+    "filename": "2040_01_SSM_20400101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2040_01_SSM_20400101.png",
+    "index": 179,
+    "date": "2040-01-01",
+    "displayName": "2040-01-01"
+  },
+  {
+    "path": "2040_02_SSM_20400201.png",
+    "filename": "2040_02_SSM_20400201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2040_02_SSM_20400201.png",
+    "index": 180,
+    "date": "2040-02-01",
+    "displayName": "2040-02-01"
+  },
+  {
+    "path": "2040_03_SSM_20400301.png",
+    "filename": "2040_03_SSM_20400301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2040_03_SSM_20400301.png",
+    "index": 181,
+    "date": "2040-03-01",
+    "displayName": "2040-03-01"
+  },
+  {
+    "path": "2040_04_SSM_20400401.png",
+    "filename": "2040_04_SSM_20400401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2040_04_SSM_20400401.png",
+    "index": 182,
+    "date": "2040-04-01",
+    "displayName": "2040-04-01"
+  },
+  {
+    "path": "2040_05_SSM_20400501.png",
+    "filename": "2040_05_SSM_20400501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2040_05_SSM_20400501.png",
+    "index": 183,
+    "date": "2040-05-01",
+    "displayName": "2040-05-01"
+  },
+  {
+    "path": "2040_06_SSM_20400601.png",
+    "filename": "2040_06_SSM_20400601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2040_06_SSM_20400601.png",
+    "index": 184,
+    "date": "2040-06-01",
+    "displayName": "2040-06-01"
+  },
+  {
+    "path": "2040_07_SSM_20400701.png",
+    "filename": "2040_07_SSM_20400701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2040_07_SSM_20400701.png",
+    "index": 185,
+    "date": "2040-07-01",
+    "displayName": "2040-07-01"
+  },
+  {
+    "path": "2040_08_SSM_20400801.png",
+    "filename": "2040_08_SSM_20400801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2040_08_SSM_20400801.png",
+    "index": 186,
+    "date": "2040-08-01",
+    "displayName": "2040-08-01"
+  },
+  {
+    "path": "2040_09_SSM_20400901.png",
+    "filename": "2040_09_SSM_20400901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2040_09_SSM_20400901.png",
+    "index": 187,
+    "date": "2040-09-01",
+    "displayName": "2040-09-01"
+  },
+  {
+    "path": "2040_10_SSM_20401001.png",
+    "filename": "2040_10_SSM_20401001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2040_10_SSM_20401001.png",
+    "index": 188,
+    "date": "2040-10-01",
+    "displayName": "2040-10-01"
+  },
+  {
+    "path": "2040_11_SSM_20401101.png",
+    "filename": "2040_11_SSM_20401101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2040_11_SSM_20401101.png",
+    "index": 189,
+    "date": "2040-11-01",
+    "displayName": "2040-11-01"
+  },
+  {
+    "path": "2040_12_SSM_20401201.png",
+    "filename": "2040_12_SSM_20401201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2040_12_SSM_20401201.png",
+    "index": 190,
+    "date": "2040-12-01",
+    "displayName": "2040-12-01"
+  },
+  {
+    "path": "2041_01_SSM_20410101.png",
+    "filename": "2041_01_SSM_20410101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2041_01_SSM_20410101.png",
+    "index": 191,
+    "date": "2041-01-01",
+    "displayName": "2041-01-01"
+  },
+  {
+    "path": "2041_02_SSM_20410201.png",
+    "filename": "2041_02_SSM_20410201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2041_02_SSM_20410201.png",
+    "index": 192,
+    "date": "2041-02-01",
+    "displayName": "2041-02-01"
+  },
+  {
+    "path": "2041_03_SSM_20410301.png",
+    "filename": "2041_03_SSM_20410301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2041_03_SSM_20410301.png",
+    "index": 193,
+    "date": "2041-03-01",
+    "displayName": "2041-03-01"
+  },
+  {
+    "path": "2041_04_SSM_20410401.png",
+    "filename": "2041_04_SSM_20410401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2041_04_SSM_20410401.png",
+    "index": 194,
+    "date": "2041-04-01",
+    "displayName": "2041-04-01"
+  },
+  {
+    "path": "2041_05_SSM_20410501.png",
+    "filename": "2041_05_SSM_20410501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2041_05_SSM_20410501.png",
+    "index": 195,
+    "date": "2041-05-01",
+    "displayName": "2041-05-01"
+  },
+  {
+    "path": "2041_06_SSM_20410601.png",
+    "filename": "2041_06_SSM_20410601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2041_06_SSM_20410601.png",
+    "index": 196,
+    "date": "2041-06-01",
+    "displayName": "2041-06-01"
+  },
+  {
+    "path": "2041_07_SSM_20410701.png",
+    "filename": "2041_07_SSM_20410701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2041_07_SSM_20410701.png",
+    "index": 197,
+    "date": "2041-07-01",
+    "displayName": "2041-07-01"
+  },
+  {
+    "path": "2041_08_SSM_20410801.png",
+    "filename": "2041_08_SSM_20410801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2041_08_SSM_20410801.png",
+    "index": 198,
+    "date": "2041-08-01",
+    "displayName": "2041-08-01"
+  },
+  {
+    "path": "2041_09_SSM_20410901.png",
+    "filename": "2041_09_SSM_20410901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2041_09_SSM_20410901.png",
+    "index": 199,
+    "date": "2041-09-01",
+    "displayName": "2041-09-01"
+  },
+  {
+    "path": "2041_10_SSM_20411001.png",
+    "filename": "2041_10_SSM_20411001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2041_10_SSM_20411001.png",
+    "index": 200,
+    "date": "2041-10-01",
+    "displayName": "2041-10-01"
+  },
+  {
+    "path": "2041_11_SSM_20411101.png",
+    "filename": "2041_11_SSM_20411101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2041_11_SSM_20411101.png",
+    "index": 201,
+    "date": "2041-11-01",
+    "displayName": "2041-11-01"
+  },
+  {
+    "path": "2041_12_SSM_20411201.png",
+    "filename": "2041_12_SSM_20411201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2041_12_SSM_20411201.png",
+    "index": 202,
+    "date": "2041-12-01",
+    "displayName": "2041-12-01"
+  },
+  {
+    "path": "2042_01_SSM_20420101.png",
+    "filename": "2042_01_SSM_20420101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2042_01_SSM_20420101.png",
+    "index": 203,
+    "date": "2042-01-01",
+    "displayName": "2042-01-01"
+  },
+  {
+    "path": "2042_02_SSM_20420201.png",
+    "filename": "2042_02_SSM_20420201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2042_02_SSM_20420201.png",
+    "index": 204,
+    "date": "2042-02-01",
+    "displayName": "2042-02-01"
+  },
+  {
+    "path": "2042_03_SSM_20420301.png",
+    "filename": "2042_03_SSM_20420301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2042_03_SSM_20420301.png",
+    "index": 205,
+    "date": "2042-03-01",
+    "displayName": "2042-03-01"
+  },
+  {
+    "path": "2042_04_SSM_20420401.png",
+    "filename": "2042_04_SSM_20420401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2042_04_SSM_20420401.png",
+    "index": 206,
+    "date": "2042-04-01",
+    "displayName": "2042-04-01"
+  },
+  {
+    "path": "2042_05_SSM_20420501.png",
+    "filename": "2042_05_SSM_20420501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2042_05_SSM_20420501.png",
+    "index": 207,
+    "date": "2042-05-01",
+    "displayName": "2042-05-01"
+  },
+  {
+    "path": "2042_06_SSM_20420601.png",
+    "filename": "2042_06_SSM_20420601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2042_06_SSM_20420601.png",
+    "index": 208,
+    "date": "2042-06-01",
+    "displayName": "2042-06-01"
+  },
+  {
+    "path": "2042_07_SSM_20420701.png",
+    "filename": "2042_07_SSM_20420701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2042_07_SSM_20420701.png",
+    "index": 209,
+    "date": "2042-07-01",
+    "displayName": "2042-07-01"
+  },
+  {
+    "path": "2042_08_SSM_20420801.png",
+    "filename": "2042_08_SSM_20420801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2042_08_SSM_20420801.png",
+    "index": 210,
+    "date": "2042-08-01",
+    "displayName": "2042-08-01"
+  },
+  {
+    "path": "2042_09_SSM_20420901.png",
+    "filename": "2042_09_SSM_20420901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2042_09_SSM_20420901.png",
+    "index": 211,
+    "date": "2042-09-01",
+    "displayName": "2042-09-01"
+  },
+  {
+    "path": "2042_10_SSM_20421001.png",
+    "filename": "2042_10_SSM_20421001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2042_10_SSM_20421001.png",
+    "index": 212,
+    "date": "2042-10-01",
+    "displayName": "2042-10-01"
+  },
+  {
+    "path": "2042_11_SSM_20421101.png",
+    "filename": "2042_11_SSM_20421101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2042_11_SSM_20421101.png",
+    "index": 213,
+    "date": "2042-11-01",
+    "displayName": "2042-11-01"
+  },
+  {
+    "path": "2042_12_SSM_20421201.png",
+    "filename": "2042_12_SSM_20421201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2042_12_SSM_20421201.png",
+    "index": 214,
+    "date": "2042-12-01",
+    "displayName": "2042-12-01"
+  },
+  {
+    "path": "2043_01_SSM_20430101.png",
+    "filename": "2043_01_SSM_20430101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2043_01_SSM_20430101.png",
+    "index": 215,
+    "date": "2043-01-01",
+    "displayName": "2043-01-01"
+  },
+  {
+    "path": "2043_02_SSM_20430201.png",
+    "filename": "2043_02_SSM_20430201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2043_02_SSM_20430201.png",
+    "index": 216,
+    "date": "2043-02-01",
+    "displayName": "2043-02-01"
+  },
+  {
+    "path": "2043_03_SSM_20430301.png",
+    "filename": "2043_03_SSM_20430301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2043_03_SSM_20430301.png",
+    "index": 217,
+    "date": "2043-03-01",
+    "displayName": "2043-03-01"
+  },
+  {
+    "path": "2043_04_SSM_20430401.png",
+    "filename": "2043_04_SSM_20430401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2043_04_SSM_20430401.png",
+    "index": 218,
+    "date": "2043-04-01",
+    "displayName": "2043-04-01"
+  },
+  {
+    "path": "2043_05_SSM_20430501.png",
+    "filename": "2043_05_SSM_20430501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2043_05_SSM_20430501.png",
+    "index": 219,
+    "date": "2043-05-01",
+    "displayName": "2043-05-01"
+  },
+  {
+    "path": "2043_06_SSM_20430601.png",
+    "filename": "2043_06_SSM_20430601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2043_06_SSM_20430601.png",
+    "index": 220,
+    "date": "2043-06-01",
+    "displayName": "2043-06-01"
+  },
+  {
+    "path": "2043_07_SSM_20430701.png",
+    "filename": "2043_07_SSM_20430701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2043_07_SSM_20430701.png",
+    "index": 221,
+    "date": "2043-07-01",
+    "displayName": "2043-07-01"
+  },
+  {
+    "path": "2043_08_SSM_20430801.png",
+    "filename": "2043_08_SSM_20430801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2043_08_SSM_20430801.png",
+    "index": 222,
+    "date": "2043-08-01",
+    "displayName": "2043-08-01"
+  },
+  {
+    "path": "2043_09_SSM_20430901.png",
+    "filename": "2043_09_SSM_20430901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2043_09_SSM_20430901.png",
+    "index": 223,
+    "date": "2043-09-01",
+    "displayName": "2043-09-01"
+  },
+  {
+    "path": "2043_10_SSM_20431001.png",
+    "filename": "2043_10_SSM_20431001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2043_10_SSM_20431001.png",
+    "index": 224,
+    "date": "2043-10-01",
+    "displayName": "2043-10-01"
+  },
+  {
+    "path": "2043_11_SSM_20431101.png",
+    "filename": "2043_11_SSM_20431101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2043_11_SSM_20431101.png",
+    "index": 225,
+    "date": "2043-11-01",
+    "displayName": "2043-11-01"
+  },
+  {
+    "path": "2043_12_SSM_20431201.png",
+    "filename": "2043_12_SSM_20431201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2043_12_SSM_20431201.png",
+    "index": 226,
+    "date": "2043-12-01",
+    "displayName": "2043-12-01"
+  },
+  {
+    "path": "2044_01_SSM_20440101.png",
+    "filename": "2044_01_SSM_20440101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2044_01_SSM_20440101.png",
+    "index": 227,
+    "date": "2044-01-01",
+    "displayName": "2044-01-01"
+  },
+  {
+    "path": "2044_02_SSM_20440201.png",
+    "filename": "2044_02_SSM_20440201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2044_02_SSM_20440201.png",
+    "index": 228,
+    "date": "2044-02-01",
+    "displayName": "2044-02-01"
+  },
+  {
+    "path": "2044_03_SSM_20440301.png",
+    "filename": "2044_03_SSM_20440301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2044_03_SSM_20440301.png",
+    "index": 229,
+    "date": "2044-03-01",
+    "displayName": "2044-03-01"
+  },
+  {
+    "path": "2044_04_SSM_20440401.png",
+    "filename": "2044_04_SSM_20440401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2044_04_SSM_20440401.png",
+    "index": 230,
+    "date": "2044-04-01",
+    "displayName": "2044-04-01"
+  },
+  {
+    "path": "2044_05_SSM_20440501.png",
+    "filename": "2044_05_SSM_20440501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2044_05_SSM_20440501.png",
+    "index": 231,
+    "date": "2044-05-01",
+    "displayName": "2044-05-01"
+  },
+  {
+    "path": "2044_06_SSM_20440601.png",
+    "filename": "2044_06_SSM_20440601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2044_06_SSM_20440601.png",
+    "index": 232,
+    "date": "2044-06-01",
+    "displayName": "2044-06-01"
+  },
+  {
+    "path": "2044_07_SSM_20440701.png",
+    "filename": "2044_07_SSM_20440701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2044_07_SSM_20440701.png",
+    "index": 233,
+    "date": "2044-07-01",
+    "displayName": "2044-07-01"
+  },
+  {
+    "path": "2044_08_SSM_20440801.png",
+    "filename": "2044_08_SSM_20440801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2044_08_SSM_20440801.png",
+    "index": 234,
+    "date": "2044-08-01",
+    "displayName": "2044-08-01"
+  },
+  {
+    "path": "2044_09_SSM_20440901.png",
+    "filename": "2044_09_SSM_20440901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2044_09_SSM_20440901.png",
+    "index": 235,
+    "date": "2044-09-01",
+    "displayName": "2044-09-01"
+  },
+  {
+    "path": "2044_10_SSM_20441001.png",
+    "filename": "2044_10_SSM_20441001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2044_10_SSM_20441001.png",
+    "index": 236,
+    "date": "2044-10-01",
+    "displayName": "2044-10-01"
+  },
+  {
+    "path": "2044_11_SSM_20441101.png",
+    "filename": "2044_11_SSM_20441101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2044_11_SSM_20441101.png",
+    "index": 237,
+    "date": "2044-11-01",
+    "displayName": "2044-11-01"
+  },
+  {
+    "path": "2044_12_SSM_20441201.png",
+    "filename": "2044_12_SSM_20441201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2044_12_SSM_20441201.png",
+    "index": 238,
+    "date": "2044-12-01",
+    "displayName": "2044-12-01"
+  },
+  {
+    "path": "2045_01_SSM_20450101.png",
+    "filename": "2045_01_SSM_20450101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2045_01_SSM_20450101.png",
+    "index": 239,
+    "date": "2045-01-01",
+    "displayName": "2045-01-01"
+  },
+  {
+    "path": "2045_02_SSM_20450201.png",
+    "filename": "2045_02_SSM_20450201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2045_02_SSM_20450201.png",
+    "index": 240,
+    "date": "2045-02-01",
+    "displayName": "2045-02-01"
+  },
+  {
+    "path": "2045_03_SSM_20450301.png",
+    "filename": "2045_03_SSM_20450301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2045_03_SSM_20450301.png",
+    "index": 241,
+    "date": "2045-03-01",
+    "displayName": "2045-03-01"
+  },
+  {
+    "path": "2045_04_SSM_20450401.png",
+    "filename": "2045_04_SSM_20450401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2045_04_SSM_20450401.png",
+    "index": 242,
+    "date": "2045-04-01",
+    "displayName": "2045-04-01"
+  },
+  {
+    "path": "2045_05_SSM_20450501.png",
+    "filename": "2045_05_SSM_20450501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2045_05_SSM_20450501.png",
+    "index": 243,
+    "date": "2045-05-01",
+    "displayName": "2045-05-01"
+  },
+  {
+    "path": "2045_06_SSM_20450601.png",
+    "filename": "2045_06_SSM_20450601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2045_06_SSM_20450601.png",
+    "index": 244,
+    "date": "2045-06-01",
+    "displayName": "2045-06-01"
+  },
+  {
+    "path": "2045_07_SSM_20450701.png",
+    "filename": "2045_07_SSM_20450701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2045_07_SSM_20450701.png",
+    "index": 245,
+    "date": "2045-07-01",
+    "displayName": "2045-07-01"
+  },
+  {
+    "path": "2045_08_SSM_20450801.png",
+    "filename": "2045_08_SSM_20450801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2045_08_SSM_20450801.png",
+    "index": 246,
+    "date": "2045-08-01",
+    "displayName": "2045-08-01"
+  },
+  {
+    "path": "2045_09_SSM_20450901.png",
+    "filename": "2045_09_SSM_20450901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2045_09_SSM_20450901.png",
+    "index": 247,
+    "date": "2045-09-01",
+    "displayName": "2045-09-01"
+  },
+  {
+    "path": "2045_10_SSM_20451001.png",
+    "filename": "2045_10_SSM_20451001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2045_10_SSM_20451001.png",
+    "index": 248,
+    "date": "2045-10-01",
+    "displayName": "2045-10-01"
+  },
+  {
+    "path": "2045_11_SSM_20451101.png",
+    "filename": "2045_11_SSM_20451101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2045_11_SSM_20451101.png",
+    "index": 249,
+    "date": "2045-11-01",
+    "displayName": "2045-11-01"
+  },
+  {
+    "path": "2045_12_SSM_20451201.png",
+    "filename": "2045_12_SSM_20451201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2045_12_SSM_20451201.png",
+    "index": 250,
+    "date": "2045-12-01",
+    "displayName": "2045-12-01"
+  },
+  {
+    "path": "2046_01_SSM_20460101.png",
+    "filename": "2046_01_SSM_20460101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2046_01_SSM_20460101.png",
+    "index": 251,
+    "date": "2046-01-01",
+    "displayName": "2046-01-01"
+  },
+  {
+    "path": "2046_02_SSM_20460201.png",
+    "filename": "2046_02_SSM_20460201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2046_02_SSM_20460201.png",
+    "index": 252,
+    "date": "2046-02-01",
+    "displayName": "2046-02-01"
+  },
+  {
+    "path": "2046_03_SSM_20460301.png",
+    "filename": "2046_03_SSM_20460301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2046_03_SSM_20460301.png",
+    "index": 253,
+    "date": "2046-03-01",
+    "displayName": "2046-03-01"
+  },
+  {
+    "path": "2046_04_SSM_20460401.png",
+    "filename": "2046_04_SSM_20460401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2046_04_SSM_20460401.png",
+    "index": 254,
+    "date": "2046-04-01",
+    "displayName": "2046-04-01"
+  },
+  {
+    "path": "2046_05_SSM_20460501.png",
+    "filename": "2046_05_SSM_20460501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2046_05_SSM_20460501.png",
+    "index": 255,
+    "date": "2046-05-01",
+    "displayName": "2046-05-01"
+  },
+  {
+    "path": "2046_06_SSM_20460601.png",
+    "filename": "2046_06_SSM_20460601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2046_06_SSM_20460601.png",
+    "index": 256,
+    "date": "2046-06-01",
+    "displayName": "2046-06-01"
+  },
+  {
+    "path": "2046_07_SSM_20460701.png",
+    "filename": "2046_07_SSM_20460701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2046_07_SSM_20460701.png",
+    "index": 257,
+    "date": "2046-07-01",
+    "displayName": "2046-07-01"
+  },
+  {
+    "path": "2046_08_SSM_20460801.png",
+    "filename": "2046_08_SSM_20460801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2046_08_SSM_20460801.png",
+    "index": 258,
+    "date": "2046-08-01",
+    "displayName": "2046-08-01"
+  },
+  {
+    "path": "2046_09_SSM_20460901.png",
+    "filename": "2046_09_SSM_20460901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2046_09_SSM_20460901.png",
+    "index": 259,
+    "date": "2046-09-01",
+    "displayName": "2046-09-01"
+  },
+  {
+    "path": "2046_10_SSM_20461001.png",
+    "filename": "2046_10_SSM_20461001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2046_10_SSM_20461001.png",
+    "index": 260,
+    "date": "2046-10-01",
+    "displayName": "2046-10-01"
+  },
+  {
+    "path": "2046_11_SSM_20461101.png",
+    "filename": "2046_11_SSM_20461101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2046_11_SSM_20461101.png",
+    "index": 261,
+    "date": "2046-11-01",
+    "displayName": "2046-11-01"
+  },
+  {
+    "path": "2046_12_SSM_20461201.png",
+    "filename": "2046_12_SSM_20461201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2046_12_SSM_20461201.png",
+    "index": 262,
+    "date": "2046-12-01",
+    "displayName": "2046-12-01"
+  },
+  {
+    "path": "2047_01_SSM_20470101.png",
+    "filename": "2047_01_SSM_20470101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2047_01_SSM_20470101.png",
+    "index": 263,
+    "date": "2047-01-01",
+    "displayName": "2047-01-01"
+  },
+  {
+    "path": "2047_02_SSM_20470201.png",
+    "filename": "2047_02_SSM_20470201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2047_02_SSM_20470201.png",
+    "index": 264,
+    "date": "2047-02-01",
+    "displayName": "2047-02-01"
+  },
+  {
+    "path": "2047_03_SSM_20470301.png",
+    "filename": "2047_03_SSM_20470301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2047_03_SSM_20470301.png",
+    "index": 265,
+    "date": "2047-03-01",
+    "displayName": "2047-03-01"
+  },
+  {
+    "path": "2047_04_SSM_20470401.png",
+    "filename": "2047_04_SSM_20470401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2047_04_SSM_20470401.png",
+    "index": 266,
+    "date": "2047-04-01",
+    "displayName": "2047-04-01"
+  },
+  {
+    "path": "2047_05_SSM_20470501.png",
+    "filename": "2047_05_SSM_20470501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2047_05_SSM_20470501.png",
+    "index": 267,
+    "date": "2047-05-01",
+    "displayName": "2047-05-01"
+  },
+  {
+    "path": "2047_06_SSM_20470601.png",
+    "filename": "2047_06_SSM_20470601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2047_06_SSM_20470601.png",
+    "index": 268,
+    "date": "2047-06-01",
+    "displayName": "2047-06-01"
+  },
+  {
+    "path": "2047_07_SSM_20470701.png",
+    "filename": "2047_07_SSM_20470701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2047_07_SSM_20470701.png",
+    "index": 269,
+    "date": "2047-07-01",
+    "displayName": "2047-07-01"
+  },
+  {
+    "path": "2047_08_SSM_20470801.png",
+    "filename": "2047_08_SSM_20470801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2047_08_SSM_20470801.png",
+    "index": 270,
+    "date": "2047-08-01",
+    "displayName": "2047-08-01"
+  },
+  {
+    "path": "2047_09_SSM_20470901.png",
+    "filename": "2047_09_SSM_20470901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2047_09_SSM_20470901.png",
+    "index": 271,
+    "date": "2047-09-01",
+    "displayName": "2047-09-01"
+  },
+  {
+    "path": "2047_10_SSM_20471001.png",
+    "filename": "2047_10_SSM_20471001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2047_10_SSM_20471001.png",
+    "index": 272,
+    "date": "2047-10-01",
+    "displayName": "2047-10-01"
+  },
+  {
+    "path": "2047_11_SSM_20471101.png",
+    "filename": "2047_11_SSM_20471101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2047_11_SSM_20471101.png",
+    "index": 273,
+    "date": "2047-11-01",
+    "displayName": "2047-11-01"
+  },
+  {
+    "path": "2047_12_SSM_20471201.png",
+    "filename": "2047_12_SSM_20471201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2047_12_SSM_20471201.png",
+    "index": 274,
+    "date": "2047-12-01",
+    "displayName": "2047-12-01"
+  },
+  {
+    "path": "2048_01_SSM_20480101.png",
+    "filename": "2048_01_SSM_20480101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2048_01_SSM_20480101.png",
+    "index": 275,
+    "date": "2048-01-01",
+    "displayName": "2048-01-01"
+  },
+  {
+    "path": "2048_02_SSM_20480201.png",
+    "filename": "2048_02_SSM_20480201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2048_02_SSM_20480201.png",
+    "index": 276,
+    "date": "2048-02-01",
+    "displayName": "2048-02-01"
+  },
+  {
+    "path": "2048_03_SSM_20480301.png",
+    "filename": "2048_03_SSM_20480301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2048_03_SSM_20480301.png",
+    "index": 277,
+    "date": "2048-03-01",
+    "displayName": "2048-03-01"
+  },
+  {
+    "path": "2048_04_SSM_20480401.png",
+    "filename": "2048_04_SSM_20480401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2048_04_SSM_20480401.png",
+    "index": 278,
+    "date": "2048-04-01",
+    "displayName": "2048-04-01"
+  },
+  {
+    "path": "2048_05_SSM_20480501.png",
+    "filename": "2048_05_SSM_20480501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2048_05_SSM_20480501.png",
+    "index": 279,
+    "date": "2048-05-01",
+    "displayName": "2048-05-01"
+  },
+  {
+    "path": "2048_06_SSM_20480601.png",
+    "filename": "2048_06_SSM_20480601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2048_06_SSM_20480601.png",
+    "index": 280,
+    "date": "2048-06-01",
+    "displayName": "2048-06-01"
+  },
+  {
+    "path": "2048_07_SSM_20480701.png",
+    "filename": "2048_07_SSM_20480701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2048_07_SSM_20480701.png",
+    "index": 281,
+    "date": "2048-07-01",
+    "displayName": "2048-07-01"
+  },
+  {
+    "path": "2048_08_SSM_20480801.png",
+    "filename": "2048_08_SSM_20480801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2048_08_SSM_20480801.png",
+    "index": 282,
+    "date": "2048-08-01",
+    "displayName": "2048-08-01"
+  },
+  {
+    "path": "2048_09_SSM_20480901.png",
+    "filename": "2048_09_SSM_20480901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2048_09_SSM_20480901.png",
+    "index": 283,
+    "date": "2048-09-01",
+    "displayName": "2048-09-01"
+  },
+  {
+    "path": "2048_10_SSM_20481001.png",
+    "filename": "2048_10_SSM_20481001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2048_10_SSM_20481001.png",
+    "index": 284,
+    "date": "2048-10-01",
+    "displayName": "2048-10-01"
+  },
+  {
+    "path": "2048_11_SSM_20481101.png",
+    "filename": "2048_11_SSM_20481101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2048_11_SSM_20481101.png",
+    "index": 285,
+    "date": "2048-11-01",
+    "displayName": "2048-11-01"
+  },
+  {
+    "path": "2048_12_SSM_20481201.png",
+    "filename": "2048_12_SSM_20481201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2048_12_SSM_20481201.png",
+    "index": 286,
+    "date": "2048-12-01",
+    "displayName": "2048-12-01"
+  },
+  {
+    "path": "2049_01_SSM_20490101.png",
+    "filename": "2049_01_SSM_20490101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2049_01_SSM_20490101.png",
+    "index": 287,
+    "date": "2049-01-01",
+    "displayName": "2049-01-01"
+  },
+  {
+    "path": "2049_02_SSM_20490201.png",
+    "filename": "2049_02_SSM_20490201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2049_02_SSM_20490201.png",
+    "index": 288,
+    "date": "2049-02-01",
+    "displayName": "2049-02-01"
+  },
+  {
+    "path": "2049_03_SSM_20490301.png",
+    "filename": "2049_03_SSM_20490301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2049_03_SSM_20490301.png",
+    "index": 289,
+    "date": "2049-03-01",
+    "displayName": "2049-03-01"
+  },
+  {
+    "path": "2049_04_SSM_20490401.png",
+    "filename": "2049_04_SSM_20490401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2049_04_SSM_20490401.png",
+    "index": 290,
+    "date": "2049-04-01",
+    "displayName": "2049-04-01"
+  },
+  {
+    "path": "2049_05_SSM_20490501.png",
+    "filename": "2049_05_SSM_20490501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2049_05_SSM_20490501.png",
+    "index": 291,
+    "date": "2049-05-01",
+    "displayName": "2049-05-01"
+  },
+  {
+    "path": "2049_06_SSM_20490601.png",
+    "filename": "2049_06_SSM_20490601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2049_06_SSM_20490601.png",
+    "index": 292,
+    "date": "2049-06-01",
+    "displayName": "2049-06-01"
+  },
+  {
+    "path": "2049_07_SSM_20490701.png",
+    "filename": "2049_07_SSM_20490701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2049_07_SSM_20490701.png",
+    "index": 293,
+    "date": "2049-07-01",
+    "displayName": "2049-07-01"
+  },
+  {
+    "path": "2049_08_SSM_20490801.png",
+    "filename": "2049_08_SSM_20490801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2049_08_SSM_20490801.png",
+    "index": 294,
+    "date": "2049-08-01",
+    "displayName": "2049-08-01"
+  },
+  {
+    "path": "2049_09_SSM_20490901.png",
+    "filename": "2049_09_SSM_20490901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2049_09_SSM_20490901.png",
+    "index": 295,
+    "date": "2049-09-01",
+    "displayName": "2049-09-01"
+  },
+  {
+    "path": "2049_10_SSM_20491001.png",
+    "filename": "2049_10_SSM_20491001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2049_10_SSM_20491001.png",
+    "index": 296,
+    "date": "2049-10-01",
+    "displayName": "2049-10-01"
+  },
+  {
+    "path": "2049_11_SSM_20491101.png",
+    "filename": "2049_11_SSM_20491101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2049_11_SSM_20491101.png",
+    "index": 297,
+    "date": "2049-11-01",
+    "displayName": "2049-11-01"
+  },
+  {
+    "path": "2049_12_SSM_20491201.png",
+    "filename": "2049_12_SSM_20491201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2049_12_SSM_20491201.png",
+    "index": 298,
+    "date": "2049-12-01",
+    "displayName": "2049-12-01"
+  },
+  {
+    "path": "2050_01_SSM_20500101.png",
+    "filename": "2050_01_SSM_20500101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2050_01_SSM_20500101.png",
+    "index": 299,
+    "date": "2050-01-01",
+    "displayName": "2050-01-01"
+  },
+  {
+    "path": "2050_02_SSM_20500201.png",
+    "filename": "2050_02_SSM_20500201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2050_02_SSM_20500201.png",
+    "index": 300,
+    "date": "2050-02-01",
+    "displayName": "2050-02-01"
+  },
+  {
+    "path": "2050_03_SSM_20500301.png",
+    "filename": "2050_03_SSM_20500301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2050_03_SSM_20500301.png",
+    "index": 301,
+    "date": "2050-03-01",
+    "displayName": "2050-03-01"
+  },
+  {
+    "path": "2050_04_SSM_20500401.png",
+    "filename": "2050_04_SSM_20500401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2050_04_SSM_20500401.png",
+    "index": 302,
+    "date": "2050-04-01",
+    "displayName": "2050-04-01"
+  },
+  {
+    "path": "2050_05_SSM_20500501.png",
+    "filename": "2050_05_SSM_20500501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2050_05_SSM_20500501.png",
+    "index": 303,
+    "date": "2050-05-01",
+    "displayName": "2050-05-01"
+  },
+  {
+    "path": "2050_06_SSM_20500601.png",
+    "filename": "2050_06_SSM_20500601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2050_06_SSM_20500601.png",
+    "index": 304,
+    "date": "2050-06-01",
+    "displayName": "2050-06-01"
+  },
+  {
+    "path": "2050_07_SSM_20500701.png",
+    "filename": "2050_07_SSM_20500701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2050_07_SSM_20500701.png",
+    "index": 305,
+    "date": "2050-07-01",
+    "displayName": "2050-07-01"
+  },
+  {
+    "path": "2050_08_SSM_20500801.png",
+    "filename": "2050_08_SSM_20500801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2050_08_SSM_20500801.png",
+    "index": 306,
+    "date": "2050-08-01",
+    "displayName": "2050-08-01"
+  },
+  {
+    "path": "2050_09_SSM_20500901.png",
+    "filename": "2050_09_SSM_20500901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2050_09_SSM_20500901.png",
+    "index": 307,
+    "date": "2050-09-01",
+    "displayName": "2050-09-01"
+  },
+  {
+    "path": "2050_10_SSM_20501001.png",
+    "filename": "2050_10_SSM_20501001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2050_10_SSM_20501001.png",
+    "index": 308,
+    "date": "2050-10-01",
+    "displayName": "2050-10-01"
+  },
+  {
+    "path": "2050_11_SSM_20501101.png",
+    "filename": "2050_11_SSM_20501101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2050_11_SSM_20501101.png",
+    "index": 309,
+    "date": "2050-11-01",
+    "displayName": "2050-11-01"
+  },
+  {
+    "path": "2050_12_SSM_20501201.png",
+    "filename": "2050_12_SSM_20501201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2050_12_SSM_20501201.png",
+    "index": 310,
+    "date": "2050-12-01",
+    "displayName": "2050-12-01"
+  },
+  {
+    "path": "2051_01_SSM_20510101.png",
+    "filename": "2051_01_SSM_20510101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2051_01_SSM_20510101.png",
+    "index": 311,
+    "date": "2051-01-01",
+    "displayName": "2051-01-01"
+  },
+  {
+    "path": "2051_02_SSM_20510201.png",
+    "filename": "2051_02_SSM_20510201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2051_02_SSM_20510201.png",
+    "index": 312,
+    "date": "2051-02-01",
+    "displayName": "2051-02-01"
+  },
+  {
+    "path": "2051_03_SSM_20510301.png",
+    "filename": "2051_03_SSM_20510301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2051_03_SSM_20510301.png",
+    "index": 313,
+    "date": "2051-03-01",
+    "displayName": "2051-03-01"
+  },
+  {
+    "path": "2051_04_SSM_20510401.png",
+    "filename": "2051_04_SSM_20510401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2051_04_SSM_20510401.png",
+    "index": 314,
+    "date": "2051-04-01",
+    "displayName": "2051-04-01"
+  },
+  {
+    "path": "2051_05_SSM_20510501.png",
+    "filename": "2051_05_SSM_20510501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2051_05_SSM_20510501.png",
+    "index": 315,
+    "date": "2051-05-01",
+    "displayName": "2051-05-01"
+  },
+  {
+    "path": "2051_06_SSM_20510601.png",
+    "filename": "2051_06_SSM_20510601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2051_06_SSM_20510601.png",
+    "index": 316,
+    "date": "2051-06-01",
+    "displayName": "2051-06-01"
+  },
+  {
+    "path": "2051_07_SSM_20510701.png",
+    "filename": "2051_07_SSM_20510701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2051_07_SSM_20510701.png",
+    "index": 317,
+    "date": "2051-07-01",
+    "displayName": "2051-07-01"
+  },
+  {
+    "path": "2051_08_SSM_20510801.png",
+    "filename": "2051_08_SSM_20510801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2051_08_SSM_20510801.png",
+    "index": 318,
+    "date": "2051-08-01",
+    "displayName": "2051-08-01"
+  },
+  {
+    "path": "2051_09_SSM_20510901.png",
+    "filename": "2051_09_SSM_20510901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2051_09_SSM_20510901.png",
+    "index": 319,
+    "date": "2051-09-01",
+    "displayName": "2051-09-01"
+  },
+  {
+    "path": "2051_10_SSM_20511001.png",
+    "filename": "2051_10_SSM_20511001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2051_10_SSM_20511001.png",
+    "index": 320,
+    "date": "2051-10-01",
+    "displayName": "2051-10-01"
+  },
+  {
+    "path": "2051_11_SSM_20511101.png",
+    "filename": "2051_11_SSM_20511101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2051_11_SSM_20511101.png",
+    "index": 321,
+    "date": "2051-11-01",
+    "displayName": "2051-11-01"
+  },
+  {
+    "path": "2051_12_SSM_20511201.png",
+    "filename": "2051_12_SSM_20511201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2051_12_SSM_20511201.png",
+    "index": 322,
+    "date": "2051-12-01",
+    "displayName": "2051-12-01"
+  },
+  {
+    "path": "2052_01_SSM_20520101.png",
+    "filename": "2052_01_SSM_20520101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2052_01_SSM_20520101.png",
+    "index": 323,
+    "date": "2052-01-01",
+    "displayName": "2052-01-01"
+  },
+  {
+    "path": "2052_02_SSM_20520201.png",
+    "filename": "2052_02_SSM_20520201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2052_02_SSM_20520201.png",
+    "index": 324,
+    "date": "2052-02-01",
+    "displayName": "2052-02-01"
+  },
+  {
+    "path": "2052_03_SSM_20520301.png",
+    "filename": "2052_03_SSM_20520301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2052_03_SSM_20520301.png",
+    "index": 325,
+    "date": "2052-03-01",
+    "displayName": "2052-03-01"
+  },
+  {
+    "path": "2052_04_SSM_20520401.png",
+    "filename": "2052_04_SSM_20520401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2052_04_SSM_20520401.png",
+    "index": 326,
+    "date": "2052-04-01",
+    "displayName": "2052-04-01"
+  },
+  {
+    "path": "2052_05_SSM_20520501.png",
+    "filename": "2052_05_SSM_20520501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2052_05_SSM_20520501.png",
+    "index": 327,
+    "date": "2052-05-01",
+    "displayName": "2052-05-01"
+  },
+  {
+    "path": "2052_06_SSM_20520601.png",
+    "filename": "2052_06_SSM_20520601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2052_06_SSM_20520601.png",
+    "index": 328,
+    "date": "2052-06-01",
+    "displayName": "2052-06-01"
+  },
+  {
+    "path": "2052_07_SSM_20520701.png",
+    "filename": "2052_07_SSM_20520701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2052_07_SSM_20520701.png",
+    "index": 329,
+    "date": "2052-07-01",
+    "displayName": "2052-07-01"
+  },
+  {
+    "path": "2052_08_SSM_20520801.png",
+    "filename": "2052_08_SSM_20520801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2052_08_SSM_20520801.png",
+    "index": 330,
+    "date": "2052-08-01",
+    "displayName": "2052-08-01"
+  },
+  {
+    "path": "2052_09_SSM_20520901.png",
+    "filename": "2052_09_SSM_20520901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2052_09_SSM_20520901.png",
+    "index": 331,
+    "date": "2052-09-01",
+    "displayName": "2052-09-01"
+  },
+  {
+    "path": "2052_10_SSM_20521001.png",
+    "filename": "2052_10_SSM_20521001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2052_10_SSM_20521001.png",
+    "index": 332,
+    "date": "2052-10-01",
+    "displayName": "2052-10-01"
+  },
+  {
+    "path": "2052_11_SSM_20521101.png",
+    "filename": "2052_11_SSM_20521101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2052_11_SSM_20521101.png",
+    "index": 333,
+    "date": "2052-11-01",
+    "displayName": "2052-11-01"
+  },
+  {
+    "path": "2052_12_SSM_20521201.png",
+    "filename": "2052_12_SSM_20521201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2052_12_SSM_20521201.png",
+    "index": 334,
+    "date": "2052-12-01",
+    "displayName": "2052-12-01"
+  },
+  {
+    "path": "2053_01_SSM_20530101.png",
+    "filename": "2053_01_SSM_20530101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2053_01_SSM_20530101.png",
+    "index": 335,
+    "date": "2053-01-01",
+    "displayName": "2053-01-01"
+  },
+  {
+    "path": "2053_02_SSM_20530201.png",
+    "filename": "2053_02_SSM_20530201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2053_02_SSM_20530201.png",
+    "index": 336,
+    "date": "2053-02-01",
+    "displayName": "2053-02-01"
+  },
+  {
+    "path": "2053_03_SSM_20530301.png",
+    "filename": "2053_03_SSM_20530301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2053_03_SSM_20530301.png",
+    "index": 337,
+    "date": "2053-03-01",
+    "displayName": "2053-03-01"
+  },
+  {
+    "path": "2053_04_SSM_20530401.png",
+    "filename": "2053_04_SSM_20530401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2053_04_SSM_20530401.png",
+    "index": 338,
+    "date": "2053-04-01",
+    "displayName": "2053-04-01"
+  },
+  {
+    "path": "2053_05_SSM_20530501.png",
+    "filename": "2053_05_SSM_20530501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2053_05_SSM_20530501.png",
+    "index": 339,
+    "date": "2053-05-01",
+    "displayName": "2053-05-01"
+  },
+  {
+    "path": "2053_06_SSM_20530601.png",
+    "filename": "2053_06_SSM_20530601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2053_06_SSM_20530601.png",
+    "index": 340,
+    "date": "2053-06-01",
+    "displayName": "2053-06-01"
+  },
+  {
+    "path": "2053_07_SSM_20530701.png",
+    "filename": "2053_07_SSM_20530701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2053_07_SSM_20530701.png",
+    "index": 341,
+    "date": "2053-07-01",
+    "displayName": "2053-07-01"
+  },
+  {
+    "path": "2053_08_SSM_20530801.png",
+    "filename": "2053_08_SSM_20530801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2053_08_SSM_20530801.png",
+    "index": 342,
+    "date": "2053-08-01",
+    "displayName": "2053-08-01"
+  },
+  {
+    "path": "2053_09_SSM_20530901.png",
+    "filename": "2053_09_SSM_20530901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2053_09_SSM_20530901.png",
+    "index": 343,
+    "date": "2053-09-01",
+    "displayName": "2053-09-01"
+  },
+  {
+    "path": "2053_10_SSM_20531001.png",
+    "filename": "2053_10_SSM_20531001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2053_10_SSM_20531001.png",
+    "index": 344,
+    "date": "2053-10-01",
+    "displayName": "2053-10-01"
+  },
+  {
+    "path": "2053_11_SSM_20531101.png",
+    "filename": "2053_11_SSM_20531101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2053_11_SSM_20531101.png",
+    "index": 345,
+    "date": "2053-11-01",
+    "displayName": "2053-11-01"
+  },
+  {
+    "path": "2053_12_SSM_20531201.png",
+    "filename": "2053_12_SSM_20531201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2053_12_SSM_20531201.png",
+    "index": 346,
+    "date": "2053-12-01",
+    "displayName": "2053-12-01"
+  },
+  {
+    "path": "2054_01_SSM_20540101.png",
+    "filename": "2054_01_SSM_20540101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2054_01_SSM_20540101.png",
+    "index": 347,
+    "date": "2054-01-01",
+    "displayName": "2054-01-01"
+  },
+  {
+    "path": "2054_02_SSM_20540201.png",
+    "filename": "2054_02_SSM_20540201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2054_02_SSM_20540201.png",
+    "index": 348,
+    "date": "2054-02-01",
+    "displayName": "2054-02-01"
+  },
+  {
+    "path": "2054_03_SSM_20540301.png",
+    "filename": "2054_03_SSM_20540301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2054_03_SSM_20540301.png",
+    "index": 349,
+    "date": "2054-03-01",
+    "displayName": "2054-03-01"
+  },
+  {
+    "path": "2054_04_SSM_20540401.png",
+    "filename": "2054_04_SSM_20540401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2054_04_SSM_20540401.png",
+    "index": 350,
+    "date": "2054-04-01",
+    "displayName": "2054-04-01"
+  },
+  {
+    "path": "2054_05_SSM_20540501.png",
+    "filename": "2054_05_SSM_20540501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2054_05_SSM_20540501.png",
+    "index": 351,
+    "date": "2054-05-01",
+    "displayName": "2054-05-01"
+  },
+  {
+    "path": "2054_06_SSM_20540601.png",
+    "filename": "2054_06_SSM_20540601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2054_06_SSM_20540601.png",
+    "index": 352,
+    "date": "2054-06-01",
+    "displayName": "2054-06-01"
+  },
+  {
+    "path": "2054_07_SSM_20540701.png",
+    "filename": "2054_07_SSM_20540701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2054_07_SSM_20540701.png",
+    "index": 353,
+    "date": "2054-07-01",
+    "displayName": "2054-07-01"
+  },
+  {
+    "path": "2054_08_SSM_20540801.png",
+    "filename": "2054_08_SSM_20540801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2054_08_SSM_20540801.png",
+    "index": 354,
+    "date": "2054-08-01",
+    "displayName": "2054-08-01"
+  },
+  {
+    "path": "2054_09_SSM_20540901.png",
+    "filename": "2054_09_SSM_20540901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2054_09_SSM_20540901.png",
+    "index": 355,
+    "date": "2054-09-01",
+    "displayName": "2054-09-01"
+  },
+  {
+    "path": "2054_10_SSM_20541001.png",
+    "filename": "2054_10_SSM_20541001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2054_10_SSM_20541001.png",
+    "index": 356,
+    "date": "2054-10-01",
+    "displayName": "2054-10-01"
+  },
+  {
+    "path": "2054_11_SSM_20541101.png",
+    "filename": "2054_11_SSM_20541101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2054_11_SSM_20541101.png",
+    "index": 357,
+    "date": "2054-11-01",
+    "displayName": "2054-11-01"
+  },
+  {
+    "path": "2054_12_SSM_20541201.png",
+    "filename": "2054_12_SSM_20541201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2054_12_SSM_20541201.png",
+    "index": 358,
+    "date": "2054-12-01",
+    "displayName": "2054-12-01"
+  },
+  {
+    "path": "2055_01_SSM_20550101.png",
+    "filename": "2055_01_SSM_20550101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2055_01_SSM_20550101.png",
+    "index": 359,
+    "date": "2055-01-01",
+    "displayName": "2055-01-01"
+  },
+  {
+    "path": "2055_03_SSM_20550301.png",
+    "filename": "2055_03_SSM_20550301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2055_03_SSM_20550301.png",
+    "index": 360,
+    "date": "2055-03-01",
+    "displayName": "2055-03-01"
+  },
+  {
+    "path": "2055_04_SSM_20550401.png",
+    "filename": "2055_04_SSM_20550401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2055_04_SSM_20550401.png",
+    "index": 361,
+    "date": "2055-04-01",
+    "displayName": "2055-04-01"
+  },
+  {
+    "path": "2055_05_SSM_20550501.png",
+    "filename": "2055_05_SSM_20550501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2055_05_SSM_20550501.png",
+    "index": 362,
+    "date": "2055-05-01",
+    "displayName": "2055-05-01"
+  },
+  {
+    "path": "2055_06_SSM_20550601.png",
+    "filename": "2055_06_SSM_20550601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2055_06_SSM_20550601.png",
+    "index": 363,
+    "date": "2055-06-01",
+    "displayName": "2055-06-01"
+  },
+  {
+    "path": "2055_07_SSM_20550701.png",
+    "filename": "2055_07_SSM_20550701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2055_07_SSM_20550701.png",
+    "index": 364,
+    "date": "2055-07-01",
+    "displayName": "2055-07-01"
+  },
+  {
+    "path": "2055_08_SSM_20550801.png",
+    "filename": "2055_08_SSM_20550801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2055_08_SSM_20550801.png",
+    "index": 365,
+    "date": "2055-08-01",
+    "displayName": "2055-08-01"
+  },
+  {
+    "path": "2055_09_SSM_20550901.png",
+    "filename": "2055_09_SSM_20550901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2055_09_SSM_20550901.png",
+    "index": 366,
+    "date": "2055-09-01",
+    "displayName": "2055-09-01"
+  },
+  {
+    "path": "2055_10_SSM_20551001.png",
+    "filename": "2055_10_SSM_20551001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2055_10_SSM_20551001.png",
+    "index": 367,
+    "date": "2055-10-01",
+    "displayName": "2055-10-01"
+  },
+  {
+    "path": "2055_11_SSM_20551101.png",
+    "filename": "2055_11_SSM_20551101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2055_11_SSM_20551101.png",
+    "index": 368,
+    "date": "2055-11-01",
+    "displayName": "2055-11-01"
+  },
+  {
+    "path": "2055_12_SSM_20551201.png",
+    "filename": "2055_12_SSM_20551201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2055_12_SSM_20551201.png",
+    "index": 369,
+    "date": "2055-12-01",
+    "displayName": "2055-12-01"
+  },
+  {
+    "path": "2056_01_SSM_20560101.png",
+    "filename": "2056_01_SSM_20560101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2056_01_SSM_20560101.png",
+    "index": 370,
+    "date": "2056-01-01",
+    "displayName": "2056-01-01"
+  },
+  {
+    "path": "2056_02_SSM_20560201.png",
+    "filename": "2056_02_SSM_20560201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2056_02_SSM_20560201.png",
+    "index": 371,
+    "date": "2056-02-01",
+    "displayName": "2056-02-01"
+  },
+  {
+    "path": "2056_03_SSM_20560301.png",
+    "filename": "2056_03_SSM_20560301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2056_03_SSM_20560301.png",
+    "index": 372,
+    "date": "2056-03-01",
+    "displayName": "2056-03-01"
+  },
+  {
+    "path": "2056_04_SSM_20560401.png",
+    "filename": "2056_04_SSM_20560401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2056_04_SSM_20560401.png",
+    "index": 373,
+    "date": "2056-04-01",
+    "displayName": "2056-04-01"
+  },
+  {
+    "path": "2056_05_SSM_20560501.png",
+    "filename": "2056_05_SSM_20560501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2056_05_SSM_20560501.png",
+    "index": 374,
+    "date": "2056-05-01",
+    "displayName": "2056-05-01"
+  },
+  {
+    "path": "2056_06_SSM_20560601.png",
+    "filename": "2056_06_SSM_20560601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2056_06_SSM_20560601.png",
+    "index": 375,
+    "date": "2056-06-01",
+    "displayName": "2056-06-01"
+  },
+  {
+    "path": "2056_07_SSM_20560701.png",
+    "filename": "2056_07_SSM_20560701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2056_07_SSM_20560701.png",
+    "index": 376,
+    "date": "2056-07-01",
+    "displayName": "2056-07-01"
+  },
+  {
+    "path": "2056_08_SSM_20560801.png",
+    "filename": "2056_08_SSM_20560801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2056_08_SSM_20560801.png",
+    "index": 377,
+    "date": "2056-08-01",
+    "displayName": "2056-08-01"
+  },
+  {
+    "path": "2056_09_SSM_20560901.png",
+    "filename": "2056_09_SSM_20560901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2056_09_SSM_20560901.png",
+    "index": 378,
+    "date": "2056-09-01",
+    "displayName": "2056-09-01"
+  },
+  {
+    "path": "2056_10_SSM_20561001.png",
+    "filename": "2056_10_SSM_20561001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2056_10_SSM_20561001.png",
+    "index": 379,
+    "date": "2056-10-01",
+    "displayName": "2056-10-01"
+  },
+  {
+    "path": "2056_11_SSM_20561101.png",
+    "filename": "2056_11_SSM_20561101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2056_11_SSM_20561101.png",
+    "index": 380,
+    "date": "2056-11-01",
+    "displayName": "2056-11-01"
+  },
+  {
+    "path": "2056_12_SSM_20561201.png",
+    "filename": "2056_12_SSM_20561201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2056_12_SSM_20561201.png",
+    "index": 381,
+    "date": "2056-12-01",
+    "displayName": "2056-12-01"
+  },
+  {
+    "path": "2057_01_SSM_20570101.png",
+    "filename": "2057_01_SSM_20570101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2057_01_SSM_20570101.png",
+    "index": 382,
+    "date": "2057-01-01",
+    "displayName": "2057-01-01"
+  },
+  {
+    "path": "2057_02_SSM_20570201.png",
+    "filename": "2057_02_SSM_20570201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2057_02_SSM_20570201.png",
+    "index": 383,
+    "date": "2057-02-01",
+    "displayName": "2057-02-01"
+  },
+  {
+    "path": "2057_03_SSM_20570301.png",
+    "filename": "2057_03_SSM_20570301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2057_03_SSM_20570301.png",
+    "index": 384,
+    "date": "2057-03-01",
+    "displayName": "2057-03-01"
+  },
+  {
+    "path": "2057_04_SSM_20570401.png",
+    "filename": "2057_04_SSM_20570401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2057_04_SSM_20570401.png",
+    "index": 385,
+    "date": "2057-04-01",
+    "displayName": "2057-04-01"
+  },
+  {
+    "path": "2057_05_SSM_20570501.png",
+    "filename": "2057_05_SSM_20570501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2057_05_SSM_20570501.png",
+    "index": 386,
+    "date": "2057-05-01",
+    "displayName": "2057-05-01"
+  },
+  {
+    "path": "2057_06_SSM_20570601.png",
+    "filename": "2057_06_SSM_20570601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2057_06_SSM_20570601.png",
+    "index": 387,
+    "date": "2057-06-01",
+    "displayName": "2057-06-01"
+  },
+  {
+    "path": "2057_07_SSM_20570701.png",
+    "filename": "2057_07_SSM_20570701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2057_07_SSM_20570701.png",
+    "index": 388,
+    "date": "2057-07-01",
+    "displayName": "2057-07-01"
+  },
+  {
+    "path": "2057_08_SSM_20570801.png",
+    "filename": "2057_08_SSM_20570801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2057_08_SSM_20570801.png",
+    "index": 389,
+    "date": "2057-08-01",
+    "displayName": "2057-08-01"
+  },
+  {
+    "path": "2057_09_SSM_20570901.png",
+    "filename": "2057_09_SSM_20570901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2057_09_SSM_20570901.png",
+    "index": 390,
+    "date": "2057-09-01",
+    "displayName": "2057-09-01"
+  },
+  {
+    "path": "2057_10_SSM_20571001.png",
+    "filename": "2057_10_SSM_20571001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2057_10_SSM_20571001.png",
+    "index": 391,
+    "date": "2057-10-01",
+    "displayName": "2057-10-01"
+  },
+  {
+    "path": "2057_11_SSM_20571101.png",
+    "filename": "2057_11_SSM_20571101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2057_11_SSM_20571101.png",
+    "index": 392,
+    "date": "2057-11-01",
+    "displayName": "2057-11-01"
+  },
+  {
+    "path": "2057_12_SSM_20571201.png",
+    "filename": "2057_12_SSM_20571201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2057_12_SSM_20571201.png",
+    "index": 393,
+    "date": "2057-12-01",
+    "displayName": "2057-12-01"
+  },
+  {
+    "path": "2058_01_SSM_20580101.png",
+    "filename": "2058_01_SSM_20580101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2058_01_SSM_20580101.png",
+    "index": 394,
+    "date": "2058-01-01",
+    "displayName": "2058-01-01"
+  },
+  {
+    "path": "2058_02_SSM_20580201.png",
+    "filename": "2058_02_SSM_20580201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2058_02_SSM_20580201.png",
+    "index": 395,
+    "date": "2058-02-01",
+    "displayName": "2058-02-01"
+  },
+  {
+    "path": "2058_03_SSM_20580301.png",
+    "filename": "2058_03_SSM_20580301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2058_03_SSM_20580301.png",
+    "index": 396,
+    "date": "2058-03-01",
+    "displayName": "2058-03-01"
+  },
+  {
+    "path": "2058_04_SSM_20580401.png",
+    "filename": "2058_04_SSM_20580401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2058_04_SSM_20580401.png",
+    "index": 397,
+    "date": "2058-04-01",
+    "displayName": "2058-04-01"
+  },
+  {
+    "path": "2058_05_SSM_20580501.png",
+    "filename": "2058_05_SSM_20580501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2058_05_SSM_20580501.png",
+    "index": 398,
+    "date": "2058-05-01",
+    "displayName": "2058-05-01"
+  },
+  {
+    "path": "2058_06_SSM_20580601.png",
+    "filename": "2058_06_SSM_20580601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2058_06_SSM_20580601.png",
+    "index": 399,
+    "date": "2058-06-01",
+    "displayName": "2058-06-01"
+  },
+  {
+    "path": "2058_07_SSM_20580701.png",
+    "filename": "2058_07_SSM_20580701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2058_07_SSM_20580701.png",
+    "index": 400,
+    "date": "2058-07-01",
+    "displayName": "2058-07-01"
+  },
+  {
+    "path": "2058_08_SSM_20580801.png",
+    "filename": "2058_08_SSM_20580801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2058_08_SSM_20580801.png",
+    "index": 401,
+    "date": "2058-08-01",
+    "displayName": "2058-08-01"
+  },
+  {
+    "path": "2058_09_SSM_20580901.png",
+    "filename": "2058_09_SSM_20580901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2058_09_SSM_20580901.png",
+    "index": 402,
+    "date": "2058-09-01",
+    "displayName": "2058-09-01"
+  },
+  {
+    "path": "2058_10_SSM_20581001.png",
+    "filename": "2058_10_SSM_20581001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2058_10_SSM_20581001.png",
+    "index": 403,
+    "date": "2058-10-01",
+    "displayName": "2058-10-01"
+  },
+  {
+    "path": "2058_11_SSM_20581101.png",
+    "filename": "2058_11_SSM_20581101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2058_11_SSM_20581101.png",
+    "index": 404,
+    "date": "2058-11-01",
+    "displayName": "2058-11-01"
+  },
+  {
+    "path": "2058_12_SSM_20581201.png",
+    "filename": "2058_12_SSM_20581201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2058_12_SSM_20581201.png",
+    "index": 405,
+    "date": "2058-12-01",
+    "displayName": "2058-12-01"
+  },
+  {
+    "path": "2059_01_SSM_20590101.png",
+    "filename": "2059_01_SSM_20590101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2059_01_SSM_20590101.png",
+    "index": 406,
+    "date": "2059-01-01",
+    "displayName": "2059-01-01"
+  },
+  {
+    "path": "2059_02_SSM_20590201.png",
+    "filename": "2059_02_SSM_20590201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2059_02_SSM_20590201.png",
+    "index": 407,
+    "date": "2059-02-01",
+    "displayName": "2059-02-01"
+  },
+  {
+    "path": "2059_03_SSM_20590301.png",
+    "filename": "2059_03_SSM_20590301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2059_03_SSM_20590301.png",
+    "index": 408,
+    "date": "2059-03-01",
+    "displayName": "2059-03-01"
+  },
+  {
+    "path": "2059_04_SSM_20590401.png",
+    "filename": "2059_04_SSM_20590401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2059_04_SSM_20590401.png",
+    "index": 409,
+    "date": "2059-04-01",
+    "displayName": "2059-04-01"
+  },
+  {
+    "path": "2059_05_SSM_20590501.png",
+    "filename": "2059_05_SSM_20590501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2059_05_SSM_20590501.png",
+    "index": 410,
+    "date": "2059-05-01",
+    "displayName": "2059-05-01"
+  },
+  {
+    "path": "2059_06_SSM_20590601.png",
+    "filename": "2059_06_SSM_20590601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2059_06_SSM_20590601.png",
+    "index": 411,
+    "date": "2059-06-01",
+    "displayName": "2059-06-01"
+  },
+  {
+    "path": "2059_07_SSM_20590701.png",
+    "filename": "2059_07_SSM_20590701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2059_07_SSM_20590701.png",
+    "index": 412,
+    "date": "2059-07-01",
+    "displayName": "2059-07-01"
+  },
+  {
+    "path": "2059_08_SSM_20590801.png",
+    "filename": "2059_08_SSM_20590801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2059_08_SSM_20590801.png",
+    "index": 413,
+    "date": "2059-08-01",
+    "displayName": "2059-08-01"
+  },
+  {
+    "path": "2059_09_SSM_20590901.png",
+    "filename": "2059_09_SSM_20590901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2059_09_SSM_20590901.png",
+    "index": 414,
+    "date": "2059-09-01",
+    "displayName": "2059-09-01"
+  },
+  {
+    "path": "2059_10_SSM_20591001.png",
+    "filename": "2059_10_SSM_20591001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2059_10_SSM_20591001.png",
+    "index": 415,
+    "date": "2059-10-01",
+    "displayName": "2059-10-01"
+  },
+  {
+    "path": "2059_11_SSM_20591101.png",
+    "filename": "2059_11_SSM_20591101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2059_11_SSM_20591101.png",
+    "index": 416,
+    "date": "2059-11-01",
+    "displayName": "2059-11-01"
+  },
+  {
+    "path": "2059_12_SSM_20591201.png",
+    "filename": "2059_12_SSM_20591201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2059_12_SSM_20591201.png",
+    "index": 417,
+    "date": "2059-12-01",
+    "displayName": "2059-12-01"
+  },
+  {
+    "path": "2060_01_SSM_20600101.png",
+    "filename": "2060_01_SSM_20600101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2060_01_SSM_20600101.png",
+    "index": 418,
+    "date": "2060-01-01",
+    "displayName": "2060-01-01"
+  },
+  {
+    "path": "2060_02_SSM_20600201.png",
+    "filename": "2060_02_SSM_20600201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2060_02_SSM_20600201.png",
+    "index": 419,
+    "date": "2060-02-01",
+    "displayName": "2060-02-01"
+  },
+  {
+    "path": "2060_03_SSM_20600301.png",
+    "filename": "2060_03_SSM_20600301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2060_03_SSM_20600301.png",
+    "index": 420,
+    "date": "2060-03-01",
+    "displayName": "2060-03-01"
+  },
+  {
+    "path": "2060_04_SSM_20600401.png",
+    "filename": "2060_04_SSM_20600401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2060_04_SSM_20600401.png",
+    "index": 421,
+    "date": "2060-04-01",
+    "displayName": "2060-04-01"
+  },
+  {
+    "path": "2060_05_SSM_20600501.png",
+    "filename": "2060_05_SSM_20600501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2060_05_SSM_20600501.png",
+    "index": 422,
+    "date": "2060-05-01",
+    "displayName": "2060-05-01"
+  },
+  {
+    "path": "2060_06_SSM_20600601.png",
+    "filename": "2060_06_SSM_20600601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2060_06_SSM_20600601.png",
+    "index": 423,
+    "date": "2060-06-01",
+    "displayName": "2060-06-01"
+  },
+  {
+    "path": "2060_07_SSM_20600701.png",
+    "filename": "2060_07_SSM_20600701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2060_07_SSM_20600701.png",
+    "index": 424,
+    "date": "2060-07-01",
+    "displayName": "2060-07-01"
+  },
+  {
+    "path": "2060_08_SSM_20600801.png",
+    "filename": "2060_08_SSM_20600801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2060_08_SSM_20600801.png",
+    "index": 425,
+    "date": "2060-08-01",
+    "displayName": "2060-08-01"
+  },
+  {
+    "path": "2060_09_SSM_20600901.png",
+    "filename": "2060_09_SSM_20600901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2060_09_SSM_20600901.png",
+    "index": 426,
+    "date": "2060-09-01",
+    "displayName": "2060-09-01"
+  },
+  {
+    "path": "2060_10_SSM_20601001.png",
+    "filename": "2060_10_SSM_20601001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2060_10_SSM_20601001.png",
+    "index": 427,
+    "date": "2060-10-01",
+    "displayName": "2060-10-01"
+  },
+  {
+    "path": "2060_11_SSM_20601101.png",
+    "filename": "2060_11_SSM_20601101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2060_11_SSM_20601101.png",
+    "index": 428,
+    "date": "2060-11-01",
+    "displayName": "2060-11-01"
+  },
+  {
+    "path": "2060_12_SSM_20601201.png",
+    "filename": "2060_12_SSM_20601201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2060_12_SSM_20601201.png",
+    "index": 429,
+    "date": "2060-12-01",
+    "displayName": "2060-12-01"
+  },
+  {
+    "path": "2061_01_SSM_20610101.png",
+    "filename": "2061_01_SSM_20610101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2061_01_SSM_20610101.png",
+    "index": 430,
+    "date": "2061-01-01",
+    "displayName": "2061-01-01"
+  },
+  {
+    "path": "2061_02_SSM_20610201.png",
+    "filename": "2061_02_SSM_20610201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2061_02_SSM_20610201.png",
+    "index": 431,
+    "date": "2061-02-01",
+    "displayName": "2061-02-01"
+  },
+  {
+    "path": "2061_03_SSM_20610301.png",
+    "filename": "2061_03_SSM_20610301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2061_03_SSM_20610301.png",
+    "index": 432,
+    "date": "2061-03-01",
+    "displayName": "2061-03-01"
+  },
+  {
+    "path": "2061_04_SSM_20610401.png",
+    "filename": "2061_04_SSM_20610401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2061_04_SSM_20610401.png",
+    "index": 433,
+    "date": "2061-04-01",
+    "displayName": "2061-04-01"
+  },
+  {
+    "path": "2061_05_SSM_20610501.png",
+    "filename": "2061_05_SSM_20610501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2061_05_SSM_20610501.png",
+    "index": 434,
+    "date": "2061-05-01",
+    "displayName": "2061-05-01"
+  },
+  {
+    "path": "2061_06_SSM_20610601.png",
+    "filename": "2061_06_SSM_20610601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2061_06_SSM_20610601.png",
+    "index": 435,
+    "date": "2061-06-01",
+    "displayName": "2061-06-01"
+  },
+  {
+    "path": "2061_07_SSM_20610701.png",
+    "filename": "2061_07_SSM_20610701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2061_07_SSM_20610701.png",
+    "index": 436,
+    "date": "2061-07-01",
+    "displayName": "2061-07-01"
+  },
+  {
+    "path": "2061_08_SSM_20610801.png",
+    "filename": "2061_08_SSM_20610801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2061_08_SSM_20610801.png",
+    "index": 437,
+    "date": "2061-08-01",
+    "displayName": "2061-08-01"
+  },
+  {
+    "path": "2061_09_SSM_20610901.png",
+    "filename": "2061_09_SSM_20610901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2061_09_SSM_20610901.png",
+    "index": 438,
+    "date": "2061-09-01",
+    "displayName": "2061-09-01"
+  },
+  {
+    "path": "2061_10_SSM_20611001.png",
+    "filename": "2061_10_SSM_20611001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2061_10_SSM_20611001.png",
+    "index": 439,
+    "date": "2061-10-01",
+    "displayName": "2061-10-01"
+  },
+  {
+    "path": "2061_11_SSM_20611101.png",
+    "filename": "2061_11_SSM_20611101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2061_11_SSM_20611101.png",
+    "index": 440,
+    "date": "2061-11-01",
+    "displayName": "2061-11-01"
+  },
+  {
+    "path": "2061_12_SSM_20611201.png",
+    "filename": "2061_12_SSM_20611201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2061_12_SSM_20611201.png",
+    "index": 441,
+    "date": "2061-12-01",
+    "displayName": "2061-12-01"
+  },
+  {
+    "path": "2062_01_SSM_20620101.png",
+    "filename": "2062_01_SSM_20620101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2062_01_SSM_20620101.png",
+    "index": 442,
+    "date": "2062-01-01",
+    "displayName": "2062-01-01"
+  },
+  {
+    "path": "2062_02_SSM_20620201.png",
+    "filename": "2062_02_SSM_20620201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2062_02_SSM_20620201.png",
+    "index": 443,
+    "date": "2062-02-01",
+    "displayName": "2062-02-01"
+  },
+  {
+    "path": "2062_03_SSM_20620301.png",
+    "filename": "2062_03_SSM_20620301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2062_03_SSM_20620301.png",
+    "index": 444,
+    "date": "2062-03-01",
+    "displayName": "2062-03-01"
+  },
+  {
+    "path": "2062_04_SSM_20620401.png",
+    "filename": "2062_04_SSM_20620401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2062_04_SSM_20620401.png",
+    "index": 445,
+    "date": "2062-04-01",
+    "displayName": "2062-04-01"
+  },
+  {
+    "path": "2062_05_SSM_20620501.png",
+    "filename": "2062_05_SSM_20620501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2062_05_SSM_20620501.png",
+    "index": 446,
+    "date": "2062-05-01",
+    "displayName": "2062-05-01"
+  },
+  {
+    "path": "2062_06_SSM_20620601.png",
+    "filename": "2062_06_SSM_20620601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2062_06_SSM_20620601.png",
+    "index": 447,
+    "date": "2062-06-01",
+    "displayName": "2062-06-01"
+  },
+  {
+    "path": "2062_07_SSM_20620701.png",
+    "filename": "2062_07_SSM_20620701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2062_07_SSM_20620701.png",
+    "index": 448,
+    "date": "2062-07-01",
+    "displayName": "2062-07-01"
+  },
+  {
+    "path": "2062_08_SSM_20620801.png",
+    "filename": "2062_08_SSM_20620801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2062_08_SSM_20620801.png",
+    "index": 449,
+    "date": "2062-08-01",
+    "displayName": "2062-08-01"
+  },
+  {
+    "path": "2062_09_SSM_20620901.png",
+    "filename": "2062_09_SSM_20620901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2062_09_SSM_20620901.png",
+    "index": 450,
+    "date": "2062-09-01",
+    "displayName": "2062-09-01"
+  },
+  {
+    "path": "2062_10_SSM_20621001.png",
+    "filename": "2062_10_SSM_20621001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2062_10_SSM_20621001.png",
+    "index": 451,
+    "date": "2062-10-01",
+    "displayName": "2062-10-01"
+  },
+  {
+    "path": "2062_11_SSM_20621101.png",
+    "filename": "2062_11_SSM_20621101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2062_11_SSM_20621101.png",
+    "index": 452,
+    "date": "2062-11-01",
+    "displayName": "2062-11-01"
+  },
+  {
+    "path": "2062_12_SSM_20621201.png",
+    "filename": "2062_12_SSM_20621201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2062_12_SSM_20621201.png",
+    "index": 453,
+    "date": "2062-12-01",
+    "displayName": "2062-12-01"
+  },
+  {
+    "path": "2063_01_SSM_20630101.png",
+    "filename": "2063_01_SSM_20630101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2063_01_SSM_20630101.png",
+    "index": 454,
+    "date": "2063-01-01",
+    "displayName": "2063-01-01"
+  },
+  {
+    "path": "2063_02_SSM_20630201.png",
+    "filename": "2063_02_SSM_20630201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2063_02_SSM_20630201.png",
+    "index": 455,
+    "date": "2063-02-01",
+    "displayName": "2063-02-01"
+  },
+  {
+    "path": "2063_03_SSM_20630301.png",
+    "filename": "2063_03_SSM_20630301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2063_03_SSM_20630301.png",
+    "index": 456,
+    "date": "2063-03-01",
+    "displayName": "2063-03-01"
+  },
+  {
+    "path": "2063_04_SSM_20630401.png",
+    "filename": "2063_04_SSM_20630401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2063_04_SSM_20630401.png",
+    "index": 457,
+    "date": "2063-04-01",
+    "displayName": "2063-04-01"
+  },
+  {
+    "path": "2063_05_SSM_20630501.png",
+    "filename": "2063_05_SSM_20630501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2063_05_SSM_20630501.png",
+    "index": 458,
+    "date": "2063-05-01",
+    "displayName": "2063-05-01"
+  },
+  {
+    "path": "2063_06_SSM_20630601.png",
+    "filename": "2063_06_SSM_20630601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2063_06_SSM_20630601.png",
+    "index": 459,
+    "date": "2063-06-01",
+    "displayName": "2063-06-01"
+  },
+  {
+    "path": "2063_07_SSM_20630701.png",
+    "filename": "2063_07_SSM_20630701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2063_07_SSM_20630701.png",
+    "index": 460,
+    "date": "2063-07-01",
+    "displayName": "2063-07-01"
+  },
+  {
+    "path": "2063_08_SSM_20630801.png",
+    "filename": "2063_08_SSM_20630801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2063_08_SSM_20630801.png",
+    "index": 461,
+    "date": "2063-08-01",
+    "displayName": "2063-08-01"
+  },
+  {
+    "path": "2063_09_SSM_20630901.png",
+    "filename": "2063_09_SSM_20630901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2063_09_SSM_20630901.png",
+    "index": 462,
+    "date": "2063-09-01",
+    "displayName": "2063-09-01"
+  },
+  {
+    "path": "2063_10_SSM_20631001.png",
+    "filename": "2063_10_SSM_20631001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2063_10_SSM_20631001.png",
+    "index": 463,
+    "date": "2063-10-01",
+    "displayName": "2063-10-01"
+  },
+  {
+    "path": "2063_11_SSM_20631101.png",
+    "filename": "2063_11_SSM_20631101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2063_11_SSM_20631101.png",
+    "index": 464,
+    "date": "2063-11-01",
+    "displayName": "2063-11-01"
+  },
+  {
+    "path": "2063_12_SSM_20631201.png",
+    "filename": "2063_12_SSM_20631201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2063_12_SSM_20631201.png",
+    "index": 465,
+    "date": "2063-12-01",
+    "displayName": "2063-12-01"
+  },
+  {
+    "path": "2064_01_SSM_20640101.png",
+    "filename": "2064_01_SSM_20640101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2064_01_SSM_20640101.png",
+    "index": 466,
+    "date": "2064-01-01",
+    "displayName": "2064-01-01"
+  },
+  {
+    "path": "2064_02_SSM_20640201.png",
+    "filename": "2064_02_SSM_20640201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2064_02_SSM_20640201.png",
+    "index": 467,
+    "date": "2064-02-01",
+    "displayName": "2064-02-01"
+  },
+  {
+    "path": "2064_03_SSM_20640301.png",
+    "filename": "2064_03_SSM_20640301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2064_03_SSM_20640301.png",
+    "index": 468,
+    "date": "2064-03-01",
+    "displayName": "2064-03-01"
+  },
+  {
+    "path": "2064_04_SSM_20640401.png",
+    "filename": "2064_04_SSM_20640401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2064_04_SSM_20640401.png",
+    "index": 469,
+    "date": "2064-04-01",
+    "displayName": "2064-04-01"
+  },
+  {
+    "path": "2064_05_SSM_20640501.png",
+    "filename": "2064_05_SSM_20640501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2064_05_SSM_20640501.png",
+    "index": 470,
+    "date": "2064-05-01",
+    "displayName": "2064-05-01"
+  },
+  {
+    "path": "2064_06_SSM_20640601.png",
+    "filename": "2064_06_SSM_20640601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2064_06_SSM_20640601.png",
+    "index": 471,
+    "date": "2064-06-01",
+    "displayName": "2064-06-01"
+  },
+  {
+    "path": "2064_07_SSM_20640701.png",
+    "filename": "2064_07_SSM_20640701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2064_07_SSM_20640701.png",
+    "index": 472,
+    "date": "2064-07-01",
+    "displayName": "2064-07-01"
+  },
+  {
+    "path": "2064_08_SSM_20640801.png",
+    "filename": "2064_08_SSM_20640801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2064_08_SSM_20640801.png",
+    "index": 473,
+    "date": "2064-08-01",
+    "displayName": "2064-08-01"
+  },
+  {
+    "path": "2064_09_SSM_20640901.png",
+    "filename": "2064_09_SSM_20640901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2064_09_SSM_20640901.png",
+    "index": 474,
+    "date": "2064-09-01",
+    "displayName": "2064-09-01"
+  },
+  {
+    "path": "2064_10_SSM_20641001.png",
+    "filename": "2064_10_SSM_20641001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2064_10_SSM_20641001.png",
+    "index": 475,
+    "date": "2064-10-01",
+    "displayName": "2064-10-01"
+  },
+  {
+    "path": "2064_11_SSM_20641101.png",
+    "filename": "2064_11_SSM_20641101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2064_11_SSM_20641101.png",
+    "index": 476,
+    "date": "2064-11-01",
+    "displayName": "2064-11-01"
+  },
+  {
+    "path": "2064_12_SSM_20641201.png",
+    "filename": "2064_12_SSM_20641201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2064_12_SSM_20641201.png",
+    "index": 477,
+    "date": "2064-12-01",
+    "displayName": "2064-12-01"
+  },
+  {
+    "path": "2065_01_SSM_20650101.png",
+    "filename": "2065_01_SSM_20650101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2065_01_SSM_20650101.png",
+    "index": 478,
+    "date": "2065-01-01",
+    "displayName": "2065-01-01"
+  },
+  {
+    "path": "2065_02_SSM_20650201.png",
+    "filename": "2065_02_SSM_20650201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2065_02_SSM_20650201.png",
+    "index": 479,
+    "date": "2065-02-01",
+    "displayName": "2065-02-01"
+  },
+  {
+    "path": "2065_03_SSM_20650301.png",
+    "filename": "2065_03_SSM_20650301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2065_03_SSM_20650301.png",
+    "index": 480,
+    "date": "2065-03-01",
+    "displayName": "2065-03-01"
+  },
+  {
+    "path": "2065_04_SSM_20650401.png",
+    "filename": "2065_04_SSM_20650401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2065_04_SSM_20650401.png",
+    "index": 481,
+    "date": "2065-04-01",
+    "displayName": "2065-04-01"
+  },
+  {
+    "path": "2065_05_SSM_20650501.png",
+    "filename": "2065_05_SSM_20650501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2065_05_SSM_20650501.png",
+    "index": 482,
+    "date": "2065-05-01",
+    "displayName": "2065-05-01"
+  },
+  {
+    "path": "2065_06_SSM_20650601.png",
+    "filename": "2065_06_SSM_20650601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2065_06_SSM_20650601.png",
+    "index": 483,
+    "date": "2065-06-01",
+    "displayName": "2065-06-01"
+  },
+  {
+    "path": "2065_07_SSM_20650701.png",
+    "filename": "2065_07_SSM_20650701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2065_07_SSM_20650701.png",
+    "index": 484,
+    "date": "2065-07-01",
+    "displayName": "2065-07-01"
+  },
+  {
+    "path": "2065_08_SSM_20650801.png",
+    "filename": "2065_08_SSM_20650801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2065_08_SSM_20650801.png",
+    "index": 485,
+    "date": "2065-08-01",
+    "displayName": "2065-08-01"
+  },
+  {
+    "path": "2065_09_SSM_20650901.png",
+    "filename": "2065_09_SSM_20650901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2065_09_SSM_20650901.png",
+    "index": 486,
+    "date": "2065-09-01",
+    "displayName": "2065-09-01"
+  },
+  {
+    "path": "2065_10_SSM_20651001.png",
+    "filename": "2065_10_SSM_20651001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2065_10_SSM_20651001.png",
+    "index": 487,
+    "date": "2065-10-01",
+    "displayName": "2065-10-01"
+  },
+  {
+    "path": "2065_11_SSM_20651101.png",
+    "filename": "2065_11_SSM_20651101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2065_11_SSM_20651101.png",
+    "index": 488,
+    "date": "2065-11-01",
+    "displayName": "2065-11-01"
+  },
+  {
+    "path": "2065_12_SSM_20651201.png",
+    "filename": "2065_12_SSM_20651201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2065_12_SSM_20651201.png",
+    "index": 489,
+    "date": "2065-12-01",
+    "displayName": "2065-12-01"
+  },
+  {
+    "path": "2066_01_SSM_20660101.png",
+    "filename": "2066_01_SSM_20660101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2066_01_SSM_20660101.png",
+    "index": 490,
+    "date": "2066-01-01",
+    "displayName": "2066-01-01"
+  },
+  {
+    "path": "2066_02_SSM_20660201.png",
+    "filename": "2066_02_SSM_20660201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2066_02_SSM_20660201.png",
+    "index": 491,
+    "date": "2066-02-01",
+    "displayName": "2066-02-01"
+  },
+  {
+    "path": "2066_03_SSM_20660301.png",
+    "filename": "2066_03_SSM_20660301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2066_03_SSM_20660301.png",
+    "index": 492,
+    "date": "2066-03-01",
+    "displayName": "2066-03-01"
+  },
+  {
+    "path": "2066_04_SSM_20660401.png",
+    "filename": "2066_04_SSM_20660401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2066_04_SSM_20660401.png",
+    "index": 493,
+    "date": "2066-04-01",
+    "displayName": "2066-04-01"
+  },
+  {
+    "path": "2066_05_SSM_20660501.png",
+    "filename": "2066_05_SSM_20660501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2066_05_SSM_20660501.png",
+    "index": 494,
+    "date": "2066-05-01",
+    "displayName": "2066-05-01"
+  },
+  {
+    "path": "2066_06_SSM_20660601.png",
+    "filename": "2066_06_SSM_20660601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2066_06_SSM_20660601.png",
+    "index": 495,
+    "date": "2066-06-01",
+    "displayName": "2066-06-01"
+  },
+  {
+    "path": "2066_07_SSM_20660701.png",
+    "filename": "2066_07_SSM_20660701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2066_07_SSM_20660701.png",
+    "index": 496,
+    "date": "2066-07-01",
+    "displayName": "2066-07-01"
+  },
+  {
+    "path": "2066_08_SSM_20660801.png",
+    "filename": "2066_08_SSM_20660801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2066_08_SSM_20660801.png",
+    "index": 497,
+    "date": "2066-08-01",
+    "displayName": "2066-08-01"
+  },
+  {
+    "path": "2066_09_SSM_20660901.png",
+    "filename": "2066_09_SSM_20660901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2066_09_SSM_20660901.png",
+    "index": 498,
+    "date": "2066-09-01",
+    "displayName": "2066-09-01"
+  },
+  {
+    "path": "2066_10_SSM_20661001.png",
+    "filename": "2066_10_SSM_20661001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2066_10_SSM_20661001.png",
+    "index": 499,
+    "date": "2066-10-01",
+    "displayName": "2066-10-01"
+  },
+  {
+    "path": "2066_11_SSM_20661101.png",
+    "filename": "2066_11_SSM_20661101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2066_11_SSM_20661101.png",
+    "index": 500,
+    "date": "2066-11-01",
+    "displayName": "2066-11-01"
+  },
+  {
+    "path": "2066_12_SSM_20661201.png",
+    "filename": "2066_12_SSM_20661201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2066_12_SSM_20661201.png",
+    "index": 501,
+    "date": "2066-12-01",
+    "displayName": "2066-12-01"
+  },
+  {
+    "path": "2067_01_SSM_20670101.png",
+    "filename": "2067_01_SSM_20670101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2067_01_SSM_20670101.png",
+    "index": 502,
+    "date": "2067-01-01",
+    "displayName": "2067-01-01"
+  },
+  {
+    "path": "2067_02_SSM_20670201.png",
+    "filename": "2067_02_SSM_20670201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2067_02_SSM_20670201.png",
+    "index": 503,
+    "date": "2067-02-01",
+    "displayName": "2067-02-01"
+  },
+  {
+    "path": "2067_03_SSM_20670301.png",
+    "filename": "2067_03_SSM_20670301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2067_03_SSM_20670301.png",
+    "index": 504,
+    "date": "2067-03-01",
+    "displayName": "2067-03-01"
+  },
+  {
+    "path": "2067_04_SSM_20670401.png",
+    "filename": "2067_04_SSM_20670401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2067_04_SSM_20670401.png",
+    "index": 505,
+    "date": "2067-04-01",
+    "displayName": "2067-04-01"
+  },
+  {
+    "path": "2067_05_SSM_20670501.png",
+    "filename": "2067_05_SSM_20670501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2067_05_SSM_20670501.png",
+    "index": 506,
+    "date": "2067-05-01",
+    "displayName": "2067-05-01"
+  },
+  {
+    "path": "2067_06_SSM_20670601.png",
+    "filename": "2067_06_SSM_20670601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2067_06_SSM_20670601.png",
+    "index": 507,
+    "date": "2067-06-01",
+    "displayName": "2067-06-01"
+  },
+  {
+    "path": "2067_07_SSM_20670701.png",
+    "filename": "2067_07_SSM_20670701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2067_07_SSM_20670701.png",
+    "index": 508,
+    "date": "2067-07-01",
+    "displayName": "2067-07-01"
+  },
+  {
+    "path": "2067_08_SSM_20670801.png",
+    "filename": "2067_08_SSM_20670801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2067_08_SSM_20670801.png",
+    "index": 509,
+    "date": "2067-08-01",
+    "displayName": "2067-08-01"
+  },
+  {
+    "path": "2067_09_SSM_20670901.png",
+    "filename": "2067_09_SSM_20670901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2067_09_SSM_20670901.png",
+    "index": 510,
+    "date": "2067-09-01",
+    "displayName": "2067-09-01"
+  },
+  {
+    "path": "2067_10_SSM_20671001.png",
+    "filename": "2067_10_SSM_20671001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2067_10_SSM_20671001.png",
+    "index": 511,
+    "date": "2067-10-01",
+    "displayName": "2067-10-01"
+  },
+  {
+    "path": "2067_11_SSM_20671101.png",
+    "filename": "2067_11_SSM_20671101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2067_11_SSM_20671101.png",
+    "index": 512,
+    "date": "2067-11-01",
+    "displayName": "2067-11-01"
+  },
+  {
+    "path": "2067_12_SSM_20671201.png",
+    "filename": "2067_12_SSM_20671201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2067_12_SSM_20671201.png",
+    "index": 513,
+    "date": "2067-12-01",
+    "displayName": "2067-12-01"
+  },
+  {
+    "path": "2068_01_SSM_20680101.png",
+    "filename": "2068_01_SSM_20680101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2068_01_SSM_20680101.png",
+    "index": 514,
+    "date": "2068-01-01",
+    "displayName": "2068-01-01"
+  },
+  {
+    "path": "2068_02_SSM_20680201.png",
+    "filename": "2068_02_SSM_20680201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2068_02_SSM_20680201.png",
+    "index": 515,
+    "date": "2068-02-01",
+    "displayName": "2068-02-01"
+  },
+  {
+    "path": "2068_03_SSM_20680301.png",
+    "filename": "2068_03_SSM_20680301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2068_03_SSM_20680301.png",
+    "index": 516,
+    "date": "2068-03-01",
+    "displayName": "2068-03-01"
+  },
+  {
+    "path": "2068_04_SSM_20680401.png",
+    "filename": "2068_04_SSM_20680401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2068_04_SSM_20680401.png",
+    "index": 517,
+    "date": "2068-04-01",
+    "displayName": "2068-04-01"
+  },
+  {
+    "path": "2068_05_SSM_20680501.png",
+    "filename": "2068_05_SSM_20680501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2068_05_SSM_20680501.png",
+    "index": 518,
+    "date": "2068-05-01",
+    "displayName": "2068-05-01"
+  },
+  {
+    "path": "2068_06_SSM_20680601.png",
+    "filename": "2068_06_SSM_20680601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2068_06_SSM_20680601.png",
+    "index": 519,
+    "date": "2068-06-01",
+    "displayName": "2068-06-01"
+  },
+  {
+    "path": "2068_07_SSM_20680701.png",
+    "filename": "2068_07_SSM_20680701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2068_07_SSM_20680701.png",
+    "index": 520,
+    "date": "2068-07-01",
+    "displayName": "2068-07-01"
+  },
+  {
+    "path": "2068_08_SSM_20680801.png",
+    "filename": "2068_08_SSM_20680801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2068_08_SSM_20680801.png",
+    "index": 521,
+    "date": "2068-08-01",
+    "displayName": "2068-08-01"
+  },
+  {
+    "path": "2068_09_SSM_20680901.png",
+    "filename": "2068_09_SSM_20680901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2068_09_SSM_20680901.png",
+    "index": 522,
+    "date": "2068-09-01",
+    "displayName": "2068-09-01"
+  },
+  {
+    "path": "2068_10_SSM_20681001.png",
+    "filename": "2068_10_SSM_20681001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2068_10_SSM_20681001.png",
+    "index": 523,
+    "date": "2068-10-01",
+    "displayName": "2068-10-01"
+  },
+  {
+    "path": "2068_11_SSM_20681101.png",
+    "filename": "2068_11_SSM_20681101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2068_11_SSM_20681101.png",
+    "index": 524,
+    "date": "2068-11-01",
+    "displayName": "2068-11-01"
+  },
+  {
+    "path": "2068_12_SSM_20681201.png",
+    "filename": "2068_12_SSM_20681201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2068_12_SSM_20681201.png",
+    "index": 525,
+    "date": "2068-12-01",
+    "displayName": "2068-12-01"
+  },
+  {
+    "path": "2069_01_SSM_20690101.png",
+    "filename": "2069_01_SSM_20690101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2069_01_SSM_20690101.png",
+    "index": 526,
+    "date": "2069-01-01",
+    "displayName": "2069-01-01"
+  },
+  {
+    "path": "2069_02_SSM_20690201.png",
+    "filename": "2069_02_SSM_20690201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2069_02_SSM_20690201.png",
+    "index": 527,
+    "date": "2069-02-01",
+    "displayName": "2069-02-01"
+  },
+  {
+    "path": "2069_03_SSM_20690301.png",
+    "filename": "2069_03_SSM_20690301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2069_03_SSM_20690301.png",
+    "index": 528,
+    "date": "2069-03-01",
+    "displayName": "2069-03-01"
+  },
+  {
+    "path": "2069_04_SSM_20690401.png",
+    "filename": "2069_04_SSM_20690401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2069_04_SSM_20690401.png",
+    "index": 529,
+    "date": "2069-04-01",
+    "displayName": "2069-04-01"
+  },
+  {
+    "path": "2069_05_SSM_20690501.png",
+    "filename": "2069_05_SSM_20690501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2069_05_SSM_20690501.png",
+    "index": 530,
+    "date": "2069-05-01",
+    "displayName": "2069-05-01"
+  },
+  {
+    "path": "2069_06_SSM_20690601.png",
+    "filename": "2069_06_SSM_20690601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2069_06_SSM_20690601.png",
+    "index": 531,
+    "date": "2069-06-01",
+    "displayName": "2069-06-01"
+  },
+  {
+    "path": "2069_07_SSM_20690701.png",
+    "filename": "2069_07_SSM_20690701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2069_07_SSM_20690701.png",
+    "index": 532,
+    "date": "2069-07-01",
+    "displayName": "2069-07-01"
+  },
+  {
+    "path": "2069_08_SSM_20690801.png",
+    "filename": "2069_08_SSM_20690801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2069_08_SSM_20690801.png",
+    "index": 533,
+    "date": "2069-08-01",
+    "displayName": "2069-08-01"
+  },
+  {
+    "path": "2069_09_SSM_20690901.png",
+    "filename": "2069_09_SSM_20690901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2069_09_SSM_20690901.png",
+    "index": 534,
+    "date": "2069-09-01",
+    "displayName": "2069-09-01"
+  },
+  {
+    "path": "2069_10_SSM_20691001.png",
+    "filename": "2069_10_SSM_20691001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2069_10_SSM_20691001.png",
+    "index": 535,
+    "date": "2069-10-01",
+    "displayName": "2069-10-01"
+  },
+  {
+    "path": "2069_11_SSM_20691101.png",
+    "filename": "2069_11_SSM_20691101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2069_11_SSM_20691101.png",
+    "index": 536,
+    "date": "2069-11-01",
+    "displayName": "2069-11-01"
+  },
+  {
+    "path": "2069_12_SSM_20691201.png",
+    "filename": "2069_12_SSM_20691201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2069_12_SSM_20691201.png",
+    "index": 537,
+    "date": "2069-12-01",
+    "displayName": "2069-12-01"
+  },
+  {
+    "path": "2070_01_SSM_20700101.png",
+    "filename": "2070_01_SSM_20700101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2070_01_SSM_20700101.png",
+    "index": 538,
+    "date": "2070-01-01",
+    "displayName": "2070-01-01"
+  },
+  {
+    "path": "2070_02_SSM_20700201.png",
+    "filename": "2070_02_SSM_20700201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2070_02_SSM_20700201.png",
+    "index": 539,
+    "date": "2070-02-01",
+    "displayName": "2070-02-01"
+  },
+  {
+    "path": "2070_03_SSM_20700301.png",
+    "filename": "2070_03_SSM_20700301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2070_03_SSM_20700301.png",
+    "index": 540,
+    "date": "2070-03-01",
+    "displayName": "2070-03-01"
+  },
+  {
+    "path": "2070_04_SSM_20700401.png",
+    "filename": "2070_04_SSM_20700401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2070_04_SSM_20700401.png",
+    "index": 541,
+    "date": "2070-04-01",
+    "displayName": "2070-04-01"
+  },
+  {
+    "path": "2070_05_SSM_20700501.png",
+    "filename": "2070_05_SSM_20700501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2070_05_SSM_20700501.png",
+    "index": 542,
+    "date": "2070-05-01",
+    "displayName": "2070-05-01"
+  },
+  {
+    "path": "2070_06_SSM_20700601.png",
+    "filename": "2070_06_SSM_20700601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2070_06_SSM_20700601.png",
+    "index": 543,
+    "date": "2070-06-01",
+    "displayName": "2070-06-01"
+  },
+  {
+    "path": "2070_07_SSM_20700701.png",
+    "filename": "2070_07_SSM_20700701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2070_07_SSM_20700701.png",
+    "index": 544,
+    "date": "2070-07-01",
+    "displayName": "2070-07-01"
+  },
+  {
+    "path": "2070_08_SSM_20700801.png",
+    "filename": "2070_08_SSM_20700801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2070_08_SSM_20700801.png",
+    "index": 545,
+    "date": "2070-08-01",
+    "displayName": "2070-08-01"
+  },
+  {
+    "path": "2070_09_SSM_20700901.png",
+    "filename": "2070_09_SSM_20700901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2070_09_SSM_20700901.png",
+    "index": 546,
+    "date": "2070-09-01",
+    "displayName": "2070-09-01"
+  },
+  {
+    "path": "2070_10_SSM_20701001.png",
+    "filename": "2070_10_SSM_20701001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2070_10_SSM_20701001.png",
+    "index": 547,
+    "date": "2070-10-01",
+    "displayName": "2070-10-01"
+  },
+  {
+    "path": "2070_11_SSM_20701101.png",
+    "filename": "2070_11_SSM_20701101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2070_11_SSM_20701101.png",
+    "index": 548,
+    "date": "2070-11-01",
+    "displayName": "2070-11-01"
+  },
+  {
+    "path": "2070_12_SSM_20701201.png",
+    "filename": "2070_12_SSM_20701201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2070_12_SSM_20701201.png",
+    "index": 549,
+    "date": "2070-12-01",
+    "displayName": "2070-12-01"
+  },
+  {
+    "path": "2071_01_SSM_20710101.png",
+    "filename": "2071_01_SSM_20710101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2071_01_SSM_20710101.png",
+    "index": 550,
+    "date": "2071-01-01",
+    "displayName": "2071-01-01"
+  },
+  {
+    "path": "2071_02_SSM_20710201.png",
+    "filename": "2071_02_SSM_20710201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2071_02_SSM_20710201.png",
+    "index": 551,
+    "date": "2071-02-01",
+    "displayName": "2071-02-01"
+  },
+  {
+    "path": "2071_03_SSM_20710301.png",
+    "filename": "2071_03_SSM_20710301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2071_03_SSM_20710301.png",
+    "index": 552,
+    "date": "2071-03-01",
+    "displayName": "2071-03-01"
+  },
+  {
+    "path": "2071_04_SSM_20710401.png",
+    "filename": "2071_04_SSM_20710401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2071_04_SSM_20710401.png",
+    "index": 553,
+    "date": "2071-04-01",
+    "displayName": "2071-04-01"
+  },
+  {
+    "path": "2071_05_SSM_20710501.png",
+    "filename": "2071_05_SSM_20710501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2071_05_SSM_20710501.png",
+    "index": 554,
+    "date": "2071-05-01",
+    "displayName": "2071-05-01"
+  },
+  {
+    "path": "2071_06_SSM_20710601.png",
+    "filename": "2071_06_SSM_20710601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2071_06_SSM_20710601.png",
+    "index": 555,
+    "date": "2071-06-01",
+    "displayName": "2071-06-01"
+  },
+  {
+    "path": "2071_07_SSM_20710701.png",
+    "filename": "2071_07_SSM_20710701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2071_07_SSM_20710701.png",
+    "index": 556,
+    "date": "2071-07-01",
+    "displayName": "2071-07-01"
+  },
+  {
+    "path": "2071_08_SSM_20710801.png",
+    "filename": "2071_08_SSM_20710801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2071_08_SSM_20710801.png",
+    "index": 557,
+    "date": "2071-08-01",
+    "displayName": "2071-08-01"
+  },
+  {
+    "path": "2071_09_SSM_20710901.png",
+    "filename": "2071_09_SSM_20710901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2071_09_SSM_20710901.png",
+    "index": 558,
+    "date": "2071-09-01",
+    "displayName": "2071-09-01"
+  },
+  {
+    "path": "2071_10_SSM_20711001.png",
+    "filename": "2071_10_SSM_20711001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2071_10_SSM_20711001.png",
+    "index": 559,
+    "date": "2071-10-01",
+    "displayName": "2071-10-01"
+  },
+  {
+    "path": "2071_11_SSM_20711101.png",
+    "filename": "2071_11_SSM_20711101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2071_11_SSM_20711101.png",
+    "index": 560,
+    "date": "2071-11-01",
+    "displayName": "2071-11-01"
+  },
+  {
+    "path": "2071_12_SSM_20711201.png",
+    "filename": "2071_12_SSM_20711201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2071_12_SSM_20711201.png",
+    "index": 561,
+    "date": "2071-12-01",
+    "displayName": "2071-12-01"
+  },
+  {
+    "path": "2072_01_SSM_20720101.png",
+    "filename": "2072_01_SSM_20720101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2072_01_SSM_20720101.png",
+    "index": 562,
+    "date": "2072-01-01",
+    "displayName": "2072-01-01"
+  },
+  {
+    "path": "2072_02_SSM_20720201.png",
+    "filename": "2072_02_SSM_20720201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2072_02_SSM_20720201.png",
+    "index": 563,
+    "date": "2072-02-01",
+    "displayName": "2072-02-01"
+  },
+  {
+    "path": "2072_03_SSM_20720301.png",
+    "filename": "2072_03_SSM_20720301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2072_03_SSM_20720301.png",
+    "index": 564,
+    "date": "2072-03-01",
+    "displayName": "2072-03-01"
+  },
+  {
+    "path": "2072_04_SSM_20720401.png",
+    "filename": "2072_04_SSM_20720401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2072_04_SSM_20720401.png",
+    "index": 565,
+    "date": "2072-04-01",
+    "displayName": "2072-04-01"
+  },
+  {
+    "path": "2072_05_SSM_20720501.png",
+    "filename": "2072_05_SSM_20720501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2072_05_SSM_20720501.png",
+    "index": 566,
+    "date": "2072-05-01",
+    "displayName": "2072-05-01"
+  },
+  {
+    "path": "2072_06_SSM_20720601.png",
+    "filename": "2072_06_SSM_20720601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2072_06_SSM_20720601.png",
+    "index": 567,
+    "date": "2072-06-01",
+    "displayName": "2072-06-01"
+  },
+  {
+    "path": "2072_07_SSM_20720701.png",
+    "filename": "2072_07_SSM_20720701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2072_07_SSM_20720701.png",
+    "index": 568,
+    "date": "2072-07-01",
+    "displayName": "2072-07-01"
+  },
+  {
+    "path": "2072_08_SSM_20720801.png",
+    "filename": "2072_08_SSM_20720801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2072_08_SSM_20720801.png",
+    "index": 569,
+    "date": "2072-08-01",
+    "displayName": "2072-08-01"
+  },
+  {
+    "path": "2072_09_SSM_20720901.png",
+    "filename": "2072_09_SSM_20720901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2072_09_SSM_20720901.png",
+    "index": 570,
+    "date": "2072-09-01",
+    "displayName": "2072-09-01"
+  },
+  {
+    "path": "2072_10_SSM_20721001.png",
+    "filename": "2072_10_SSM_20721001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2072_10_SSM_20721001.png",
+    "index": 571,
+    "date": "2072-10-01",
+    "displayName": "2072-10-01"
+  },
+  {
+    "path": "2072_11_SSM_20721101.png",
+    "filename": "2072_11_SSM_20721101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2072_11_SSM_20721101.png",
+    "index": 572,
+    "date": "2072-11-01",
+    "displayName": "2072-11-01"
+  },
+  {
+    "path": "2072_12_SSM_20721201.png",
+    "filename": "2072_12_SSM_20721201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2072_12_SSM_20721201.png",
+    "index": 573,
+    "date": "2072-12-01",
+    "displayName": "2072-12-01"
+  },
+  {
+    "path": "2073_01_SSM_20730101.png",
+    "filename": "2073_01_SSM_20730101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2073_01_SSM_20730101.png",
+    "index": 574,
+    "date": "2073-01-01",
+    "displayName": "2073-01-01"
+  },
+  {
+    "path": "2073_02_SSM_20730201.png",
+    "filename": "2073_02_SSM_20730201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2073_02_SSM_20730201.png",
+    "index": 575,
+    "date": "2073-02-01",
+    "displayName": "2073-02-01"
+  },
+  {
+    "path": "2073_03_SSM_20730301.png",
+    "filename": "2073_03_SSM_20730301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2073_03_SSM_20730301.png",
+    "index": 576,
+    "date": "2073-03-01",
+    "displayName": "2073-03-01"
+  },
+  {
+    "path": "2073_04_SSM_20730401.png",
+    "filename": "2073_04_SSM_20730401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2073_04_SSM_20730401.png",
+    "index": 577,
+    "date": "2073-04-01",
+    "displayName": "2073-04-01"
+  },
+  {
+    "path": "2073_05_SSM_20730501.png",
+    "filename": "2073_05_SSM_20730501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2073_05_SSM_20730501.png",
+    "index": 578,
+    "date": "2073-05-01",
+    "displayName": "2073-05-01"
+  },
+  {
+    "path": "2073_06_SSM_20730601.png",
+    "filename": "2073_06_SSM_20730601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2073_06_SSM_20730601.png",
+    "index": 579,
+    "date": "2073-06-01",
+    "displayName": "2073-06-01"
+  },
+  {
+    "path": "2073_07_SSM_20730701.png",
+    "filename": "2073_07_SSM_20730701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2073_07_SSM_20730701.png",
+    "index": 580,
+    "date": "2073-07-01",
+    "displayName": "2073-07-01"
+  },
+  {
+    "path": "2073_08_SSM_20730801.png",
+    "filename": "2073_08_SSM_20730801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2073_08_SSM_20730801.png",
+    "index": 581,
+    "date": "2073-08-01",
+    "displayName": "2073-08-01"
+  },
+  {
+    "path": "2073_09_SSM_20730901.png",
+    "filename": "2073_09_SSM_20730901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2073_09_SSM_20730901.png",
+    "index": 582,
+    "date": "2073-09-01",
+    "displayName": "2073-09-01"
+  },
+  {
+    "path": "2073_10_SSM_20731001.png",
+    "filename": "2073_10_SSM_20731001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2073_10_SSM_20731001.png",
+    "index": 583,
+    "date": "2073-10-01",
+    "displayName": "2073-10-01"
+  },
+  {
+    "path": "2073_11_SSM_20731101.png",
+    "filename": "2073_11_SSM_20731101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2073_11_SSM_20731101.png",
+    "index": 584,
+    "date": "2073-11-01",
+    "displayName": "2073-11-01"
+  },
+  {
+    "path": "2073_12_SSM_20731201.png",
+    "filename": "2073_12_SSM_20731201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2073_12_SSM_20731201.png",
+    "index": 585,
+    "date": "2073-12-01",
+    "displayName": "2073-12-01"
+  },
+  {
+    "path": "2074_01_SSM_20740101.png",
+    "filename": "2074_01_SSM_20740101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2074_01_SSM_20740101.png",
+    "index": 586,
+    "date": "2074-01-01",
+    "displayName": "2074-01-01"
+  },
+  {
+    "path": "2074_02_SSM_20740201.png",
+    "filename": "2074_02_SSM_20740201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2074_02_SSM_20740201.png",
+    "index": 587,
+    "date": "2074-02-01",
+    "displayName": "2074-02-01"
+  },
+  {
+    "path": "2074_03_SSM_20740301.png",
+    "filename": "2074_03_SSM_20740301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2074_03_SSM_20740301.png",
+    "index": 588,
+    "date": "2074-03-01",
+    "displayName": "2074-03-01"
+  },
+  {
+    "path": "2074_04_SSM_20740401.png",
+    "filename": "2074_04_SSM_20740401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2074_04_SSM_20740401.png",
+    "index": 589,
+    "date": "2074-04-01",
+    "displayName": "2074-04-01"
+  },
+  {
+    "path": "2074_05_SSM_20740501.png",
+    "filename": "2074_05_SSM_20740501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2074_05_SSM_20740501.png",
+    "index": 590,
+    "date": "2074-05-01",
+    "displayName": "2074-05-01"
+  },
+  {
+    "path": "2074_06_SSM_20740601.png",
+    "filename": "2074_06_SSM_20740601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2074_06_SSM_20740601.png",
+    "index": 591,
+    "date": "2074-06-01",
+    "displayName": "2074-06-01"
+  },
+  {
+    "path": "2074_07_SSM_20740701.png",
+    "filename": "2074_07_SSM_20740701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2074_07_SSM_20740701.png",
+    "index": 592,
+    "date": "2074-07-01",
+    "displayName": "2074-07-01"
+  },
+  {
+    "path": "2074_08_SSM_20740801.png",
+    "filename": "2074_08_SSM_20740801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2074_08_SSM_20740801.png",
+    "index": 593,
+    "date": "2074-08-01",
+    "displayName": "2074-08-01"
+  },
+  {
+    "path": "2074_09_SSM_20740901.png",
+    "filename": "2074_09_SSM_20740901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2074_09_SSM_20740901.png",
+    "index": 594,
+    "date": "2074-09-01",
+    "displayName": "2074-09-01"
+  },
+  {
+    "path": "2074_10_SSM_20741001.png",
+    "filename": "2074_10_SSM_20741001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2074_10_SSM_20741001.png",
+    "index": 595,
+    "date": "2074-10-01",
+    "displayName": "2074-10-01"
+  },
+  {
+    "path": "2074_11_SSM_20741101.png",
+    "filename": "2074_11_SSM_20741101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2074_11_SSM_20741101.png",
+    "index": 596,
+    "date": "2074-11-01",
+    "displayName": "2074-11-01"
+  },
+  {
+    "path": "2074_12_SSM_20741201.png",
+    "filename": "2074_12_SSM_20741201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2074_12_SSM_20741201.png",
+    "index": 597,
+    "date": "2074-12-01",
+    "displayName": "2074-12-01"
+  },
+  {
+    "path": "2075_01_SSM_20750101.png",
+    "filename": "2075_01_SSM_20750101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2075_01_SSM_20750101.png",
+    "index": 598,
+    "date": "2075-01-01",
+    "displayName": "2075-01-01"
+  },
+  {
+    "path": "2075_02_SSM_20750201.png",
+    "filename": "2075_02_SSM_20750201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2075_02_SSM_20750201.png",
+    "index": 599,
+    "date": "2075-02-01",
+    "displayName": "2075-02-01"
+  },
+  {
+    "path": "2075_03_SSM_20750301.png",
+    "filename": "2075_03_SSM_20750301.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2075_03_SSM_20750301.png",
+    "index": 600,
+    "date": "2075-03-01",
+    "displayName": "2075-03-01"
+  },
+  {
+    "path": "2075_04_SSM_20750401.png",
+    "filename": "2075_04_SSM_20750401.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2075_04_SSM_20750401.png",
+    "index": 601,
+    "date": "2075-04-01",
+    "displayName": "2075-04-01"
+  },
+  {
+    "path": "2075_05_SSM_20750501.png",
+    "filename": "2075_05_SSM_20750501.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2075_05_SSM_20750501.png",
+    "index": 602,
+    "date": "2075-05-01",
+    "displayName": "2075-05-01"
+  },
+  {
+    "path": "2075_06_SSM_20750601.png",
+    "filename": "2075_06_SSM_20750601.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2075_06_SSM_20750601.png",
+    "index": 603,
+    "date": "2075-06-01",
+    "displayName": "2075-06-01"
+  },
+  {
+    "path": "2075_07_SSM_20750701.png",
+    "filename": "2075_07_SSM_20750701.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2075_07_SSM_20750701.png",
+    "index": 604,
+    "date": "2075-07-01",
+    "displayName": "2075-07-01"
+  },
+  {
+    "path": "2075_08_SSM_20750801.png",
+    "filename": "2075_08_SSM_20750801.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2075_08_SSM_20750801.png",
+    "index": 605,
+    "date": "2075-08-01",
+    "displayName": "2075-08-01"
+  },
+  {
+    "path": "2075_09_SSM_20750901.png",
+    "filename": "2075_09_SSM_20750901.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2075_09_SSM_20750901.png",
+    "index": 606,
+    "date": "2075-09-01",
+    "displayName": "2075-09-01"
+  },
+  {
+    "path": "2075_10_SSM_20751001.png",
+    "filename": "2075_10_SSM_20751001.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2075_10_SSM_20751001.png",
+    "index": 607,
+    "date": "2075-10-01",
+    "displayName": "2075-10-01"
+  },
+  {
+    "path": "2075_11_SSM_20751101.png",
+    "filename": "2075_11_SSM_20751101.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2075_11_SSM_20751101.png",
+    "index": 608,
+    "date": "2075-11-01",
+    "displayName": "2075-11-01"
+  },
+  {
+    "path": "2075_12_SSM_20751201.png",
+    "filename": "2075_12_SSM_20751201.png",
+    "fullPath": "D:\\restore\\water-melt\\frontend\\src\\assets\\water\\photos\\2075_12_SSM_20751201.png",
+    "index": 609,
+    "date": "2075-12-01",
+    "displayName": "2075-12-01"
+  }
+]

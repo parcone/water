@@ -1,0 +1,19 @@
+{
+  "name": "water-melt",
+  "version": "1.0.0",
+  "description": "Water Melt Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "numeral": "^2.0.6",
+    "sharp": "^0.34.3"
+  },
+  "dependencies": {
+    "vue-virt-list": "^1.5.11"
+  }
+}
