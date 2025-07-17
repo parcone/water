@@ -1,38 +1,76 @@
-// 响应式断点混入
+@import './variables.scss';
+
+// 响应式混合函数
 @mixin respond-to($breakpoint) {
   @if $breakpoint == xs {
-    @media screen and (max-width: $screen-xs) {
+    @media (max-width: $screen-xs) {
       @content;
     }
   }
   @else if $breakpoint == sm {
-    @media screen and (max-width: $screen-sm) {
+    @media (max-width: $screen-sm) {
       @content;
     }
   }
   @else if $breakpoint == md {
-    @media screen and (max-width: $screen-md) {
+    @media (max-width: $screen-md) {
       @content;
     }
   }
   @else if $breakpoint == lg {
-    @media screen and (max-width: $screen-lg) {
+    @media (max-width: $screen-lg) {
       @content;
     }
   }
   @else if $breakpoint == xl {
-    @media screen and (max-width: $screen-xl) {
+    @media (max-width: $screen-xl) {
       @content;
     }
   }
   @else if $breakpoint == xxl {
-    @media screen and (max-width: $screen-xxl) {
+    @media (max-width: $screen-xxl) {
       @content;
     }
   }
 }
 
-// 弹性布局混入
+// 响应式最小宽度
+@mixin respond-above($breakpoint) {
+  @if $breakpoint == xs {
+    @media (min-width: $screen-xs + 1) {
+      @content;
+    }
+  }
+  @else if $breakpoint == sm {
+    @media (min-width: $screen-sm + 1) {
+      @content;
+    }
+  }
+  @else if $breakpoint == md {
+    @media (min-width: $screen-md + 1) {
+      @content;
+    }
+  }
+  @else if $breakpoint == lg {
+    @media (min-width: $screen-lg + 1) {
+      @content;
+    }
+  }
+  @else if $breakpoint == xl {
+    @media (min-width: $screen-xl + 1) {
+      @content;
+    }
+  }
+}
+
+// 响应式范围
+@mixin respond-between($min, $max) {
+  @media (min-width: $min) and (max-width: $max) {
+    @content;
+  }
+}
+
+// Flexbox 布局
 @mixin flex($direction: row, $justify: flex-start, $align: stretch, $wrap: nowrap) {
   display: flex;
   flex-direction: $direction;
@@ -41,197 +79,492 @@
   flex-wrap: $wrap;
 }
 
-// 网格布局混入
-@mixin grid($columns: 1, $gap: $spacing-md) {
+// 绝对居中
+@mixin absolute-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+// Flex 居中
+@mixin flex-center {
+  @include flex(row, center, center);
+}
+
+// 网格布局
+@mixin grid($columns, $gap: $grid-gutter) {
   display: grid;
   grid-template-columns: repeat($columns, 1fr);
   gap: $gap;
 }
 
-// 响应式网格混入
-@mixin responsive-grid($min-width: 250px, $gap: $spacing-md) {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax($min-width, 1fr));
-  gap: $gap;
+// 响应式网格
+@mixin responsive-grid($mobile: 1, $tablet: 2, $desktop: 3) {
+  @include grid($mobile);
+  
+  @include respond-above(sm) {
+    grid-template-columns: repeat($tablet, 1fr);
+  }
+  
+  @include respond-above(lg) {
+    grid-template-columns: repeat($desktop, 1fr);
+  }
 }
 
-// 文本截断混入
+// 阴影效果
+@mixin elevation($level) {
+  @if $level == 0 {
+    box-shadow: none;
+  }
+  @else if $level == 1 {
+    box-shadow: $shadow-1;
+  }
+  @else if $level == 2 {
+    box-shadow: $shadow-2;
+  }
+  @else if $level == 3 {
+    box-shadow: $shadow-3;
+  }
+  @else if $level == 4 {
+    box-shadow: $shadow-4;
+  }
+}
+
+// 过渡动画
+@mixin transition($properties...) {
+  $transitions: ();
+  
+  @each $prop in $properties {
+    $transitions: append($transitions, #{$prop} $animation-duration-base $ease-out, comma);
+  }
+  
+  transition: $transitions;
+}
+
+// 快速过渡
+@mixin transition-fast($properties...) {
+  $transitions: ();
+  
+  @each $prop in $properties {
+    $transitions: append($transitions, #{$prop} $animation-duration-fast $ease-out, comma);
+  }
+  
+  transition: $transitions;
+}
+
+// 慢速过渡
+@mixin transition-slow($properties...) {
+  $transitions: ();
+  
+  @each $prop in $properties {
+    $transitions: append($transitions, #{$prop} $animation-duration-slow $ease-out, comma);
+  }
+  
+  transition: $transitions;
+}
+
+// 文本截断
 @mixin text-truncate($lines: 1) {
   @if $lines == 1 {
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
-  } @else {
+  }
+  @else {
     display: -webkit-box;
     -webkit-line-clamp: $lines;
     -webkit-box-orient: vertical;
     overflow: hidden;
+    word-break: break-word;
   }
 }
 
-// 滚动条样式混入
-@mixin scrollbar($width: 6px, $thumb-color: rgba(0, 0, 0, 0.3), $track-color: transparent) {
+// 清除浮动
+@mixin clearfix {
+  &::after {
+    content: '';
+    display: table;
+    clear: both;
+  }
+}
+
+// 隐藏滚动条
+@mixin hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+// 自定义滚动条
+@mixin custom-scrollbar($width: 6px, $thumb-color: rgba(0, 0, 0, 0.2), $track-color: transparent) {
   &::-webkit-scrollbar {
     width: $width;
+    height: $width;
   }
-
+  
   &::-webkit-scrollbar-thumb {
     background: $thumb-color;
-    border-radius: $width / 2;
+    border-radius: calc(#{$width} / 2);
+    
+    &:hover {
+      background: rgba(0, 0, 0, 0.3);
+    }
   }
-
+  
   &::-webkit-scrollbar-track {
     background: $track-color;
   }
 }
 
-// 阴影混入
-@mixin elevation($level: 1) {
-  @if $level == 1 {
-    box-shadow: $shadow-1;
-  } @else if $level == 2 {
-    box-shadow: $shadow-2;
-  } @else if $level == 3 {
-    box-shadow: $shadow-3;
-  }
-}
-
-// 渐变背景混入
-@mixin gradient($direction: 135deg, $start-color: $primary-color, $end-color: darken($primary-color, 15%)) {
-  background: linear-gradient($direction, $start-color, $end-color);
-}
-
-// 毛玻璃效果混入
-@mixin glassmorphism($bg-color: rgba(255, 255, 255, 0.1), $blur: 10px) {
-  background: $bg-color;
+// 毛玻璃效果
+@mixin glassmorphism($opacity: 0.8, $blur: 20px) {
+  background: rgba(255, 255, 255, $opacity);
   backdrop-filter: blur($blur);
-  -webkit-backdrop-filter: blur($blur);
+  border: 1px solid rgba(255, 255, 255, 0.2);
 }
 
-// 动画过渡混入
-@mixin transition($properties...) {
-  $transitions: ();
-  @each $property in $properties {
-    $transitions: append($transitions, $property $animation-duration-base ease, comma);
+// 渐变背景
+@mixin gradient-bg($angle: 135deg, $color1: $primary-color, $color2: $primary-hover) {
+  background: linear-gradient($angle, $color1, $color2);
+}
+
+// 响应式字体大小
+@mixin responsive-font($min-size: 14px, $max-size: 18px, $min-screen: $screen-sm, $max-screen: $screen-xl) {
+  font-size: $min-size;
+  
+  @media (min-width: #{$min-screen}) {
+    font-size: calc(#{$min-size} + (#{strip-unit($max-size)} - #{strip-unit($min-size)}) * ((100vw - #{$min-screen}) / (#{strip-unit($max-screen)} - #{strip-unit($min-screen)})));
   }
-  transition: $transitions;
-}
-
-// 响应式字体大小混入
-@mixin responsive-font($min-size: $font-size-base, $max-size: $font-size-lg, $min-width: $screen-xs, $max-width: $screen-xl) {
-  font-size: clamp($min-size, calc(#{$min-size} + (#{strip-unit($max-size)} - #{strip-unit($min-size)}) * ((100vw - #{$min-width}) / (#{strip-unit($max-width)} - #{strip-unit($min-width)}))), $max-size);
-}
-
-// 辅助函数：移除单位
-@function strip-unit($number) {
-  @if type-of($number) == 'number' and not unitless($number) {
-    @return $number / ($number * 0 + 1);
+  
+  @media (min-width: #{$max-screen}) {
+    font-size: $max-size;
   }
-  @return $number;
 }
 
-// 响应式容器混入
-@mixin container($padding: $spacing-md) {
+// 移除单位
+@function strip-unit($value) {
+  @return $value / ($value * 0 + 1);
+}
+
+// 按钮样式
+@mixin button-style($bg-color, $text-color: white, $hover-color: null, $active-color: null) {
+  $hover-color: if($hover-color, $hover-color, lighten($bg-color, 10%));
+  $active-color: if($active-color, $active-color, darken($bg-color, 10%));
+  
+  background: $bg-color;
+  color: $text-color;
+  border: none;
+  border-radius: $btn-border-radius;
+  padding: $spacing-sm $spacing-lg;
+  font-weight: $font-weight-medium;
+  cursor: pointer;
+  @include transition(background-color, transform, box-shadow);
+  
+  &:hover {
+    background: $hover-color;
+    transform: translateY(-2px);
+    box-shadow: $shadow-hover;
+  }
+  
+  &:active {
+    background: $active-color;
+    transform: translateY(0);
+  }
+  
+  &:disabled {
+    background: $text-disabled;
+    cursor: not-allowed;
+    transform: none;
+    box-shadow: none;
+  }
+}
+
+// 输入框样式
+@mixin input-style {
   width: 100%;
-  max-width: $screen-xl;
-  margin: 0 auto;
-  padding: 0 $padding;
-
-  @include respond-to(lg) {
-    max-width: $screen-lg;
+  padding: $spacing-sm $spacing-md;
+  border: 1px solid $border-color;
+  border-radius: $input-border-radius;
+  font-size: $font-size-base;
+  @include transition(border-color, box-shadow);
+  
+  &:focus {
+    outline: none;
+    border-color: $primary-color;
+    box-shadow: 0 0 0 2px rgba($primary-color, 0.2);
   }
-
-  @include respond-to(md) {
-    max-width: $screen-md;
+  
+  &:disabled {
+    background: $background-lighter;
+    color: $text-disabled;
+    cursor: not-allowed;
   }
-
-  @include respond-to(sm) {
-    max-width: 100%;
-    padding: 0 $spacing-sm;
-  }
-}
-
-// 响应式栅格混入
-@mixin make-grid-columns($columns: $grid-columns, $gutter: $grid-gutter) {
-  display: grid;
-  grid-template-columns: repeat($columns, 1fr);
-  gap: $gutter;
-
-  @include respond-to(lg) {
-    grid-template-columns: repeat(floor($columns * 0.75), 1fr);
-  }
-
-  @include respond-to(md) {
-    grid-template-columns: repeat(floor($columns * 0.5), 1fr);
-  }
-
-  @include respond-to(sm) {
-    grid-template-columns: repeat(floor($columns * 0.25), 1fr);
-  }
-
-  @include respond-to(xs) {
-    grid-template-columns: 1fr;
+  
+  &::placeholder {
+    color: $text-tertiary;
   }
 }
 
-// 响应式间距混入
-@mixin responsive-spacing($property, $space) {
-  #{$property}: $space;
+// 卡片样式
+@mixin card-style($padding: $card-padding-base, $shadow: $card-shadow) {
+  background: $background-base;
+  border-radius: $card-radius;
+  box-shadow: $shadow;
+  border: 1px solid $border-color-light;
+  padding: $padding;
+  @include transition(box-shadow, transform);
+  
+  &:hover {
+    box-shadow: $card-shadow-hover;
+    transform: translateY(-2px);
+  }
+}
 
-  @if type-of($space) == "list" {
-    @include respond-to(lg) {
-      $new-space: ();
-      @each $value in $space {
-        $new-space: append($new-space, if(type-of($value) == "number", $value * 0.9, $value));
-      }
-      #{$property}: $new-space;
-    }
+// 标签样式
+@mixin tag-style($bg-color, $text-color: null) {
+  $text-color: if($text-color, $text-color, contrast-color($bg-color));
+  
+  display: inline-flex;
+  align-items: center;
+  padding: $spacing-xs $spacing-sm;
+  background: $bg-color;
+  color: $text-color;
+  border-radius: $border-radius-pill;
+  font-size: $font-size-sm;
+  font-weight: $font-weight-medium;
+  line-height: 1;
+}
 
-    @include respond-to(md) {
-      $new-space: ();
-      @each $value in $space {
-        $new-space: append($new-space, if(type-of($value) == "number", $value * 0.8, $value));
-      }
-      #{$property}: $new-space;
-    }
-
-    @include respond-to(sm) {
-      $new-space: ();
-      @each $value in $space {
-        $new-space: append($new-space, if(type-of($value) == "number", $value * 0.7, $value));
-      }
-      #{$property}: $new-space;
-    }
-
-    @include respond-to(xs) {
-      $new-space: ();
-      @each $value in $space {
-        $new-space: append($new-space, if(type-of($value) == "number", $value * 0.6, $value));
-      }
-      #{$property}: $new-space;
-    }
+// 对比色计算
+@function contrast-color($color) {
+  @if lightness($color) > 50% {
+    @return #000;
   } @else {
-    @include respond-to(lg) {
-      #{$property}: if(type-of($space) == "number", $space * 0.9, $space);
-    }
+    @return #fff;
+  }
+}
 
-    @include respond-to(md) {
-      #{$property}: if(type-of($space) == "number", $space * 0.8, $space);
-    }
+// 加载动画
+@mixin loading-spinner($size: 24px, $color: $primary-color) {
+  width: $size;
+  height: $size;
+  border: 2px solid rgba($color, 0.3);
+  border-top: 2px solid $color;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
 
-    @include respond-to(sm) {
-      #{$property}: if(type-of($space) == "number", $space * 0.7, $space);
+// 脉冲动画
+@mixin pulse-animation($color: $primary-color) {
+  animation: pulse 2s infinite;
+  
+  @keyframes pulse {
+    0% {
+      box-shadow: 0 0 0 0 rgba($color, 0.7);
     }
-
-    @include respond-to(xs) {
-      #{$property}: if(type-of($space) == "number", $space * 0.6, $space);
+    70% {
+      box-shadow: 0 0 0 10px rgba($color, 0);
+    }
+    100% {
+      box-shadow: 0 0 0 0 rgba($color, 0);
     }
   }
 }
 
-// 响应式图片混入
-@mixin responsive-image($fit: cover) {
-  width: 100%;
-  height: 100%;
-  object-fit: $fit;
+// 淡入动画
+@mixin fade-in($duration: $animation-duration-base) {
+  animation: fadeIn $duration $ease-out;
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+}
+
+// 滑入动画
+@mixin slide-in($direction: 'up', $distance: 20px, $duration: $animation-duration-base) {
+  animation: slideIn#{capitalize($direction)} $duration $ease-out;
+  
+  @if $direction == 'up' {
+    @keyframes slideInUp {
+      from {
+        transform: translateY($distance);
+        opacity: 0;
+      }
+      to {
+        transform: translateY(0);
+        opacity: 1;
+      }
+    }
+  }
+  @else if $direction == 'down' {
+    @keyframes slideInDown {
+      from {
+        transform: translateY(-$distance);
+        opacity: 0;
+      }
+      to {
+        transform: translateY(0);
+        opacity: 1;
+      }
+    }
+  }
+  @else if $direction == 'left' {
+    @keyframes slideInLeft {
+      from {
+        transform: translateX(-$distance);
+        opacity: 0;
+      }
+      to {
+        transform: translateX(0);
+        opacity: 1;
+      }
+    }
+  }
+  @else if $direction == 'right' {
+    @keyframes slideInRight {
+      from {
+        transform: translateX($distance);
+        opacity: 0;
+      }
+      to {
+        transform: translateX(0);
+        opacity: 1;
+      }
+    }
+  }
+}
+
+// 首字母大写
+@function capitalize($string) {
+  @return to-upper-case(str-slice($string, 1, 1)) + str-slice($string, 2);
+}
+
+// 状态色彩
+@mixin status-color($status) {
+  @if $status == 'success' {
+    color: $success-color;
+  }
+  @else if $status == 'warning' {
+    color: $warning-color;
+  }
+  @else if $status == 'error' {
+    color: $error-color;
+  }
+  @else if $status == 'info' {
+    color: $info-color;
+  }
+  @else {
+    color: $text-primary;
+  }
+}
+
+// 状态背景
+@mixin status-background($status, $opacity: 0.1) {
+  @if $status == 'success' {
+    background: rgba($success-color, $opacity);
+  }
+  @else if $status == 'warning' {
+    background: rgba($warning-color, $opacity);
+  }
+  @else if $status == 'error' {
+    background: rgba($error-color, $opacity);
+  }
+  @else if $status == 'info' {
+    background: rgba($info-color, $opacity);
+  }
+  @else {
+    background: rgba($text-primary, $opacity);
+  }
+}
+
+// 可点击样式
+@mixin clickable {
+  cursor: pointer;
+  user-select: none;
+  @include transition(transform, opacity);
+  
+  &:hover {
+    transform: translateY(-2px);
+  }
+  
+  &:active {
+    transform: translateY(0);
+    opacity: 0.8;
+  }
+}
+
+// 不可选择
+@mixin unselectable {
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+// 容器样式
+@mixin container($max-width: 1200px, $padding: $spacing-lg) {
+  max-width: $max-width;
+  margin: 0 auto;
+  padding-left: $padding;
+  padding-right: $padding;
+  
+  @include respond-to(md) {
+    padding-left: $spacing-md;
+    padding-right: $spacing-md;
+  }
+  
+  @include respond-to(sm) {
+    padding-left: $spacing-sm;
+    padding-right: $spacing-sm;
+  }
+}
+
+// 网格容器
+@mixin row($gutter: $grid-gutter) {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -($gutter / 2);
+  margin-right: -($gutter / 2);
+}
+
+// 网格列
+@mixin col($width: 100%, $gutter: $grid-gutter) {
+  flex: 0 0 $width;
+  max-width: $width;
+  padding-left: $gutter / 2;
+  padding-right: $gutter / 2;
+}
+
+// 响应式间距
+@mixin responsive-spacing($property, $values) {
+  @if length($values) == 1 {
+    #{$property}: nth($values, 1);
+  }
+  @else if length($values) == 2 {
+    #{$property}: nth($values, 1);
+    
+    @include respond-to(md) {
+      #{$property}: nth($values, 2);
+    }
+  }
+  @else if length($values) == 3 {
+    #{$property}: nth($values, 1);
+    
+    @include respond-to(md) {
+      #{$property}: nth($values, 2);
+    }
+    
+    @include respond-to(sm) {
+      #{$property}: nth($values, 3);
+    }
+  }
 } 
